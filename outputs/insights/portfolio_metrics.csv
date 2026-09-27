@@ -1,0 +1,12 @@
+Metric,Value
+Crops analyzed,10
+Monthly crop observations,1210
+Historical start,2015-01-01 00:00:00
+Historical end,2025-12-01 00:00:00
+Best forecasting model,Extra_Trees
+Test observations,243
+Average crop MAE,78.73580833714354
+Average crop RMSE,100.46023901946415
+Average crop MAPE,1.987230796702084
+Average crop SMAPE,1.9698615707135825
+Average crop R2,0.8725766395799742

@@ -1,0 +1,21 @@
+Date,Crop,State,Market,Variety,Grade,Minimum Price,Maximum Price,Modal Price
+2016-06-01,Wheat,Uttar Pradesh,Safdarganj APMC,Dara,FAQ,1.0,1.0,1.0
+2018-05-08,Rice,Keralam,Perinthalmanna Market,Other,FAQ,2.0,3.0,2.0
+2018-04-01,Rice,Odisha,Nilagiri APMC,Other,FAQ,2.0,2.0,2.0
+2018-09-01,Rice,Tripura,Chowmanu APMC,Sona Mansoori Non Basmati,FAQ,3.0,3.0,3.0
+2016-12-01,Groundnut,Gujarat,Thara APMC,Balli/Habbu,FAQ,4.0,42.0,4.0
+2018-03-01,Potato,Punjab,Khamano APMC,Potato,FAQ,5.0,5.0,5.0
+2016-08-01,Onion,Maharashtra,APMC Vita ,Other,FAQ,6.0,8.0,7.0
+2016-08-08,Onion,Maharashtra,APMC Vita ,Other,FAQ,6.0,10.0,8.0
+2025-02-01,Banana,Keralam,Venmony  VFPCK Market,Palayamthodan,Large,5.0,15.0,8.0
+2018-04-01,Potato,Odisha,Nilagiri APMC,Other,FAQ,8.0,10.0,9.0
+2017-08-01,Potato,Telangana,Shankarapally APMC,Potato,Medium,10.0,10.0,10.0
+2017-04-01,Onion,Telangana,Shankarapally APMC,Onion,Medium,10.0,10.0,10.0
+2018-06-01,Onion,Odisha,Nilagiri APMC,Other,FAQ,11.0,12.0,12.0
+2025-07-08,Banana,Keralam,Venmony  VFPCK Market,Palayamthodan,Large,8.0,20.0,13.0
+2015-07-01,Potato,Telangana,RYTHU BAZAR ERRAGADDA,Potato,Medium,10.0,16.0,13.0
+2015-09-01,Potato,Telangana,RYTHU BAZAR ERRAGADDA,Potato,Medium,11.0,18.0,14.0
+2015-08-01,Potato,Telangana,RYTHU BAZAR ERRAGADDA,Potato,Medium,11.0,18.0,14.0
+2025-08-01,Banana,Keralam,Thamarakkulam VFPCK Market,Palayamthodan,Large,10.0,22.0,15.0
+2017-08-01,Wheat,Uttar Pradesh,Moth APMC,Dara,FAQ,15.0,1520.0,15.0
+2024-03-01,Onion,Bihar,Kochas (Balthari) APMC,Medium,FAQ,14.0,16.0,15.0

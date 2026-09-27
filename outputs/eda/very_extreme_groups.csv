@@ -1,0 +1,11 @@
+Crop,State,Market,Variety,Grade,Observations,Maximum_Price,Median_Price,First_Date,Last_Date
+Banana,Himachal Pradesh,PMY Paonta Sahib,Other,Medium,4,500000.0,390000.0,2022-02-01,2023-06-08
+Banana,Himachal Pradesh,PMY Paonta Sahib,Other,Large,1,350000.0,350000.0,2023-06-01,2023-06-01
+Rice,Tamil Nadu,Boothapadi APMC,Ponni,FAQ,1,210000.0,210000.0,2016-08-08,2016-08-08
+Rice,Tamil Nadu,Boothapadi APMC,ADT 39,FAQ,1,200000.0,200000.0,2016-08-08,2016-08-08
+Banana,Keralam,Omalloor Market,Other,Large,1,78000.0,78000.0,2025-05-01,2025-05-01
+Onion,Keralam,Kollengode Market,Small,FAQ,1,72000.0,72000.0,2022-12-01,2022-12-01
+Banana,Keralam,Kollengode Market,Nendra Bale,Large,4,55000.0,53500.0,2022-06-01,2023-02-01
+Onion,Keralam,Pothencode Market,Other,FAQ,2,52040.0,52040.0,2025-02-01,2025-03-01
+Banana,Keralam,Kollengode Market,Poovan,Large,5,52000.0,52000.0,2022-07-01,2023-03-08
+Potato,Meghalaya,Sohra APMC,Other,FAQ,1,50000.0,50000.0,2022-10-01,2022-10-01

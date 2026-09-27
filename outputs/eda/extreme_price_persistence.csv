@@ -1,0 +1,312 @@
+Crop,State,Market,Variety,Grade,Extreme_Observations,Maximum_Price,Median_Price,First_Date,Last_Date
+Groundnut,Tamil Nadu,Vellore APMC,Other,FAQ,35,12000.0,10450.0,2021-03-01,2023-12-08
+Groundnut,West Bengal,Gajol APMC,F.A.Q,FAQ,19,11550.0,11300.0,2023-10-08,2024-11-08
+Potato,Keralam,Pothencode Market,Other,FAQ,18,36040.0,20290.0,2023-02-01,2025-04-01
+Banana,Tamil Nadu,Palayamkottai(Uzhavar Sandhai ),Besrai,Local,18,13000.0,10000.0,2024-08-01,2025-07-08
+Banana,Tamil Nadu,Ranipettai(Uzhavar Sandhai ),Besrai,Local,17,12000.0,10000.0,2024-09-08,2025-07-08
+Banana,Tamil Nadu,Melapalayam(Uzhavar Sandhai ),Besrai,Local,16,13000.0,11000.0,2024-09-08,2025-06-08
+Onion,Keralam,Pothencode Market,Other,FAQ,15,52040.0,25540.0,2023-07-01,2025-04-01
+Groundnut,Tamil Nadu,Thirukovilur APMC,Other,FAQ,15,11986.0,10511.0,2022-03-08,2024-03-08
+Groundnut,Tamil Nadu,Kallakurichi APMC,Other,FAQ,14,11174.0,10505.5,2019-08-08,2024-04-01
+Groundnut,Tamil Nadu,Avalurpet APMC,Other,FAQ,13,11228.0,10528.0,2023-02-01,2024-02-08
+Banana,Keralam,Kollengode Market,Nendra Bale,Large,12,55000.0,44500.0,2022-02-01,2023-03-08
+Banana,Keralam,Kollengode Market,Poovan,Large,12,52000.0,45000.0,2022-02-01,2023-03-08
+Banana,Keralam,Kollengode Market,Palayamthodan,Large,12,32000.0,26000.0,2022-02-01,2023-03-08
+Banana,Tamil Nadu,NGO Colony(Uzhavar Sandhai ),Besrai,Local,12,12000.0,10000.0,2025-01-08,2025-07-08
+Rice,West Bengal,Kalimpong APMC,Other,FAQ,11,28000.0,19000.0,2022-02-01,2022-10-01
+Rice,Keralam,Aroor Market,Basmati,FAQ,11,11300.0,11200.0,2019-11-08,2021-06-08
+Lentil,Manipur,Thoubal APMC,Other,FAQ,10,12500.0,11500.0,2015-07-01,2016-11-08
+Lentil,Manipur,Imphal APMC,Other,FAQ,10,11500.0,11000.0,2015-06-01,2016-11-08
+Banana,Keralam,Mattathur VFPCK Market,Rasakathai,Medium,9,14000.0,12000.0,2022-07-08,2024-02-08
+Banana,Tamil Nadu,Tiruvarur(Uzhavar Sandhai ),Besrai,Local,9,10000.0,10000.0,2025-03-01,2025-07-01
+Cotton,Gujarat,Rajkot APMC,Narma BT Cotton,FAQ,8,11850.0,10625.0,2022-02-01,2022-09-08
+Onion,Keralam,Kollengode Market,Small,FAQ,7,72000.0,35000.0,2017-07-01,2022-12-01
+Banana,Nagaland,Tuli APMC,Other,Medium,7,17875.0,11220.0,2022-08-01,2023-09-08
+Lentil,Manipur,Bishenpur APMC,Other,FAQ,7,12500.0,12500.0,2015-10-01,2016-11-08
+Cotton,Rajasthan,Goluwala APMC,American,FAQ,7,12025.0,10350.0,2022-02-01,2022-05-08
+Groundnut,Tamil Nadu,Andimadom APMC,Other,FAQ,7,11065.0,10811.0,2023-08-01,2024-02-01
+Lentil,West Bengal,Medinipur(West) APMC,Masur Dal,FAQ,7,10900.0,10600.0,2015-12-01,2016-11-08
+Groundnut,Tamil Nadu,Cheyyar APMC,Other,FAQ,7,10899.0,10736.0,2023-03-01,2023-12-08
+Onion,Keralam,Kollengode Market,Big,FAQ,6,35000.0,31000.0,2022-02-08,2022-12-01
+Cotton,Maharashtra,APMC  Chimur,Other,FAQ,6,12400.0,10885.0,2022-02-01,2022-04-08
+Cotton,Rajasthan,Hanumangarh APMC,Desi,FAQ,6,11850.0,10050.5,2022-02-01,2022-04-08
+Onion,Keralam,Kanjirappally Market,Onion,FAQ,6,11800.0,11800.0,2017-07-01,2023-12-01
+Groundnut,Tamil Nadu,Vellore APMC,Bold Kernel,FAQ,6,11350.0,11000.0,2024-01-08,2024-04-08
+Cotton,Gujarat,The Agricultural Produce Market Committee-Amreli,Other,FAQ,6,10950.0,10800.0,2022-06-01,2022-09-08
+Lentil,Assam,P.O. Uparhali Guwahati APMC,Masur Dal,FAQ,6,10250.0,10175.0,2015-09-01,2016-03-01
+Potato,Keralam,Kollengode Market,Other,FAQ,5,42000.0,32000.0,2022-06-01,2023-03-01
+Onion,Keralam,Palakkad Market,Small,FAQ,5,14100.0,10600.0,2017-06-01,2023-07-01
+Groundnut,Madhya Pradesh,Bhopal APMC,Groundnut seed,FAQ,5,12983.0,12363.0,2025-06-01,2025-12-01
+Cotton,Gujarat,Bodeliu APMC,Shanker 6 (B) 30mm FIne,FAQ,5,12500.0,10000.0,2022-03-01,2022-06-01
+Cotton,Maharashtra,APMC Parbhani ,Other,FAQ,5,12100.0,10280.0,2022-02-01,2022-04-08
+Cotton,Rajasthan,Rawatsar APMC,American,FAQ,5,12100.0,10050.0,2022-02-01,2022-06-01
+Cotton,Rajasthan,Hanumangarh Town APMC,American,FAQ,5,11800.0,11321.0,2022-03-08,2022-09-08
+Lentil,Manipur,Lamlong Bazaar APMC,Other,FAQ,5,11600.0,11500.0,2015-10-01,2016-06-01
+Onion,Keralam,Madhavapuram Market,Other,FAQ,5,11500.0,11000.0,2019-12-08,2021-03-08
+Cotton,Haryana,Ellanabad APMC,American,FAQ,5,11431.0,11187.0,2022-02-01,2022-09-08
+Cotton,Maharashtra,APMC Jamner ,Other,FAQ,5,11300.0,11050.0,2022-04-01,2022-07-08
+Banana,Nagaland,Pfatsero APMC,Other,Medium,5,11000.0,10000.0,2024-05-08,2025-10-08
+Onion,Keralam,Aroor Market,Small,FAQ,5,11000.0,11000.0,2017-06-01,2025-02-01
+Groundnut,Tamil Nadu,Ulundurpettai APMC,Other,FAQ,5,10625.0,10380.0,2023-08-08,2023-12-01
+Lentil,Assam,Cachar APMC,Masur Dal,FAQ,5,10500.0,10300.0,2015-12-01,2016-06-01
+Lentil,Assam,Jorhat APMC,Masur Dal,FAQ,5,10500.0,10300.0,2015-10-01,2016-08-08
+Lentil,West Bengal,English Bazar APMC,Other,FAQ,5,10200.0,10000.0,2015-12-01,2016-08-08
+Banana,Himachal Pradesh,PMY Paonta Sahib,Other,Medium,4,500000.0,390000.0,2022-02-01,2023-06-08
+Banana,Meghalaya,Sohra APMC,Other,Medium,4,48000.0,14500.0,2017-03-01,2024-06-08
+Banana,Keralam,Muriyad  VFPCK Market,Rasakathai,Large,4,16000.0,12350.0,2024-07-08,2025-08-08
+Potato,Nagaland,Jalukie APMC,Other,FAQ,4,14100.0,13100.0,2023-06-01,2023-09-01
+Cotton,Rajasthan,HanumangarhTown APMC,Desi,FAQ,4,13001.0,10130.5,2022-02-01,2022-06-01
+Cotton,Madhya Pradesh,Sailana APMC,DCH-32(Unginned),FAQ,4,12775.0,10795.0,2022-01-01,2023-04-01
+Cotton,Telangana,Kesamudram APMC,Cotton (Unginned),FAQ,4,12643.0,11050.0,2022-06-01,2022-09-01
+Onion,Keralam,Kayamkulam Market,Small,FAQ,4,12600.0,12000.0,2019-12-01,2021-02-08
+Cotton,Telangana,Khammam APMC,Cotton (Unginned),FAQ,4,12400.0,11200.0,2022-04-08,2022-09-01
+Banana,Nagaland,Tuensang APMC,Other,Medium,4,12300.0,10950.0,2023-08-01,2023-11-01
+Cotton,Maharashtra,APMC Manwat ,Desi,FAQ,4,12250.0,11145.0,2022-02-01,2022-04-08
+Cotton,Maharashtra,APMC Umared ,Desi,FAQ,4,12250.0,10100.0,2022-02-01,2022-04-08
+Banana,Tamil Nadu,Krishnagiri(Uzhavar Sandhai ),Besrai,Local,4,12000.0,12000.0,2025-02-01,2025-03-08
+Onion,Keralam,Aralamoodu Market,Onion,FAQ,4,12000.0,12000.0,2017-07-01,2020-01-01
+Onion,Keralam,Harippad Market,Other,FAQ,4,12000.0,11000.0,2017-06-08,2021-02-08
+Cotton,Madhya Pradesh,Gandhwani APMC,Other,FAQ,4,11940.0,11120.0,2022-02-08,2022-06-08
+Cotton,Karnataka,Shiggoan APMC,Aka-1 (Unginned),FAQ,4,11810.0,10575.0,2016-07-01,2019-03-01
+Cotton,Tamil Nadu,Kolathur APMC,Other,FAQ,4,11800.0,10700.0,2022-04-01,2022-06-08
+Cotton,Karnataka,Soundati APMC,GCH,FAQ,4,11782.0,10387.5,2022-02-01,2022-06-01
+Cotton,Gujarat,JASDAN APMC,Shanker 6 (B) 30mm FIne,FAQ,4,11750.0,11312.5,2022-04-08,2022-07-01
+Cotton,Gujarat,Jetpur(Dist.Rajkot) APMC,Cotton (Unginned),FAQ,4,11750.0,11375.0,2022-04-08,2022-07-01
+Cotton,Rajasthan,Sri Vijayanagar APMC,American,FAQ,4,11710.0,10136.0,2022-02-01,2022-04-08
+Onion,Nagaland,Jalukie APMC,1st Sort,FAQ,4,11500.0,10900.0,2023-06-01,2023-09-01
+Cotton,Rajasthan,Pilibanga APMC,American,FAQ,4,11451.0,10220.0,2022-02-01,2022-04-08
+Cotton,Maharashtra,Sindi (Selu),Other,FAQ,4,11360.0,10710.0,2022-02-01,2022-04-08
+Cotton,Rajasthan,Sriganganagar (Grain) APMC,American,FAQ,4,11305.0,10168.5,2022-02-01,2022-04-01
+Cotton,Gujarat,Savarkundla APMC,Narma BT Cotton,FAQ,4,11250.0,10830.0,2022-04-08,2022-09-01
+Cotton,Rajasthan,Anupgarh APMC,American,FAQ,4,11250.0,10150.0,2022-02-01,2022-04-01
+Banana,Keralam,Kottarakkara Market,Nendra Bale,Medium,4,11000.0,10500.0,2022-06-08,2022-08-01
+Cotton,Gujarat,Vankaner APMC,Other,FAQ,4,11000.0,10500.0,2022-04-01,2022-06-08
+Cotton,Madhya Pradesh,Jhabua APMC,Desi,FAQ,4,10476.0,10155.5,2022-01-01,2022-04-08
+Groundnut,Tamil Nadu,Vandavasi APMC,Other,FAQ,4,10314.0,10256.5,2023-02-01,2024-02-01
+Cotton,Rajasthan,Raisingh Nagar APMC,American,FAQ,4,10300.0,10000.0,2022-01-08,2022-03-08
+Lentil,West Bengal,Kasipur APMC,Other,FAQ,4,10200.0,10100.0,2015-09-01,2016-08-08
+Banana,Tamil Nadu,Hasthampatti(Uzhavar Sandhai ),Besrai,Local,4,10000.0,10000.0,2025-02-01,2025-03-08
+Banana,Tamil Nadu,Pudukottai(Uzhavar Sandhai ),Besrai,Local,4,10000.0,10000.0,2025-02-01,2025-03-08
+Banana,Tamil Nadu,RSPuram(Uzhavar Sandhai ),Besrai,Local,4,10000.0,10000.0,2025-02-01,2025-03-08
+Banana,Tamil Nadu,Singanallur(Uzhavar Sandhai ),Besrai,Local,4,10000.0,10000.0,2025-02-01,2025-03-08
+Banana,Tamil Nadu,Vadavalli(Uzhavar Sandhai ),Besrai,Local,4,10000.0,10000.0,2025-02-01,2025-03-08
+Rice,Karnataka,Mysuru APMC,Basmati,FAQ,3,16500.0,12751.0,2023-06-01,2024-06-01
+Onion,Keralam,Chengannur Market,Small,FAQ,3,15000.0,10000.0,2017-06-08,2020-01-01
+Cotton,Karnataka,Shimoga APMC,LD-327,FAQ,3,14088.0,12963.0,2021-12-01,2022-01-01
+Onion,Keralam,Pattambi Market,Small,FAQ,3,13500.0,11500.0,2017-06-01,2020-01-01
+Onion,Keralam,Kothamangalam Market,Other,FAQ,3,12800.0,10000.0,2017-07-01,2020-01-01
+Cotton,Madhya Pradesh,Sendhwa APMC,H4,FAQ,3,12600.0,12300.0,2022-05-01,2022-06-08
+Cotton,Gujarat,Hadad     APMC,Shanker 6 (B) 30mm FIne,FAQ,3,12500.0,10000.0,2022-03-08,2022-06-01
+Cotton,Madhya Pradesh,Jhabua APMC,Other,FAQ,3,12450.0,11946.0,2021-12-01,2022-01-01
+Cotton,Karnataka,Haveri APMC,GCH,Medium,3,12300.0,11135.0,2022-02-01,2022-04-08
+Onion,Keralam,Mannar Market,Small,FAQ,3,12100.0,10600.0,2017-07-08,2017-12-01
+Cotton,Rajasthan,Suratgarh APMC,American,FAQ,3,11820.0,10150.0,2022-02-08,2022-04-08
+Cotton,Maharashtra,APMC Kille Dharur ,Other,FAQ,3,11806.0,10006.0,2022-02-01,2022-04-01
+Cotton,Tamil Nadu,Vikkiravandi APMC,Other,FAQ,3,11720.0,11175.0,2022-06-01,2022-08-08
+Cotton,Andhra Pradesh,Adoni APMC,Bunny,FAQ,3,11679.0,11275.0,2022-06-01,2022-08-08
+Cotton,Gujarat,Modasar APMC,Shanker 6 (B) 30mm FIne,FAQ,3,11500.0,10000.0,2022-03-08,2022-06-01
+Cotton,Telangana,Bhainsa APMC,Cotton (Unginned),FAQ,3,11500.0,11300.0,2022-04-01,2022-05-01
+Cotton,Tamil Nadu,Theni APMC,MCU 5,FAQ,3,11400.0,10300.0,2022-06-01,2022-09-08
+Cotton,Tamil Nadu,Panruti APMC,Other,FAQ,3,11399.0,11089.0,2022-06-01,2022-08-08
+Lentil,West Bengal,Gajol APMC,Masur Dal,FAQ,3,11200.0,10000.0,2016-01-01,2016-07-01
+Cotton,Karnataka,Vijayapura APMC,LH-1556,FAQ,3,11176.0,10864.0,2022-04-08,2022-08-08
+Cotton,Madhya Pradesh,Saunsar APMC,H4,FAQ,3,11150.0,11000.0,2022-03-01,2022-04-08
+Cotton,Rajasthan,Sadulshahar APMC,American,FAQ,3,11100.0,11100.0,2022-02-08,2022-04-08
+Cotton,Maharashtra,APMC Arvi ,H-4(A) 27mm FIne,FAQ,3,11000.0,11000.0,2022-04-01,2022-05-08
+Cotton,Maharashtra,APMC Narkhed ,Other,FAQ,3,11000.0,11000.0,2022-04-08,2022-05-08
+Rice,Maharashtra,APMC Mumbai ,Other,FAQ,3,11000.0,10500.0,2020-04-01,2021-06-08
+Cotton,Gujarat,Morbi APMC,Local,FAQ,3,10975.0,10600.0,2022-04-08,2022-06-08
+Groundnut,Tamil Nadu,Cuddalore APMC,Other,FAQ,3,10944.0,10226.0,2023-03-01,2023-06-01
+Groundnut,Maharashtra,Kolhapur(Laxmipuri) ,Other,FAQ,3,10900.0,10300.0,2016-08-08,2016-09-08
+Cotton,Madhya Pradesh,Petlawad APMC,Cotton (Unginned),FAQ,3,10723.0,10579.0,2021-12-08,2022-01-08
+Groundnut,Tamil Nadu,Kurinchipadi APMC,Other,FAQ,3,10588.0,10356.0,2023-05-08,2023-08-08
+Cotton,Maharashtra,APMC Kalmeshwar ,Other,FAQ,3,10500.0,10000.0,2022-04-01,2022-05-08
+Lentil,Assam,Hailakandi APMC,Masur Dal,FAQ,3,10500.0,10300.0,2016-02-01,2016-07-01
+Cotton,Rajasthan,Kesarisinghpur APMC,Other,FAQ,3,10231.0,10200.0,2022-02-01,2022-03-08
+Lentil,West Bengal,Balarampur APMC,Masur Dal,FAQ,3,10200.0,10200.0,2016-05-01,2016-08-08
+Cotton,Rajasthan,Sangriya APMC,Other,FAQ,3,10050.0,10018.0,2022-02-01,2022-08-01
+Banana,Andaman and Nicobar,Bathubasti Vegetable Market,Nendra Bale,Medium,3,10000.0,10000.0,2023-05-01,2023-12-01
+Banana,Andaman and Nicobar,Bathubasti Vegetable Market,Red Banana,Medium,3,10000.0,10000.0,2023-05-01,2023-12-01
+Banana,Tamil Nadu,Ammapet(Uzhavar Sandhai ),Besrai,Local,3,10000.0,10000.0,2025-02-01,2025-03-08
+Banana,Tamil Nadu,Coonoor(Uzhavar Sandhai ),Besrai,Local,3,10000.0,10000.0,2025-02-08,2025-03-08
+Banana,Tamil Nadu,Sulur(Uzhavar Sandhai ),Besrai,Local,3,10000.0,10000.0,2025-02-08,2025-03-08
+Lentil,West Bengal,Asansol APMC,Masur Dal,FAQ,3,10000.0,10000.0,2015-12-01,2016-02-01
+Lentil,West Bengal,Durgapur APMC,Other,FAQ,3,10000.0,10000.0,2015-12-01,2016-02-01
+Potato,Meghalaya,Sohra APMC,Other,FAQ,2,50000.0,46500.0,2022-10-01,2023-08-01
+Rice,Nagaland,Jalukie APMC,1009 Kar,FAQ,2,16100.0,14350.0,2018-06-01,2018-06-08
+Cotton,Karnataka,Yellapur APMC,Varalakshmi  (Ginned),FAQ,2,15609.0,15399.5,2021-12-01,2021-12-08
+Onion,Keralam,Thodupuzha Market,Small,FAQ,2,15000.0,12500.0,2017-07-01,2020-01-01
+Onion,Keralam,Chala Market,Onion,FAQ,2,14720.0,13673.5,2017-07-01,2020-01-01
+Onion,Keralam,Kottayam Market,Onion,FAQ,2,13000.0,12500.0,2023-08-01,2023-11-01
+Cotton,Madhya Pradesh,Badwaha APMC,Other,FAQ,2,12500.0,11980.0,2022-04-08,2022-06-01
+Cotton,Karnataka,Raichur APMC,F-1054,FAQ,2,12200.0,11500.0,2022-06-08,2022-07-01
+Cotton,Telangana,Jammikunta APMC,Cotton (Unginned),FAQ,2,12100.0,12030.0,2022-04-08,2022-06-01
+Banana,Tamil Nadu,Hosur(Uzhavar Sandhai ),Besrai,Local,2,12000.0,12000.0,2025-02-01,2025-02-08
+Cotton,Madhya Pradesh,Petlawad APMC,DCH-32(Unginned),FAQ,2,12000.0,11494.0,2022-01-01,2022-01-08
+Cotton,Madhya Pradesh,Thandla APMC,DCH-32  (Ginned),FAQ,2,12000.0,11050.0,2022-03-01,2022-04-01
+Onion,Keralam,Munnar Market,Small,FAQ,2,12000.0,12000.0,2017-12-01,2021-02-08
+Cotton,Gujarat,Bhesan APMC,Other,FAQ,2,11550.0,11275.0,2022-04-08,2022-06-01
+Rice,Karnataka,Davangere APMC,Basmati,FAQ,2,11500.0,11000.0,2018-06-01,2019-03-08
+Rice,Karnataka,Mysuru APMC,Fine,FAQ,2,11290.0,10730.0,2023-07-01,2023-12-01
+Groundnut,Rajasthan,Chaksu APMC,Other,Local,2,11250.0,11250.0,2025-12-01,2025-12-08
+Onion,Keralam,Anchal Market,Other,FAQ,2,11100.0,11100.0,2020-02-08,2021-03-01
+Cotton,Haryana,Sirsa APMC,American,FAQ,2,11000.0,10950.0,2022-04-01,2022-04-08
+Cotton,Tamil Nadu,Konganapuram APMC,Other,FAQ,2,10900.0,10850.0,2022-08-01,2022-08-08
+Cotton,Karnataka,Ranebennur APMC,GCH,Medium,2,10815.0,10536.5,2022-02-08,2022-04-01
+Cotton,Gujarat,APMC HALVAD,Other,FAQ,2,10805.0,10652.5,2022-04-08,2022-06-08
+Groundnut,Tamil Nadu,Virudhachalam APMC,Other,FAQ,2,10620.0,10478.0,2023-02-01,2023-02-08
+Cotton,Gujarat,Kadi(Kadi cotton Yard) APMC,Shanker 6 (B) 30mm FIne,FAQ,2,10500.0,10250.0,2022-02-01,2022-04-08
+Cotton,Gujarat,Rajula APMC,Local,FAQ,2,10500.0,10250.0,2022-06-08,2022-08-01
+Cotton,Maharashtra,APMC Varora ,Desi,FAQ,2,10500.0,10250.0,2022-04-01,2022-04-08
+Cotton,Telangana,Warangal APMC,Cotton (Unginned),FAQ,2,10500.0,10500.0,2022-04-08,2022-08-08
+Onion,Keralam,Kattappana Market,Small,FAQ,2,10500.0,10500.0,2019-12-01,2020-11-08
+Onion,Keralam,Vadakkenchery Market,Small,FAQ,2,10500.0,10500.0,2021-03-01,2021-03-08
+Groundnut,Tamil Nadu,Chetpet APMC,Balli/Habbu,FAQ,2,10415.0,10370.0,2023-02-08,2023-03-01
+Cotton,Karnataka,Nargunda APMC,GCH,Medium,2,10400.0,10350.0,2022-04-01,2022-04-08
+Cotton,Rajasthan,Gajsinghpur APMC,American,FAQ,2,10400.0,10250.0,2022-02-01,2022-09-08
+Cotton,Rajasthan,Padampur APMC,American,FAQ,2,10356.0,10346.0,2022-02-08,2022-03-08
+Cotton,Rajasthan,Sadulshahar APMC,Other,FAQ,2,10301.0,10151.0,2022-09-01,2022-09-08
+Cotton,Rajasthan,Sri Karanpur APMC,American,FAQ,2,10300.0,10275.0,2022-02-08,2022-03-08
+Lentil,Assam,Silapathar APMC,Masur Dal,FAQ,2,10300.0,10300.0,2015-11-01,2015-12-01
+Cotton,Maharashtra,APMC Ralegaon ,Other,FAQ,2,10150.0,10075.0,2022-02-01,2022-02-08
+Cotton,Gujarat,Manavdar APMC,Shanker 4 31mm FIne,FAQ,2,10100.0,10075.0,2022-02-01,2022-02-08
+Cotton,Madhya Pradesh,Sailana APMC,Without Ginned Cotton,FAQ,2,10100.0,10050.0,2024-11-08,2024-12-08
+Banana,Tamil Nadu,Kallakurichi(Uzhavar Sandhai ),Besrai,Local,2,10000.0,10000.0,2025-03-08,2025-04-01
+Cotton,Gujarat,Kalediya APMC,Shanker 6 (B) 30mm FIne,FAQ,2,10000.0,10000.0,2022-03-08,2022-06-01
+Cotton,Haryana,KALANWALIAPMC,American,FAQ,2,10000.0,10000.0,2022-03-08,2022-09-01
+Groundnut,Tamil Nadu,Melapalayam(Uzhavar Sandhai ),Big (With Shell),Local,2,10000.0,10000.0,2025-09-01,2025-09-08
+Lentil,Maharashtra,Kolhapur(Laxmipuri) ,Other,FAQ,2,10000.0,10000.0,2016-08-08,2016-11-08
+Banana,Himachal Pradesh,PMY Paonta Sahib,Other,Large,1,350000.0,350000.0,2023-06-01,2023-06-01
+Rice,Tamil Nadu,Boothapadi APMC,Ponni,FAQ,1,210000.0,210000.0,2016-08-08,2016-08-08
+Rice,Tamil Nadu,Boothapadi APMC,ADT 39,FAQ,1,200000.0,200000.0,2016-08-08,2016-08-08
+Banana,Keralam,Omalloor Market,Other,Large,1,78000.0,78000.0,2025-05-01,2025-05-01
+Cotton,Telangana,Bodhan APMC,Cotton (Unginned),Medium,1,40000.0,40000.0,2015-12-01,2015-12-01
+Onion,Maharashtra,Junnar(Alephata) ,Other,FAQ,1,40000.0,40000.0,2020-10-01,2020-10-01
+Onion,Bihar,Thakurganj APMC,1st Sort,FAQ,1,30000.0,30000.0,2022-02-08,2022-02-08
+Cotton,Meghalaya,Mawkyrwat APMC,Other,FAQ,1,22150.0,22150.0,2015-01-08,2015-01-08
+Onion,Maharashtra,APMC Kalyan ,1st Sort,FAQ,1,21000.0,21000.0,2024-03-01,2024-03-01
+Cotton,Karnataka,Gokak APMC,Suyodhar  (Ginned),FAQ,1,15700.0,15700.0,2016-07-08,2016-07-08
+Onion,Keralam,Koduvayoor Market,Small,FAQ,1,14700.0,14700.0,2024-05-01,2024-05-01
+Groundnut,Maharashtra,APMC Dondaicha ,Other,FAQ,1,14401.0,14401.0,2022-11-01,2022-11-01
+Cotton,Karnataka,Ranebennur APMC,Varalakshmi  (Ginned),Medium,1,14169.0,14169.0,2021-11-08,2021-11-08
+Onion,Keralam,Aluva Market,Small,FAQ,1,13500.0,13500.0,2020-01-01,2020-01-01
+Groundnut,Uttarakhand,Haldwani APMC,Other,FAQ,1,13335.0,13335.0,2023-05-01,2023-05-01
+Groundnut,Andhra Pradesh,Yemmiganur APMC,Local,Local,1,13050.0,13050.0,2025-12-01,2025-12-01
+Onion,Keralam,Ettumanoor Market,Onion,FAQ,1,12800.0,12800.0,2019-12-01,2019-12-01
+Groundnut,Maharashtra,APMC Nandurbar ,Other,FAQ,1,12700.0,12700.0,2020-07-08,2020-07-08
+Banana,Keralam,Mattathur VFPCK Market,Rasakathai,Large,1,12500.0,12500.0,2023-12-01,2023-12-01
+Onion,Keralam,Mukkom Market,Onion,FAQ,1,12500.0,12500.0,2020-01-01,2020-01-01
+Rice,Keralam,Cherthala Market,Basmati Paddy,FAQ,1,12350.0,12350.0,2016-11-08,2016-11-08
+Cotton,Maharashtra,APMC Sonpeth ,Other,FAQ,1,12300.0,12300.0,2022-05-01,2022-05-01
+Groundnut,Gujarat,Jetpur(Dist.Rajkot) APMC,Other,FAQ,1,12255.0,12255.0,2023-07-08,2023-07-08
+Maize,Tamil Nadu,Tiruchengode APMC,Other,FAQ,1,12092.0,12092.0,2018-02-01,2018-02-01
+Banana,Tamil Nadu,Paramakudi(Uzhavar Sandhai ),Besrai,Local,1,12000.0,12000.0,2024-09-08,2024-09-08
+Lentil,Keralam,Kollengode Market,Masur Dal,FAQ,1,12000.0,12000.0,2016-10-08,2016-10-08
+Onion,Keralam,ARWM Muvattupuzha,Small,FAQ,1,12000.0,12000.0,2017-07-08,2017-07-08
+Onion,Keralam,Parassala Market,Small,FAQ,1,12000.0,12000.0,2017-08-01,2017-08-01
+Onion,Keralam,Vandiperiyar Market,Small,FAQ,1,12000.0,12000.0,2020-01-08,2020-01-08
+Onion,Keralam,Alappuzha Market,Big,FAQ,1,11600.0,11600.0,2020-01-01,2020-01-01
+Cotton,Gujarat,Anjar APMC,Other,FAQ,1,11555.0,11555.0,2022-09-08,2022-09-08
+Cotton,Gujarat,Dhoraji APMC,H.B (Unginned),FAQ,1,11555.0,11555.0,2022-04-08,2022-04-08
+Cotton,Maharashtra,APMC Ashti ,Other,FAQ,1,11550.0,11550.0,2022-04-01,2022-04-01
+Banana,Tamil Nadu,Avallapalli(Uzhavar Sandhai ),Besrai,Local,1,11500.0,11500.0,2025-09-08,2025-09-08
+Onion,Keralam,Kuruppanthura Market,Big,FAQ,1,11500.0,11500.0,2020-01-01,2020-01-01
+Onion,Maharashtra,APMC Rahuri ,Other,FAQ,1,11500.0,11500.0,2019-12-08,2019-12-08
+Groundnut,Madhya Pradesh,Indore APMC,Groundnut seed,FAQ,1,11470.24,11470.24,2025-12-01,2025-12-01
+Groundnut,Maharashtra,APMC Dhule ,Other,FAQ,1,11400.0,11400.0,2023-12-08,2023-12-08
+Cotton,Gujarat,Babra APMC,Other,FAQ,1,11250.0,11250.0,2022-06-01,2022-06-01
+Groundnut,Tamil Nadu,Vellore APMC,Bold,Local,1,11250.0,11250.0,2024-07-01,2024-07-01
+Onion,Keralam,Vandiperiyar Market,Big,FAQ,1,11250.0,11250.0,2020-11-08,2020-11-08
+Cotton,Tamil Nadu,Sembanarkoil APMC,MCU-7,FAQ,1,11241.0,11241.0,2022-08-08,2022-08-08
+Cotton,Gujarat,Siddhpur APMC,H.Y.4 (Unginned),FAQ,1,11117.0,11117.0,2022-04-08,2022-04-08
+Cotton,Rajasthan,Jaitsar APMC,American,FAQ,1,11100.0,11100.0,2022-04-01,2022-04-01
+Groundnut,Keralam,Alappuzha Market,Other,FAQ,1,11100.0,11100.0,2019-10-01,2019-10-01
+Cotton,Gujarat,Dhari APMC,Other,FAQ,1,11005.0,11005.0,2022-04-08,2022-04-08
+Banana,Meghalaya,Sohra APMC,Other,Large,1,11000.0,11000.0,2019-04-08,2019-04-08
+Cotton,Karnataka,Annigeri APMC,GCH,Medium,1,11000.0,11000.0,2022-03-08,2022-03-08
+Cotton,Madhya Pradesh,Anjad APMC,Other,FAQ,1,11000.0,11000.0,2022-04-08,2022-04-08
+Cotton,Madhya Pradesh,Jobat APMC,Other,FAQ,1,11000.0,11000.0,2022-04-08,2022-04-08
+Cotton,Maharashtra,APMC Bhiwapur ,Other,FAQ,1,11000.0,11000.0,2022-05-01,2022-05-01
+Cotton,Maharashtra,APMC Savner ,Other,FAQ,1,11000.0,11000.0,2022-04-08,2022-04-08
+Onion,Keralam,Piravam Market,Other,FAQ,1,11000.0,11000.0,2017-07-01,2017-07-01
+Onion,Odisha,Chuliaposi APMC,1st Sort,FAQ,1,11000.0,11000.0,2019-12-08,2019-12-08
+Cotton,Karnataka,Haveri APMC,GCH,FAQ,1,10999.0,10999.0,2022-02-08,2022-02-08
+Lentil,Assam,Golaghat APMC,Masur Dal,FAQ,1,10900.0,10900.0,2015-10-01,2015-10-01
+Cotton,Tamil Nadu,Sirkali APMC,MCU-7,FAQ,1,10879.0,10879.0,2022-08-08,2022-08-08
+Cotton,Maharashtra,APMC Amarawati ,Other,FAQ,1,10875.0,10875.0,2022-04-08,2022-04-08
+Onion,Keralam,Chala Market,Big,FAQ,1,10827.0,10827.0,2020-01-01,2020-01-01
+Lentil,West Bengal,Samsi APMC,Masur Dal,FAQ,1,10800.0,10800.0,2016-01-01,2016-01-01
+Cotton,Gujarat,Visavadar APMC,Other,FAQ,1,10735.0,10735.0,2022-04-08,2022-04-08
+Cotton,Gujarat,Visnagar APMC,Other,FAQ,1,10700.0,10700.0,2022-09-08,2022-09-08
+Cotton,Madhya Pradesh,Manawar APMC,Other,FAQ,1,10700.0,10700.0,2022-04-08,2022-04-08
+Cotton,Rajasthan,Pilibanga APMC,Desi,FAQ,1,10700.0,10700.0,2023-03-01,2023-03-01
+Groundnut,Tamil Nadu,Shrimushnam APMC,Other,FAQ,1,10689.0,10689.0,2023-09-01,2023-09-01
+Cotton,Madhya Pradesh,Khetia APMC,H4,FAQ,1,10680.0,10680.0,2022-04-08,2022-04-08
+Cotton,Tamil Nadu,Mailaduthurai APMC,MCU-7,FAQ,1,10657.0,10657.0,2022-08-08,2022-08-08
+Cotton,Gujarat,Patan APMC,Other,FAQ,1,10590.0,10590.0,2022-04-08,2022-04-08
+Cotton,Tamil Nadu,Anthiyur APMC,Other,FAQ,1,10569.0,10569.0,2022-09-01,2022-09-01
+Cotton,Gujarat,Gondal APMC,H.B (Unginned),FAQ,1,10555.0,10555.0,2022-07-08,2022-07-08
+Banana,Keralam,Nedumpana  VFPCK Market,Nendra Bale,Medium,1,10500.0,10500.0,2024-06-08,2024-06-08
+Banana,Keralam,Parakkodu Market,Nendra Bale,Large,1,10500.0,10500.0,2022-08-01,2022-08-01
+Cotton,Tamil Nadu,Tiruchengode APMC,Other,FAQ,1,10500.0,10500.0,2022-09-08,2022-09-08
+Onion,Karnataka,Belgaum APMC,Pusa-Red,FAQ,1,10500.0,10500.0,2019-12-08,2019-12-08
+Cotton,Madhya Pradesh,Sailana APMC,Long fiber,FAQ,1,10400.0,10400.0,2024-12-08,2024-12-08
+Maize,Nagaland,Tuensang APMC,Other,FAQ,1,10400.0,10400.0,2023-08-08,2023-08-08
+Cotton,Karnataka,Jagalur APMC,LH-1556,FAQ,1,10369.0,10369.0,2022-09-01,2022-09-01
+Groundnut,Tamil Nadu,Sangarapuram APMC,Other,FAQ,1,10328.0,10328.0,2023-03-01,2023-03-01
+Cotton,Maharashtra,"Kai Madhavrao Pawar Khajgi Krushi Utappan Bazar, Georai, Dist Beed",Other,FAQ,1,10320.0,10320.0,2022-05-08,2022-05-08
+Cotton,Karnataka,Bailahongal APMC,LD-327,FAQ,1,10300.0,10300.0,2025-01-01,2025-01-01
+Lentil,West Bengal,Ramkrishanpur(Howrah),Masur Dal,FAQ,1,10300.0,10300.0,2016-02-01,2016-02-01
+Cotton,Tamil Nadu,Salem APMC,Other,FAQ,1,10270.0,10270.0,2022-08-01,2022-08-01
+Cotton,Tamil Nadu,Kuthalam APMC,MCU-7,FAQ,1,10254.0,10254.0,2022-08-08,2022-08-08
+Groundnut,Madhya Pradesh,Katni APMC,Other,FAQ,1,10251.0,10251.0,2017-03-08,2017-03-08
+Cotton,Rajasthan,Gharsana APMC,American,FAQ,1,10250.0,10250.0,2022-02-01,2022-02-01
+Cotton,Tamil Nadu,Nagapattinam APMC,MCU-7,FAQ,1,10248.0,10248.0,2022-08-08,2022-08-08
+Cotton,Rajasthan,Gharsana APMC,Desi,FAQ,1,10205.0,10205.0,2023-02-08,2023-02-08
+Cotton,Madhya Pradesh,Thandla APMC,Without Ginned Cotton,FAQ,1,10200.0,10200.0,2024-11-08,2024-11-08
+Cotton,Tamil Nadu,Papanasam APMC,Other,FAQ,1,10200.0,10200.0,2022-08-08,2022-08-08
+Maize,Nagaland,Longleng APMC,Hybrid Yellow (Cattle Feed),FAQ,1,10200.0,10200.0,2023-08-08,2023-08-08
+Cotton,Rajasthan,Anupgarh APMC,Other,FAQ,1,10150.0,10150.0,2023-02-01,2023-02-01
+Cotton,Maharashtra,APMC Sailu ,Other,FAQ,1,10140.0,10140.0,2022-02-08,2022-02-08
+Cotton,Rajasthan,Sri Vijayanagar APMC,Desi,FAQ,1,10140.0,10140.0,2023-02-01,2023-02-01
+Cotton,Telangana,Peddapalli APMC,Cotton (Unginned),FAQ,1,10101.0,10101.0,2022-04-08,2022-04-08
+Cotton,Madhya Pradesh,Sailana(F&V) APMC,Other,FAQ,1,10100.0,10100.0,2024-12-08,2024-12-08
+Cotton,Gujarat,Mansa APMC,H-6,FAQ,1,10050.0,10050.0,2022-02-01,2022-02-01
+Cotton,Madhya Pradesh,Sailana APMC,MECH-1,FAQ,1,10050.0,10050.0,2022-04-08,2022-04-08
+Cotton,Maharashtra,APMC Hingna,Other,FAQ,1,10050.0,10050.0,2022-02-01,2022-02-01
+Cotton,Karnataka,Chitradurga APMC,Varalakshmi  (Ginned),FAQ,1,10035.0,10035.0,2022-09-01,2022-09-01
+Cotton,Maharashtra,APMC Hinganghat ,Other,FAQ,1,10020.0,10020.0,2022-04-08,2022-04-08
+Cotton,Tamil Nadu,Villupuram APMC,Other,FAQ,1,10020.0,10020.0,2022-03-08,2022-03-08
+Cotton,Punjab,Malout APMC,Other,FAQ,1,10015.0,10015.0,2022-09-08,2022-09-08
+Cotton,Madhya Pradesh,Khargone APMC,Other,FAQ,1,10005.0,10005.0,2022-04-01,2022-04-01
+Groundnut,Tamil Nadu,Thammampati APMC,Other,FAQ,1,10005.0,10005.0,2022-02-08,2022-02-08
+Banana,Andaman and Nicobar,Perka Vegetable Market,Other,Large,1,10000.0,10000.0,2023-05-08,2023-05-08
+Banana,Tamil Nadu,Anna nagar(Uzhavar Sandhai ),Besrai,Local,1,10000.0,10000.0,2025-05-01,2025-05-01
+Banana,Tamil Nadu,Pollachi(Uzhavar Sandhai ),Besrai,Local,1,10000.0,10000.0,2025-06-01,2025-06-01
+Cotton,Gujarat,APMC Bagasara,Other,FAQ,1,10000.0,10000.0,2022-06-01,2022-06-01
+Cotton,Gujarat,Dhansura APMC,RCH-2,FAQ,1,10000.0,10000.0,2022-04-08,2022-04-08
+Cotton,Gujarat,Kalawad APMC,Other,FAQ,1,10000.0,10000.0,2022-03-08,2022-03-08
+Cotton,Madhya Pradesh,Badnawar APMC,DCH-32  (Ginned),FAQ,1,10000.0,10000.0,2022-04-01,2022-04-01
+Cotton,Madhya Pradesh,Petlawad APMC,Without Ginned Cotton,FAQ,1,10000.0,10000.0,2024-12-08,2024-12-08
+Cotton,Maharashtra,APMC Varud ,Other,FAQ,1,10000.0,10000.0,2023-08-01,2023-08-01
+Cotton,Maharashtra,APMC Wardha ,Other,FAQ,1,10000.0,10000.0,2022-04-08,2022-04-08
+Cotton,Telangana,Bhadrachalam APMC,Cotton (Unginned),FAQ,1,10000.0,10000.0,2022-02-08,2022-02-08
+Cotton,Telangana,Manakodur APMC,Bramha,FAQ,1,10000.0,10000.0,2022-02-08,2022-02-08
+Groundnut,Karnataka,Tarikere APMC,Other,FAQ,1,10000.0,10000.0,2023-07-01,2023-07-01
+Lentil,Assam,Baharihat APMC,Masur Dal,FAQ,1,10000.0,10000.0,2015-11-01,2015-11-01
+Lentil,Assam,Karimganj APMC,Masur Dal,FAQ,1,10000.0,10000.0,2015-12-01,2015-12-01
+Lentil,West Bengal,Purulia APMC,Masur Dal,FAQ,1,10000.0,10000.0,2016-07-01,2016-07-01
+Onion,Karnataka,Gundlupet APMC,Local,FAQ,1,10000.0,10000.0,2017-12-01,2017-12-01
+Onion,Keralam,Chengannur Market,Other,FAQ,1,10000.0,10000.0,2020-01-01,2020-01-01
+Onion,Keralam,Kuruppanthura Market,Onion,FAQ,1,10000.0,10000.0,2023-08-01,2023-08-01
+Onion,Keralam,Nedumkandam Market,Small,FAQ,1,10000.0,10000.0,2020-11-01,2020-11-01
+Onion,Keralam,Pala Market,Onion,FAQ,1,10000.0,10000.0,2023-11-01,2023-11-01
+Onion,Maharashtra,APMC Junnar ,Other,FAQ,1,10000.0,10000.0,2019-12-08,2019-12-08
+Onion,Odisha,Dhenkanal APMC,Other,FAQ,1,10000.0,10000.0,2020-01-01,2020-01-01
+Onion,Odisha,Kendrapara(Marshaghai) APMC,Bombay (U.P.),FAQ,1,10000.0,10000.0,2020-01-01,2020-01-01
+Onion,Odisha,Pattamundai APMC,Bombay (U.P.),FAQ,1,10000.0,10000.0,2020-01-01,2020-01-01
+Onion,Tripura,Barpathari APMC,Other,FAQ,1,10000.0,10000.0,2020-01-01,2020-01-01
+Onion,West Bengal,Sheoraphuly APMC,Nasik,FAQ,1,10000.0,10000.0,2019-12-08,2019-12-08
+Potato,Karnataka,Mysuru APMC,Potato,FAQ,1,10000.0,10000.0,2021-10-01,2021-10-01
+Potato,Tamil Nadu,Anna nagar(Uzhavar Sandhai ),Red Nanital,Local,1,10000.0,10000.0,2024-08-01,2024-08-01
+Potato,Tamil Nadu,Hasthampatti(Uzhavar Sandhai ),Red Nanital,Local,1,10000.0,10000.0,2024-08-01,2024-08-01

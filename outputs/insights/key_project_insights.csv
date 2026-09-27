@@ -1,0 +1,9 @@
+Insight,Crop,Value
+Highest median-priced crop,Lentil,5787.5
+Lowest median-priced crop,Potato,1077.5
+Highest long-term growth crop,Cotton,70.73170731707317
+Lowest long-term growth crop,Onion,-7.514450867052023
+Most volatile crop,Onion,26.09306822508399
+Least volatile crop,Rice,2.45278179414106
+Lowest forecast RMSE crop,Maize,5.1849232214825
+Highest forecast RMSE crop,Groundnut,298.3848677646651

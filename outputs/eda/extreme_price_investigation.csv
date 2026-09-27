@@ -1,0 +1,977 @@
+Date,Crop,Commodity ID,Commodity Group ID,State,State ID,Market,Market ID,Variety,Grade,Minimum Price,Maximum Price,Modal Price,Unit,Price_Range_Anomaly,Year,Month,Month_Name,Year_Month,Log_Modal_Price
+2022-10-01,Banana,19,5,Himachal Pradesh,13,PMY Paonta Sahib,71,Other,Medium,450000.0,,500000.0,Rs./Quintal,False,2022,10,October,2022-10,13.122365377402328
+2022-12-08,Banana,19,5,Himachal Pradesh,13,PMY Paonta Sahib,71,Other,Medium,300000.0,500000.0,400000.0,Rs./Quintal,False,2022,12,December,2022-12,12.899222326086994
+2023-06-08,Banana,19,5,Himachal Pradesh,13,PMY Paonta Sahib,71,Other,Medium,350000.0,400000.0,380000.0,Rs./Quintal,False,2023,6,June,2023-06,12.847929163278053
+2023-06-01,Banana,19,5,Himachal Pradesh,13,PMY Paonta Sahib,71,Other,Large,300000.0,400000.0,350000.0,Rs./Quintal,False,2023,6,June,2023-06,12.765691290604371
+2022-02-01,Banana,19,5,Himachal Pradesh,13,PMY Paonta Sahib,71,Other,Medium,300000.0,400000.0,350000.0,Rs./Quintal,False,2022,2,February,2022-02,12.765691290604371
+2016-08-08,Rice,3,1,Tamil Nadu,31,Boothapadi APMC,281,Ponni,FAQ,136700.0,234700.0,210000.0,Rs./Quintal,False,2016,8,August,2016-08,12.25486757159303
+2016-08-08,Rice,3,1,Tamil Nadu,31,Boothapadi APMC,281,ADT 39,FAQ,135600.0,230700.0,200000.0,Rs./Quintal,False,2016,8,August,2016-08,12.206077645517674
+2025-05-01,Banana,19,5,Keralam,17,Omalloor Market,3395,Other,Large,70000.0,80000.0,78000.0,Rs./Quintal,False,2025,5,May,2025-05,11.264476926102367
+2022-12-01,Onion,23,6,Keralam,17,Kollengode Market,2028,Small,FAQ,70000.0,75000.0,72000.0,Rs./Quintal,False,2022,12,December,2022-12,11.184435286790631
+2022-06-01,Banana,19,5,Keralam,17,Kollengode Market,2028,Nendra Bale,Large,50000.0,60000.0,55000.0,Rs./Quintal,False,2022,6,June,2022-06,10.915106645867503
+2022-07-08,Banana,19,5,Keralam,17,Kollengode Market,2028,Nendra Bale,Large,50000.0,60000.0,55000.0,Rs./Quintal,False,2022,7,July,2022-07,10.915106645867503
+2025-02-01,Onion,23,6,Keralam,17,Pothencode Market,2009,Other,FAQ,52000.0,52080.0,52040.0,Rs./Quintal,False,2025,2,February,2025-02,10.859787148429518
+2025-03-01,Onion,23,6,Keralam,17,Pothencode Market,2009,Other,FAQ,52000.0,52080.0,52040.0,Rs./Quintal,False,2025,3,March,2025-03,10.859787148429518
+2022-07-01,Banana,19,5,Keralam,17,Kollengode Market,2028,Poovan,Large,50000.0,55000.0,52000.0,Rs./Quintal,False,2022,7,July,2022-07,10.859018228147887
+2023-03-01,Banana,19,5,Keralam,17,Kollengode Market,2028,Poovan,Large,50000.0,55000.0,52000.0,Rs./Quintal,False,2023,3,March,2023-03,10.859018228147887
+2023-02-08,Banana,19,5,Keralam,17,Kollengode Market,2028,Poovan,Large,50000.0,55000.0,52000.0,Rs./Quintal,False,2023,2,February,2023-02,10.859018228147887
+2022-07-01,Banana,19,5,Keralam,17,Kollengode Market,2028,Nendra Bale,Large,50000.0,55000.0,52000.0,Rs./Quintal,False,2022,7,July,2022-07,10.859018228147887
+2023-03-08,Banana,19,5,Keralam,17,Kollengode Market,2028,Poovan,Large,50000.0,55000.0,52000.0,Rs./Quintal,False,2023,3,March,2023-03,10.859018228147887
+2023-02-01,Banana,19,5,Keralam,17,Kollengode Market,2028,Nendra Bale,Large,50000.0,55000.0,52000.0,Rs./Quintal,False,2023,2,February,2023-02,10.859018228147887
+2022-12-08,Banana,19,5,Keralam,17,Kollengode Market,2028,Poovan,Large,50000.0,55000.0,52000.0,Rs./Quintal,False,2022,12,December,2022-12,10.859018228147887
+2022-10-01,Potato,24,6,Meghalaya,22,Sohra APMC,3154,Other,FAQ,48000.0,52000.0,50000.0,Rs./Quintal,False,2022,10,October,2022-10,10.819798284210286
+2023-08-01,Banana,19,5,Meghalaya,22,Sohra APMC,3154,Other,Medium,46000.0,50000.0,48000.0,Rs./Quintal,False,2023,8,August,2023-08,10.778977123006351
+2022-12-08,Banana,19,5,Keralam,17,Kollengode Market,2028,Nendra Bale,Large,45000.0,50000.0,47000.0,Rs./Quintal,False,2022,12,December,2022-12,10.757924157061597
+2022-12-01,Banana,19,5,Keralam,17,Kollengode Market,2028,Nendra Bale,Large,45000.0,50000.0,47000.0,Rs./Quintal,False,2022,12,December,2022-12,10.757924157061597
+2022-02-08,Onion,23,6,Keralam,17,Kollengode Market,2028,Small,FAQ,40000.0,50000.0,45000.0,Rs./Quintal,False,2022,2,February,2022-02,10.714439990727769
+2022-06-01,Onion,23,6,Keralam,17,Kollengode Market,2028,Small,FAQ,40000.0,50000.0,45000.0,Rs./Quintal,False,2022,6,June,2022-06,10.714439990727769
+2022-06-01,Banana,19,5,Keralam,17,Kollengode Market,2028,Poovan,Large,40000.0,50000.0,45000.0,Rs./Quintal,False,2022,6,June,2022-06,10.714439990727769
+2022-07-08,Banana,19,5,Keralam,17,Kollengode Market,2028,Poovan,Large,40000.0,50000.0,45000.0,Rs./Quintal,False,2022,7,July,2022-07,10.714439990727769
+2023-08-01,Potato,24,6,Meghalaya,22,Sohra APMC,3154,Other,FAQ,41000.0,45000.0,43000.0,Rs./Quintal,False,2023,8,August,2023-08,10.668978650219241
+2022-04-08,Banana,19,5,Keralam,17,Kollengode Market,2028,Poovan,Large,40000.0,45000.0,42000.0,Rs./Quintal,False,2022,4,April,2022-04,10.645448706505872
+2023-02-08,Banana,19,5,Keralam,17,Kollengode Market,2028,Nendra Bale,Large,40000.0,45000.0,42000.0,Rs./Quintal,False,2023,2,February,2023-02,10.645448706505872
+2022-02-08,Banana,19,5,Keralam,17,Kollengode Market,2028,Nendra Bale,Large,40000.0,45000.0,42000.0,Rs./Quintal,False,2022,2,February,2022-02,10.645448706505872
+2022-04-08,Banana,19,5,Keralam,17,Kollengode Market,2028,Nendra Bale,Large,40000.0,45000.0,42000.0,Rs./Quintal,False,2022,4,April,2022-04,10.645448706505872
+2023-02-01,Banana,19,5,Keralam,17,Kollengode Market,2028,Poovan,Large,40000.0,45000.0,42000.0,Rs./Quintal,False,2023,2,February,2023-02,10.645448706505872
+2022-12-01,Banana,19,5,Keralam,17,Kollengode Market,2028,Poovan,Large,40000.0,45000.0,42000.0,Rs./Quintal,False,2022,12,December,2022-12,10.645448706505872
+2023-03-01,Banana,19,5,Keralam,17,Kollengode Market,2028,Nendra Bale,Large,40000.0,45000.0,42000.0,Rs./Quintal,False,2023,3,March,2023-03,10.645448706505872
+2023-03-08,Banana,19,5,Keralam,17,Kollengode Market,2028,Nendra Bale,Large,40000.0,45000.0,42000.0,Rs./Quintal,False,2023,3,March,2023-03,10.645448706505872
+2022-02-01,Banana,19,5,Keralam,17,Kollengode Market,2028,Poovan,Large,40000.0,45000.0,42000.0,Rs./Quintal,False,2022,2,February,2022-02,10.645448706505872
+2022-02-01,Banana,19,5,Keralam,17,Kollengode Market,2028,Nendra Bale,Large,40000.0,45000.0,42000.0,Rs./Quintal,False,2022,2,February,2022-02,10.645448706505872
+2023-02-01,Potato,24,6,Keralam,17,Kollengode Market,2028,Other,FAQ,40000.0,45000.0,42000.0,Rs./Quintal,False,2023,2,February,2023-02,10.645448706505872
+2022-12-01,Potato,24,6,Keralam,17,Kollengode Market,2028,Other,FAQ,40000.0,45000.0,42000.0,Rs./Quintal,False,2022,12,December,2022-12,10.645448706505872
+2025-04-01,Onion,23,6,Keralam,17,Pothencode Market,2009,Other,FAQ,40000.0,40080.0,40040.0,Rs./Quintal,False,2025,4,April,2025-04,10.597659208142261
+2020-10-01,Onion,23,6,Maharashtra,20,Junnar(Alephata) ,3128,Other,FAQ,15000.0,60000.0,40000.0,Rs./Quintal,False,2020,10,October,2020-10,10.596659732783579
+2015-12-01,Cotton,15,4,Telangana,32,Bodhan APMC,15,Cotton (Unginned),Medium,4000.0,40000.0,40000.0,Rs./Quintal,False,2015,12,December,2015-12,10.596659732783579
+2023-11-01,Onion,23,6,Keralam,17,Pothencode Market,2009,Other,FAQ,37200.0,37280.0,37240.0,Rs./Quintal,False,2023,11,November,2023-11,10.525165583876873
+2024-11-01,Potato,24,6,Keralam,17,Pothencode Market,2009,Other,FAQ,36000.0,36080.0,36040.0,Rs./Quintal,False,2024,11,November,2024-11,10.49241245828517
+2022-07-08,Onion,23,6,Keralam,17,Kollengode Market,2028,Small,FAQ,30000.0,40000.0,35000.0,Rs./Quintal,False,2022,7,July,2022-07,10.463131911491967
+2022-07-01,Onion,23,6,Keralam,17,Kollengode Market,2028,Small,FAQ,30000.0,40000.0,35000.0,Rs./Quintal,False,2022,7,July,2022-07,10.463131911491967
+2022-02-08,Onion,23,6,Keralam,17,Kollengode Market,2028,Big,FAQ,30000.0,40000.0,35000.0,Rs./Quintal,False,2022,2,February,2022-02,10.463131911491967
+2022-06-01,Onion,23,6,Keralam,17,Kollengode Market,2028,Big,FAQ,30000.0,40000.0,35000.0,Rs./Quintal,False,2022,6,June,2022-06,10.463131911491967
+2022-02-08,Banana,19,5,Keralam,17,Kollengode Market,2028,Poovan,Large,30000.0,40000.0,35000.0,Rs./Quintal,False,2022,2,February,2022-02,10.463131911491967
+2024-11-01,Onion,23,6,Keralam,17,Pothencode Market,2009,Other,FAQ,33000.0,33080.0,33040.0,Rs./Quintal,False,2024,11,November,2024-11,10.405504493520723
+2023-02-08,Banana,19,5,Keralam,17,Kollengode Market,2028,Palayamthodan,Large,30000.0,35000.0,32000.0,Rs./Quintal,False,2023,2,February,2023-02,10.373522431293592
+2023-03-08,Banana,19,5,Keralam,17,Kollengode Market,2028,Palayamthodan,Large,30000.0,35000.0,32000.0,Rs./Quintal,False,2023,3,March,2023-03,10.373522431293592
+2023-03-01,Banana,19,5,Keralam,17,Kollengode Market,2028,Palayamthodan,Large,30000.0,35000.0,32000.0,Rs./Quintal,False,2023,3,March,2023-03,10.373522431293592
+2022-12-01,Onion,23,6,Keralam,17,Kollengode Market,2028,Big,FAQ,30000.0,35000.0,32000.0,Rs./Quintal,False,2022,12,December,2022-12,10.373522431293592
+2022-04-08,Onion,23,6,Keralam,17,Kollengode Market,2028,Small,FAQ,30000.0,35000.0,32000.0,Rs./Quintal,False,2022,4,April,2022-04,10.373522431293592
+2022-07-01,Banana,19,5,Keralam,17,Kollengode Market,2028,Palayamthodan,Large,30000.0,35000.0,32000.0,Rs./Quintal,False,2022,7,July,2022-07,10.373522431293592
+2023-02-01,Banana,19,5,Keralam,17,Kollengode Market,2028,Palayamthodan,Large,30000.0,35000.0,32000.0,Rs./Quintal,False,2023,2,February,2023-02,10.373522431293592
+2023-03-01,Potato,24,6,Keralam,17,Kollengode Market,2028,Other,FAQ,30000.0,35000.0,32000.0,Rs./Quintal,False,2023,3,March,2023-03,10.373522431293592
+2022-06-01,Potato,24,6,Keralam,17,Kollengode Market,2028,Other,FAQ,30000.0,35000.0,32000.0,Rs./Quintal,False,2022,6,June,2022-06,10.373522431293592
+2022-07-01,Potato,24,6,Keralam,17,Kollengode Market,2028,Other,FAQ,30000.0,35000.0,32000.0,Rs./Quintal,False,2022,7,July,2022-07,10.373522431293592
+2024-10-01,Onion,23,6,Keralam,17,Pothencode Market,2009,Other,FAQ,31000.0,31080.0,31040.0,Rs./Quintal,False,2024,10,October,2024-10,10.34306419027306
+2022-02-08,Onion,23,6,Bihar,5,Thakurganj APMC,1500,1st Sort,FAQ,28000.0,33000.0,30000.0,Rs./Quintal,False,2022,2,February,2022-02,10.308985993422082
+2022-07-01,Onion,23,6,Keralam,17,Kollengode Market,2028,Big,FAQ,25000.0,35000.0,30000.0,Rs./Quintal,False,2022,7,July,2022-07,10.308985993422082
+2022-07-08,Onion,23,6,Keralam,17,Kollengode Market,2028,Big,FAQ,25000.0,35000.0,30000.0,Rs./Quintal,False,2022,7,July,2022-07,10.308985993422082
+2025-02-01,Potato,24,6,Keralam,17,Pothencode Market,2009,Other,FAQ,29250.0,29300.0,29280.0,Rs./Quintal,False,2025,2,February,2025-02,10.284694120497512
+2025-03-01,Potato,24,6,Keralam,17,Pothencode Market,2009,Other,FAQ,29250.0,29300.0,29280.0,Rs./Quintal,False,2025,3,March,2025-03,10.284694120497512
+2022-04-08,Onion,23,6,Keralam,17,Kollengode Market,2028,Big,FAQ,25000.0,30000.0,28000.0,Rs./Quintal,False,2022,4,April,2022-04,10.239995502805316
+2022-10-01,Rice,3,1,West Bengal,36,Kalimpong APMC,677,Other,FAQ,27000.0,29000.0,28000.0,Rs./Quintal,False,2022,10,October,2022-10,10.239995502805316
+2024-08-01,Potato,24,6,Keralam,17,Pothencode Market,2009,Other,FAQ,27000.0,27080.0,27040.0,Rs./Quintal,False,2024,8,August,2024-08,10.205109511721595
+2022-09-01,Rice,3,1,West Bengal,36,Kalimpong APMC,677,Other,FAQ,26000.0,28000.0,27000.0,Rs./Quintal,False,2022,9,September,2022-09,10.203629181337648
+2022-12-08,Banana,19,5,Keralam,17,Kollengode Market,2028,Palayamthodan,Large,25000.0,30000.0,27000.0,Rs./Quintal,False,2022,12,December,2022-12,10.203629181337648
+2024-07-01,Onion,23,6,Keralam,17,Pothencode Market,2009,Other,FAQ,26000.0,26080.0,26040.0,Rs./Quintal,False,2024,7,July,2024-07,10.167427498042906
+2023-12-01,Onion,23,6,Keralam,17,Pothencode Market,2009,Other,FAQ,25500.0,25580.0,25540.0,Rs./Quintal,False,2023,12,December,2023-12,10.148040283087838
+2024-10-01,Potato,24,6,Keralam,17,Pothencode Market,2009,Other,FAQ,25000.0,25080.0,25040.0,Rs./Quintal,False,2024,10,October,2024-10,10.128269760518846
+2022-02-01,Banana,19,5,Keralam,17,Kollengode Market,2028,Palayamthodan,Large,20000.0,30000.0,25000.0,Rs./Quintal,False,2022,2,February,2022-02,10.12667110305036
+2022-07-08,Banana,19,5,Keralam,17,Kollengode Market,2028,Palayamthodan,Large,20000.0,30000.0,25000.0,Rs./Quintal,False,2022,7,July,2022-07,10.12667110305036
+2022-06-01,Banana,19,5,Keralam,17,Kollengode Market,2028,Palayamthodan,Large,20000.0,30000.0,25000.0,Rs./Quintal,False,2022,6,June,2022-06,10.12667110305036
+2022-04-08,Banana,19,5,Keralam,17,Kollengode Market,2028,Palayamthodan,Large,20000.0,30000.0,25000.0,Rs./Quintal,False,2022,4,April,2022-04,10.12667110305036
+2022-06-08,Rice,3,1,West Bengal,36,Kalimpong APMC,677,Other,FAQ,22000.0,24000.0,23000.0,Rs./Quintal,False,2022,6,June,2022-06,10.043292972227004
+2022-07-08,Rice,3,1,West Bengal,36,Kalimpong APMC,677,Other,FAQ,22000.0,24000.0,23000.0,Rs./Quintal,False,2022,7,July,2022-07,10.043292972227004
+2024-08-01,Onion,23,6,Keralam,17,Pothencode Market,2009,Other,FAQ,22800.0,22880.0,22840.0,Rs./Quintal,False,2024,8,August,2024-08,10.036312445648633
+2024-06-01,Potato,24,6,Keralam,17,Pothencode Market,2009,Other,FAQ,22750.0,22800.0,22780.0,Rs./Quintal,False,2024,6,June,2024-06,10.033682134193954
+2024-07-01,Potato,24,6,Keralam,17,Pothencode Market,2009,Other,FAQ,22750.0,22800.0,22780.0,Rs./Quintal,False,2024,7,July,2024-07,10.033682134193954
+2025-04-01,Potato,24,6,Keralam,17,Pothencode Market,2009,Other,FAQ,22500.0,22580.0,22540.0,Rs./Quintal,False,2025,4,April,2025-04,10.02309115218196
+2015-01-08,Cotton,15,4,Meghalaya,22,Mawkyrwat APMC,1873,Other,FAQ,22000.0,22300.0,22150.0,Rs./Quintal,False,2015,1,January,2015-01,10.00563792118106
+2022-12-01,Banana,19,5,Keralam,17,Kollengode Market,2028,Palayamthodan,Large,20000.0,25000.0,22000.0,Rs./Quintal,False,2022,12,December,2022-12,9.99884318585288
+2022-06-01,Rice,3,1,West Bengal,36,Kalimpong APMC,677,Other,FAQ,21000.0,23000.0,22000.0,Rs./Quintal,False,2022,6,June,2022-06,9.99884318585288
+2022-02-08,Banana,19,5,Keralam,17,Kollengode Market,2028,Palayamthodan,Large,20000.0,25000.0,22000.0,Rs./Quintal,False,2022,2,February,2022-02,9.99884318585288
+2024-01-01,Potato,24,6,Keralam,17,Pothencode Market,2009,Other,FAQ,21000.0,21080.0,21040.0,Rs./Quintal,False,2024,1,January,2024-01,9.954228194239311
+2024-03-01,Onion,23,6,Maharashtra,20,APMC Kalyan ,169,1st Sort,FAQ,20000.0,22000.0,21000.0,Rs./Quintal,False,2024,3,March,2024-03,9.952325334619427
+2024-01-01,Onion,23,6,Keralam,17,Pothencode Market,2009,Other,FAQ,19800.0,19880.0,19840.0,Rs./Quintal,False,2024,1,January,2024-01,9.895505782794471
+2024-04-01,Potato,24,6,Keralam,17,Pothencode Market,2009,Other,FAQ,19500.0,19580.0,19540.0,Rs./Quintal,False,2024,4,April,2024-04,9.880270101359944
+2024-04-01,Onion,23,6,Keralam,17,Pothencode Market,2009,Other,FAQ,19500.0,19580.0,19540.0,Rs./Quintal,False,2024,4,April,2024-04,9.880270101359944
+2024-03-01,Potato,24,6,Keralam,17,Pothencode Market,2009,Other,FAQ,19250.0,19300.0,19280.0,Rs./Quintal,False,2024,3,March,2024-03,9.866875434039397
+2022-09-08,Rice,3,1,West Bengal,36,Kalimpong APMC,677,Other,FAQ,18000.0,20000.0,19000.0,Rs./Quintal,False,2022,9,September,2022-09,9.852246888342531
+2022-08-08,Rice,3,1,West Bengal,36,Kalimpong APMC,677,Other,FAQ,18000.0,20000.0,19000.0,Rs./Quintal,False,2022,8,August,2022-08,9.852246888342531
+2022-08-01,Rice,3,1,West Bengal,36,Kalimpong APMC,677,Other,FAQ,17050.0,19050.0,18050.0,Rs./Quintal,False,2022,8,August,2022-08,9.800956363888462
+2022-10-01,Banana,19,5,Meghalaya,22,Sohra APMC,3154,Other,Medium,16000.0,20000.0,18000.0,Rs./Quintal,False,2022,10,October,2022-10,9.798182590890704
+2022-08-01,Banana,19,5,Nagaland,24,Tuli APMC,3291,Other,Medium,17600.0,18150.0,17875.0,Rs./Quintal,False,2022,8,August,2022-08,9.791214310053341
+2022-03-01,Rice,3,1,West Bengal,36,Kalimpong APMC,677,Other,FAQ,16000.0,18000.0,17000.0,Rs./Quintal,False,2022,3,March,2022-03,9.741027444837728
+2024-06-01,Onion,23,6,Keralam,17,Pothencode Market,2009,Other,FAQ,16900.0,16980.0,16940.0,Rs./Quintal,False,2024,6,June,2024-06,9.737491998340946
+2023-11-01,Potato,24,6,Keralam,17,Pothencode Market,2009,Other,FAQ,16800.0,16880.0,16840.0,Rs./Quintal,False,2023,11,November,2023-11,9.731571668456054
+2024-03-01,Onion,23,6,Keralam,17,Pothencode Market,2009,Other,FAQ,16500.0,16540.0,16540.0,Rs./Quintal,False,2024,3,March,2024-03,9.713597426242222
+2023-06-01,Rice,3,1,Karnataka,16,Mysuru APMC,115,Basmati,FAQ,4500.0,16500.0,16500.0,Rs./Quintal,False,2023,6,June,2023-06,9.711176264112805
+2024-02-01,Potato,24,6,Keralam,17,Pothencode Market,2009,Other,FAQ,16250.0,16300.0,16280.0,Rs./Quintal,False,2024,2,February,2024-02,9.697754062731514
+2018-06-01,Rice,3,1,Nagaland,24,Jalukie APMC,195,1009 Kar,FAQ,16000.0,16200.0,16100.0,Rs./Quintal,False,2018,6,June,2018-06,9.686636660844938
+2024-08-01,Banana,19,5,Keralam,17,Muriyad  VFPCK Market,4361,Rasakathai,Large,12000.0,16500.0,16000.0,Rs./Quintal,False,2024,8,August,2024-08,9.680406499268875
+2016-07-08,Cotton,15,4,Karnataka,16,Gokak APMC,693,Suyodhar  (Ginned),FAQ,15700.0,15800.0,15700.0,Rs./Quintal,False,2016,7,July,2016-07,9.661479683575521
+2021-12-08,Cotton,15,4,Karnataka,16,Yellapur APMC,767,Varalakshmi  (Ginned),FAQ,12339.0,16279.0,15609.0,Rs./Quintal,False,2021,12,December,2021-12,9.655667013509477
+2023-05-01,Banana,19,5,Nagaland,24,Tuli APMC,3291,Other,Medium,15000.0,15400.0,15200.0,Rs./Quintal,False,2023,5,May,2023-05,9.62911649414402
+2021-12-01,Cotton,15,4,Karnataka,16,Yellapur APMC,767,Varalakshmi  (Ginned),FAQ,12600.0,15659.0,15190.0,Rs./Quintal,False,2021,12,December,2021-12,9.628458426207663
+2023-12-01,Potato,24,6,Keralam,17,Pothencode Market,2009,Other,FAQ,15000.0,15080.0,15040.0,Rs./Quintal,False,2023,12,December,2023-12,9.618535084655214
+2020-01-01,Onion,23,6,Keralam,17,Chengannur Market,2015,Small,FAQ,14700.0,15200.0,15000.0,Rs./Quintal,False,2020,1,January,2020-01,9.61587214452889
+2020-01-01,Onion,23,6,Keralam,17,Thodupuzha Market,1081,Small,FAQ,14000.0,15000.0,15000.0,Rs./Quintal,False,2020,1,January,2020-01,9.61587214452889
+2020-01-01,Onion,23,6,Keralam,17,Chala Market,2693,Onion,FAQ,14700.0,14754.0,14720.0,Rs./Quintal,False,2020,1,January,2020-01,9.597030324758013
+2024-05-01,Onion,23,6,Keralam,17,Koduvayoor Market,136,Small,FAQ,14500.0,14900.0,14700.0,Rs./Quintal,False,2024,5,May,2024-05,9.595670797663967
+2022-11-01,Groundnut,10,3,Maharashtra,20,APMC Dondaicha ,545,Other,FAQ,10000.0,19000.0,14401.0,Rs./Quintal,False,2022,11,November,2022-11,9.575122364808813
+2024-02-01,Onion,23,6,Keralam,17,Pothencode Market,2009,Other,FAQ,14300.0,14380.0,14340.0,Rs./Quintal,False,2024,2,February,2024-02,9.570877846729212
+2021-11-08,Cotton,15,4,Karnataka,16,Ranebennur APMC,110,Varalakshmi  (Ginned),Medium,5059.0,15609.0,14169.0,Rs./Quintal,False,2021,11,November,2021-11,9.558882332684727
+2023-08-01,Potato,24,6,Nagaland,24,Jalukie APMC,195,Other,FAQ,14000.0,14200.0,14100.0,Rs./Quintal,False,2023,8,August,2023-08,9.55400099583723
+2020-01-01,Onion,23,6,Keralam,17,Palakkad Market,135,Small,FAQ,13500.0,14500.0,14100.0,Rs./Quintal,False,2020,1,January,2020-01,9.55400099583723
+2021-12-08,Cotton,15,4,Karnataka,16,Shimoga APMC,753,LD-327,FAQ,3196.0,15659.0,14088.0,Rs./Quintal,False,2021,12,December,2021-12,9.553149630053277
+2023-07-01,Potato,24,6,Keralam,17,Pothencode Market,2009,Other,FAQ,14000.0,14080.0,14040.0,Rs./Quintal,False,2023,7,July,2023-07,9.549736900114642
+2022-02-01,Rice,3,1,West Bengal,36,Kalimpong APMC,677,Other,FAQ,13000.0,15000.0,14000.0,Rs./Quintal,False,2022,2,February,2022-02,9.546884034617925
+2022-09-01,Banana,19,5,Keralam,17,Mattathur VFPCK Market,3386,Rasakathai,Medium,11000.0,15000.0,14000.0,Rs./Quintal,False,2022,9,September,2022-09,9.546884034617925
+2022-12-08,Banana,19,5,Keralam,17,Mattathur VFPCK Market,3386,Rasakathai,Medium,10000.0,15000.0,14000.0,Rs./Quintal,False,2022,12,December,2022-12,9.546884034617925
+2023-06-01,Potato,24,6,Keralam,17,Pothencode Market,2009,Other,FAQ,13950.0,14000.0,13980.0,Rs./Quintal,False,2023,6,June,2023-06,9.545454543987825
+2023-09-01,Potato,24,6,Nagaland,24,Jalukie APMC,195,Other,FAQ,13500.0,13700.0,13600.0,Rs./Quintal,False,2023,9,September,2023-09,9.517898598432753
+2023-03-01,Potato,24,6,Keralam,17,Pothencode Market,2009,Other,FAQ,13500.0,13580.0,13540.0,Rs./Quintal,False,2023,3,March,2023-03,9.513477398982824
+2020-01-01,Onion,23,6,Keralam,17,Aluva Market,126,Small,FAQ,13000.0,14000.0,13500.0,Rs./Quintal,False,2020,1,January,2020-01,9.510519035757246
+2020-01-01,Onion,23,6,Keralam,17,Pattambi Market,2177,Small,FAQ,13000.0,14000.0,13500.0,Rs./Quintal,False,2020,1,January,2020-01,9.510519035757246
+2023-05-01,Groundnut,10,3,Uttarakhand,35,Haldwani APMC,1070,Other,FAQ,13335.0,13335.0,13335.0,Rs./Quintal,False,2023,5,May,2023-05,9.49822242443063
+2025-12-01,Groundnut,10,3,Andhra Pradesh,2,Yemmiganur APMC,1059,Local,Local,13047.5,17522.5,13050.0,Rs./Quintal,False,2025,12,December,2025-12,9.476620038167528
+2022-06-01,Cotton,15,4,Rajasthan,29,HanumangarhTown APMC,2758,Desi,FAQ,13000.0,13002.0,13001.0,Rs./Quintal,False,2022,6,June,2022-06,9.472858470764415
+2025-02-01,Banana,19,5,Tamil Nadu,31,Palayamkottai(Uzhavar Sandhai ),4160,Besrai,Local,6000.0,13000.0,13000.0,Rs./Quintal,False,2025,2,February,2025-02,9.472781556562168
+2022-08-01,Banana,19,5,Keralam,17,Mattathur VFPCK Market,3386,Rasakathai,Medium,12000.0,14000.0,13000.0,Rs./Quintal,False,2022,8,August,2022-08,9.472781556562168
+2025-02-08,Banana,19,5,Tamil Nadu,31,Melapalayam(Uzhavar Sandhai ),4162,Besrai,Local,6000.0,13000.0,13000.0,Rs./Quintal,False,2025,2,February,2025-02,9.472781556562168
+2022-04-01,Rice,3,1,West Bengal,36,Kalimpong APMC,677,Other,FAQ,12000.0,14000.0,13000.0,Rs./Quintal,False,2022,4,April,2022-04,9.472781556562168
+2025-02-08,Banana,19,5,Tamil Nadu,31,Palayamkottai(Uzhavar Sandhai ),4160,Besrai,Local,6000.0,13000.0,13000.0,Rs./Quintal,False,2025,2,February,2025-02,9.472781556562168
+2023-08-01,Onion,23,6,Keralam,17,Kottayam Market,132,Onion,FAQ,11000.0,15000.0,13000.0,Rs./Quintal,False,2023,8,August,2023-08,9.472781556562168
+2025-02-01,Banana,19,5,Tamil Nadu,31,Melapalayam(Uzhavar Sandhai ),4162,Besrai,Local,6000.0,13000.0,13000.0,Rs./Quintal,False,2025,2,February,2025-02,9.472781556562168
+2025-09-08,Groundnut,10,3,Madhya Pradesh,19,Bhopal APMC,172,Groundnut seed,FAQ,12983.0,12983.0,12983.0,Rs./Quintal,False,2025,9,September,2025-09,9.471473109194427
+2021-12-01,Cotton,15,4,Karnataka,16,Shimoga APMC,753,LD-327,FAQ,2611.0,15501.0,12963.0,Rs./Quintal,False,2021,12,December,2021-12,9.469931564261438
+2020-01-01,Onion,23,6,Keralam,17,Kothamangalam Market,2681,Other,FAQ,12500.0,13000.0,12800.0,Rs./Quintal,False,2020,1,January,2020-01,9.45727857185611
+2019-12-01,Onion,23,6,Keralam,17,Ettumanoor Market,2020,Onion,FAQ,12500.0,12800.0,12800.0,Rs./Quintal,False,2019,12,December,2019-12,9.45727857185611
+2022-01-01,Cotton,15,4,Madhya Pradesh,19,Sailana APMC,2088,DCH-32(Unginned),FAQ,12000.0,13550.0,12775.0,Rs./Quintal,False,2022,1,January,2022-01,9.455323689894849
+2024-03-01,Rice,3,1,Karnataka,16,Mysuru APMC,115,Basmati,FAQ,12751.0,12751.0,12751.0,Rs./Quintal,False,2024,3,March,2024-03,9.453443401029997
+2020-07-08,Groundnut,10,3,Maharashtra,20,APMC Nandurbar ,157,Other,FAQ,11000.0,12700.0,12700.0,Rs./Quintal,False,2020,7,July,2020-07,9.44943600950432
+2024-07-08,Banana,19,5,Keralam,17,Muriyad  VFPCK Market,4361,Rasakathai,Large,12700.0,12700.0,12700.0,Rs./Quintal,False,2024,7,July,2024-07,9.44943600950432
+2022-06-01,Cotton,15,4,Telangana,32,Kesamudram APMC,378,Cotton (Unginned),FAQ,8766.0,12643.0,12643.0,Rs./Quintal,False,2022,6,June,2022-06,9.444938073335509
+2017-07-01,Onion,23,6,Keralam,17,Chala Market,2693,Onion,FAQ,12600.0,12652.0,12627.0,Rs./Quintal,False,2017,7,July,2017-07,9.443671849677882
+2018-06-08,Rice,3,1,Nagaland,24,Jalukie APMC,195,1009 Kar,FAQ,12400.0,12700.0,12600.0,Rs./Quintal,False,2018,6,June,2018-06,9.441531454869693
+2020-01-08,Onion,23,6,Keralam,17,Kayamkulam Market,2016,Small,FAQ,12500.0,12700.0,12600.0,Rs./Quintal,False,2020,1,January,2020-01,9.441531454869693
+2023-06-01,Potato,24,6,Nagaland,24,Jalukie APMC,195,Other,FAQ,12500.0,12700.0,12600.0,Rs./Quintal,False,2023,6,June,2023-06,9.441531454869693
+2022-06-01,Cotton,15,4,Madhya Pradesh,19,Sendhwa APMC,1091,H4,FAQ,10578.0,12600.0,12600.0,Rs./Quintal,False,2022,6,June,2022-06,9.441531454869693
+2024-06-01,Rice,3,1,Karnataka,16,Mysuru APMC,115,Basmati,FAQ,12552.0,12552.0,12552.0,Rs./Quintal,False,2024,6,June,2024-06,9.437714959818209
+2023-07-01,Onion,23,6,Keralam,17,Pothencode Market,2009,Other,FAQ,12500.0,12580.0,12540.0,Rs./Quintal,False,2023,7,July,2023-07,9.43675855582405
+2022-04-08,Cotton,15,4,Gujarat,11,Hadad     APMC,2578,Shanker 6 (B) 30mm FIne,FAQ,9500.0,13500.0,12500.0,Rs./Quintal,False,2022,4,April,2022-04,9.433563920090563
+2015-12-01,Lentil,52,2,Manipur,21,Thoubal APMC,1119,Other,FAQ,12450.0,12550.0,12500.0,Rs./Quintal,False,2015,12,December,2015-12,9.433563920090563
+2016-08-08,Lentil,52,2,Manipur,21,Bishenpur APMC,584,Other,FAQ,12450.0,12550.0,12500.0,Rs./Quintal,False,2016,8,August,2016-08,9.433563920090563
+2016-01-01,Lentil,52,2,Manipur,21,Bishenpur APMC,584,Other,FAQ,12450.0,12550.0,12500.0,Rs./Quintal,False,2016,1,January,2016-01,9.433563920090563
+2016-02-01,Lentil,52,2,Manipur,21,Bishenpur APMC,584,Other,FAQ,12450.0,12550.0,12500.0,Rs./Quintal,False,2016,2,February,2016-02,9.433563920090563
+2023-12-01,Banana,19,5,Keralam,17,Mattathur VFPCK Market,3386,Rasakathai,Large,12500.0,12500.0,12500.0,Rs./Quintal,False,2023,12,December,2023-12,9.433563920090563
+2020-01-01,Onion,23,6,Keralam,17,Kayamkulam Market,2016,Small,FAQ,12400.0,12600.0,12500.0,Rs./Quintal,False,2020,1,January,2020-01,9.433563920090563
+2020-01-01,Onion,23,6,Keralam,17,Mukkom Market,2690,Onion,FAQ,12000.0,13000.0,12500.0,Rs./Quintal,False,2020,1,January,2020-01,9.433563920090563
+2016-03-01,Lentil,52,2,Manipur,21,Bishenpur APMC,584,Other,FAQ,12450.0,12550.0,12500.0,Rs./Quintal,False,2016,3,March,2016-03,9.433563920090563
+2022-06-01,Cotton,15,4,Madhya Pradesh,19,Badwaha APMC,2095,Other,FAQ,11705.0,12600.0,12500.0,Rs./Quintal,False,2022,6,June,2022-06,9.433563920090563
+2022-04-08,Cotton,15,4,Gujarat,11,Bodeliu APMC,432,Shanker 6 (B) 30mm FIne,FAQ,9500.0,13301.0,12500.0,Rs./Quintal,False,2022,4,April,2022-04,9.433563920090563
+2025-12-01,Groundnut,10,3,Madhya Pradesh,19,Bhopal APMC,172,Groundnut seed,FAQ,12461.75,12461.75,12461.75,Rs./Quintal,False,2025,12,December,2025-12,9.430499474249432
+2021-12-01,Cotton,15,4,Madhya Pradesh,19,Jhabua APMC,2115,Other,FAQ,12400.0,12500.0,12450.0,Rs./Quintal,False,2021,12,December,2021-12,9.429556219952412
+2022-04-08,Cotton,15,4,Maharashtra,20,APMC  Chimur,1349,Other,FAQ,12350.0,12425.0,12400.0,Rs./Quintal,False,2022,4,April,2022-04,9.425532393502772
+2022-04-08,Cotton,15,4,Telangana,32,Khammam APMC,5,Cotton (Unginned),FAQ,8000.0,12400.0,12400.0,Rs./Quintal,False,2022,4,April,2022-04,9.425532393502772
+2025-08-08,Groundnut,10,3,Madhya Pradesh,19,Bhopal APMC,172,Groundnut seed,FAQ,12363.0,12363.0,12363.0,Rs./Quintal,False,2025,8,August,2025-08,9.422544303252007
+2016-11-08,Rice,3,1,Keralam,17,Cherthala Market,2018,Basmati Paddy,FAQ,12300.0,12400.0,12350.0,Rs./Quintal,False,2016,11,November,2016-11,9.421492310438014
+2022-01-01,Cotton,15,4,Karnataka,16,Shimoga APMC,753,LD-327,FAQ,9209.0,15489.0,12349.0,Rs./Quintal,False,2022,1,January,2022-01,9.421411342056123
+2022-05-01,Cotton,15,4,Maharashtra,20,APMC Sonpeth ,2047,Other,FAQ,9200.0,12350.0,12300.0,Rs./Quintal,False,2022,5,May,2022-05,9.417435838868785
+2022-06-08,Cotton,15,4,Madhya Pradesh,19,Sendhwa APMC,1091,H4,FAQ,11600.0,12700.0,12300.0,Rs./Quintal,False,2022,6,June,2022-06,9.417435838868785
+2023-10-08,Banana,19,5,Nagaland,24,Tuensang APMC,1698,Other,Medium,12200.0,12500.0,12300.0,Rs./Quintal,False,2023,10,October,2023-10,9.417435838868785
+2022-04-08,Cotton,15,4,Karnataka,16,Haveri APMC,109,GCH,Medium,12100.0,12309.0,12300.0,Rs./Quintal,False,2022,4,April,2022-04,9.417435838868785
+2023-07-08,Groundnut,10,3,Gujarat,11,Jetpur(Dist.Rajkot) APMC,1615,Other,FAQ,5305.0,12730.0,12255.0,Rs./Quintal,False,2023,7,July,2023-07,9.413770891980372
+2022-04-08,Cotton,15,4,Maharashtra,20,APMC Umared ,156,Desi,FAQ,9000.0,12350.0,12250.0,Rs./Quintal,False,2022,4,April,2022-04,9.41336284529417
+2022-04-01,Cotton,15,4,Maharashtra,20,APMC Manwat ,1325,Desi,FAQ,9500.0,12550.0,12250.0,Rs./Quintal,False,2022,4,April,2022-04,9.41336284529417
+2022-06-08,Cotton,15,4,Karnataka,16,Raichur APMC,116,F-1054,FAQ,9500.0,13000.0,12200.0,Rs./Quintal,False,2022,6,June,2022-06,9.409273194575334
+2022-04-08,Cotton,15,4,Maharashtra,20,APMC Manwat ,1325,Desi,FAQ,9300.0,12330.0,12160.0,Rs./Quintal,False,2022,4,April,2022-04,9.405989388981
+2023-08-01,Banana,19,5,Nagaland,24,Tuli APMC,3291,Other,Medium,12000.0,12300.0,12150.0,Rs./Quintal,False,2023,8,August,2023-08,9.405166749908611
+2022-06-01,Cotton,15,4,Telangana,32,Jammikunta APMC,4,Cotton (Unginned),FAQ,10500.0,12600.0,12100.0,Rs./Quintal,False,2022,6,June,2022-06,9.401043372798053
+2017-07-08,Onion,23,6,Keralam,17,Mannar Market,2673,Small,FAQ,12000.0,12200.0,12100.0,Rs./Quintal,False,2017,7,July,2017-07,9.401043372798053
+2022-04-08,Cotton,15,4,Maharashtra,20,APMC Parbhani ,567,Other,FAQ,9600.0,12300.0,12100.0,Rs./Quintal,False,2022,4,April,2022-04,9.401043372798053
+2022-06-01,Cotton,15,4,Rajasthan,29,Rawatsar APMC,1389,American,FAQ,12100.0,12100.0,12100.0,Rs./Quintal,False,2022,6,June,2022-06,9.401043372798053
+2018-02-01,Maize,4,1,Tamil Nadu,31,Tiruchengode APMC,2940,Other,FAQ,11500.0,12229.0,12092.0,Rs./Quintal,False,2018,2,February,2018-02,9.400382051785275
+2025-06-01,Groundnut,10,3,Madhya Pradesh,19,Bhopal APMC,172,Groundnut seed,FAQ,12062.0,12062.0,12062.0,Rs./Quintal,False,2025,6,June,2025-06,9.397898195565384
+2022-05-08,Cotton,15,4,Rajasthan,29,Goluwala APMC,1387,American,FAQ,11700.0,12450.0,12025.0,Rs./Quintal,False,2022,5,May,2022-05,9.394826251599515
+2017-07-01,Onion,23,6,Keralam,17,Aralamoodu Market,2008,Onion,FAQ,12000.0,12000.0,12000.0,Rs./Quintal,False,2017,7,July,2017-07,9.392745258631441
+2023-02-08,Groundnut,10,3,Tamil Nadu,31,Vellore APMC,1469,Other,FAQ,9869.0,12020.0,12000.0,Rs./Quintal,False,2023,2,February,2023-02,9.392745258631441
+2025-03-01,Banana,19,5,Tamil Nadu,31,Krishnagiri(Uzhavar Sandhai ),4097,Besrai,Local,6000.0,12000.0,12000.0,Rs./Quintal,False,2025,3,March,2025-03,9.392745258631441
+2024-09-01,Banana,19,5,Tamil Nadu,31,Palayamkottai(Uzhavar Sandhai ),4160,Besrai,Local,6000.0,12000.0,12000.0,Rs./Quintal,False,2024,9,September,2024-09,9.392745258631441
+2025-03-08,Banana,19,5,Tamil Nadu,31,Palayamkottai(Uzhavar Sandhai ),4160,Besrai,Local,6000.0,12000.0,12000.0,Rs./Quintal,False,2025,3,March,2025-03,9.392745258631441
+2025-03-01,Banana,19,5,Tamil Nadu,31,Ranipettai(Uzhavar Sandhai ),4225,Besrai,Local,4000.0,12000.0,12000.0,Rs./Quintal,False,2025,3,March,2025-03,9.392745258631441
+2025-01-08,Banana,19,5,Tamil Nadu,31,Melapalayam(Uzhavar Sandhai ),4162,Besrai,Local,6000.0,12000.0,12000.0,Rs./Quintal,False,2025,1,January,2025-01,9.392745258631441
+2025-03-08,Banana,19,5,Tamil Nadu,31,Melapalayam(Uzhavar Sandhai ),4162,Besrai,Local,6000.0,12000.0,12000.0,Rs./Quintal,False,2025,3,March,2025-03,9.392745258631441
+2025-03-08,Banana,19,5,Tamil Nadu,31,Krishnagiri(Uzhavar Sandhai ),4097,Besrai,Local,6000.0,12000.0,12000.0,Rs./Quintal,False,2025,3,March,2025-03,9.392745258631441
+2025-03-08,Banana,19,5,Tamil Nadu,31,NGO Colony(Uzhavar Sandhai ),4164,Besrai,Local,8000.0,12000.0,12000.0,Rs./Quintal,False,2025,3,March,2025-03,9.392745258631441
+2025-01-08,Banana,19,5,Tamil Nadu,31,Palayamkottai(Uzhavar Sandhai ),4160,Besrai,Local,6000.0,12000.0,12000.0,Rs./Quintal,False,2025,1,January,2025-01,9.392745258631441
+2025-03-01,Banana,19,5,Tamil Nadu,31,Melapalayam(Uzhavar Sandhai ),4162,Besrai,Local,6000.0,12000.0,12000.0,Rs./Quintal,False,2025,3,March,2025-03,9.392745258631441
+2025-02-08,Banana,19,5,Tamil Nadu,31,Ranipettai(Uzhavar Sandhai ),4225,Besrai,Local,4000.0,12000.0,12000.0,Rs./Quintal,False,2025,2,February,2025-02,9.392745258631441
+2025-03-01,Banana,19,5,Tamil Nadu,31,NGO Colony(Uzhavar Sandhai ),4164,Besrai,Local,8000.0,12000.0,12000.0,Rs./Quintal,False,2025,3,March,2025-03,9.392745258631441
+2025-03-01,Banana,19,5,Tamil Nadu,31,Palayamkottai(Uzhavar Sandhai ),4160,Besrai,Local,6000.0,12000.0,12000.0,Rs./Quintal,False,2025,3,March,2025-03,9.392745258631441
+2025-02-08,Banana,19,5,Tamil Nadu,31,NGO Colony(Uzhavar Sandhai ),4164,Besrai,Local,8000.0,12000.0,12000.0,Rs./Quintal,False,2025,2,February,2025-02,9.392745258631441
+2025-04-01,Banana,19,5,Tamil Nadu,31,Ranipettai(Uzhavar Sandhai ),4225,Besrai,Local,5000.0,12000.0,12000.0,Rs./Quintal,False,2025,4,April,2025-04,9.392745258631441
+2022-12-01,Banana,19,5,Keralam,17,Mattathur VFPCK Market,3386,Rasakathai,Medium,10000.0,14000.0,12000.0,Rs./Quintal,False,2022,12,December,2022-12,9.392745258631441
+2023-09-01,Groundnut,10,3,Tamil Nadu,31,Vellore APMC,1469,Other,FAQ,11111.0,12146.0,12000.0,Rs./Quintal,False,2023,9,September,2023-09,9.392745258631441
+2020-04-01,Onion,23,6,Keralam,17,Harippad Market,2017,Other,FAQ,10000.0,12000.0,12000.0,Rs./Quintal,False,2020,4,April,2020-04,9.392745258631441
+2025-02-08,Banana,19,5,Tamil Nadu,31,Krishnagiri(Uzhavar Sandhai ),4097,Besrai,Local,6000.0,12000.0,12000.0,Rs./Quintal,False,2025,2,February,2025-02,9.392745258631441
+2025-02-01,Banana,19,5,Tamil Nadu,31,Ranipettai(Uzhavar Sandhai ),4225,Besrai,Local,4000.0,12000.0,12000.0,Rs./Quintal,False,2025,2,February,2025-02,9.392745258631441
+2025-02-08,Banana,19,5,Tamil Nadu,31,Hosur(Uzhavar Sandhai ),4096,Besrai,Local,10000.0,12000.0,12000.0,Rs./Quintal,False,2025,2,February,2025-02,9.392745258631441
+2023-09-08,Groundnut,10,3,Tamil Nadu,31,Vellore APMC,1469,Other,FAQ,9047.0,12835.0,12000.0,Rs./Quintal,False,2023,9,September,2023-09,9.392745258631441
+2017-07-08,Onion,23,6,Keralam,17,ARWM Muvattupuzha,127,Small,FAQ,11500.0,12400.0,12000.0,Rs./Quintal,False,2017,7,July,2017-07,9.392745258631441
+2017-07-01,Onion,23,6,Keralam,17,Harippad Market,2017,Other,FAQ,12000.0,14000.0,12000.0,Rs./Quintal,False,2017,7,July,2017-07,9.392745258631441
+2022-08-08,Banana,19,5,Keralam,17,Mattathur VFPCK Market,3386,Rasakathai,Medium,10000.0,14000.0,12000.0,Rs./Quintal,False,2022,8,August,2022-08,9.392745258631441
+2024-08-08,Banana,19,5,Keralam,17,Muriyad  VFPCK Market,4361,Rasakathai,Large,8000.0,14000.0,12000.0,Rs./Quintal,False,2024,8,August,2024-08,9.392745258631441
+2024-09-08,Banana,19,5,Tamil Nadu,31,Paramakudi(Uzhavar Sandhai ),4130,Besrai,Local,10000.0,12000.0,12000.0,Rs./Quintal,False,2024,9,September,2024-09,9.392745258631441
+2021-02-08,Onion,23,6,Keralam,17,Munnar Market,1975,Small,FAQ,10000.0,12000.0,12000.0,Rs./Quintal,False,2021,2,February,2021-02,9.392745258631441
+2020-01-01,Onion,23,6,Keralam,17,Aralamoodu Market,2008,Onion,FAQ,12000.0,12000.0,12000.0,Rs./Quintal,False,2020,1,January,2020-01,9.392745258631441
+2017-11-01,Onion,23,6,Keralam,17,Aralamoodu Market,2008,Onion,FAQ,12000.0,12000.0,12000.0,Rs./Quintal,False,2017,11,November,2017-11,9.392745258631441
+2017-12-01,Onion,23,6,Keralam,17,Munnar Market,1975,Small,FAQ,12000.0,12000.0,12000.0,Rs./Quintal,False,2017,12,December,2017-12,9.392745258631441
+2017-08-01,Onion,23,6,Keralam,17,Parassala Market,2010,Small,FAQ,12000.0,12000.0,12000.0,Rs./Quintal,False,2017,8,August,2017-08,9.392745258631441
+2022-01-01,Cotton,15,4,Madhya Pradesh,19,Petlawad APMC,1229,DCH-32(Unginned),FAQ,12000.0,12000.0,12000.0,Rs./Quintal,False,2022,1,January,2022-01,9.392745258631441
+2025-02-01,Banana,19,5,Tamil Nadu,31,Hosur(Uzhavar Sandhai ),4096,Besrai,Local,10000.0,12000.0,12000.0,Rs./Quintal,False,2025,2,February,2025-02,9.392745258631441
+2025-02-01,Banana,19,5,Tamil Nadu,31,Krishnagiri(Uzhavar Sandhai ),4097,Besrai,Local,5000.0,12000.0,12000.0,Rs./Quintal,False,2025,2,February,2025-02,9.392745258631441
+2016-10-08,Lentil,52,2,Keralam,17,Kollengode Market,2028,Masur Dal,FAQ,11800.0,12050.0,12000.0,Rs./Quintal,False,2016,10,October,2016-10,9.392745258631441
+2020-01-08,Onion,23,6,Keralam,17,Vandiperiyar Market,2677,Small,FAQ,12000.0,12000.0,12000.0,Rs./Quintal,False,2020,1,January,2020-01,9.392745258631441
+2025-02-01,Banana,19,5,Tamil Nadu,31,NGO Colony(Uzhavar Sandhai ),4164,Besrai,Local,8000.0,12000.0,12000.0,Rs./Quintal,False,2025,2,February,2025-02,9.392745258631441
+2023-11-01,Onion,23,6,Keralam,17,Kottayam Market,132,Onion,FAQ,10000.0,14000.0,12000.0,Rs./Quintal,False,2023,11,November,2023-11,9.392745258631441
+2022-03-01,Cotton,15,4,Madhya Pradesh,19,Thandla APMC,2096,DCH-32  (Ginned),FAQ,9000.0,12000.0,12000.0,Rs./Quintal,False,2022,3,March,2022-03,9.392745258631441
+2023-02-08,Groundnut,10,3,Tamil Nadu,31,Thirukovilur APMC,290,Other,FAQ,11636.0,12363.0,11986.0,Rs./Quintal,False,2023,2,February,2023-02,9.3915780082071
+2022-04-08,Cotton,15,4,Telangana,32,Jammikunta APMC,4,Cotton (Unginned),FAQ,9000.0,12060.0,11960.0,Rs./Quintal,False,2022,4,April,2022-04,9.389406636049465
+2022-01-01,Cotton,15,4,Madhya Pradesh,19,Jhabua APMC,2115,Other,FAQ,11457.0,12435.0,11946.0,Rs./Quintal,False,2022,1,January,2022-01,9.388235479817224
+2022-04-08,Cotton,15,4,Madhya Pradesh,19,Gandhwani APMC,2657,Other,FAQ,11850.0,12300.0,11940.0,Rs./Quintal,False,2022,4,April,2022-04,9.387733135533384
+2023-11-01,Banana,19,5,Nagaland,24,Tuensang APMC,1698,Other,Medium,11800.0,12100.0,11900.0,Rs./Quintal,False,2023,11,November,2023-11,9.38437770918244
+2022-06-08,Cotton,15,4,Telangana,32,Kesamudram APMC,378,Cotton (Unginned),FAQ,4145.0,11899.0,11889.0,Rs./Quintal,False,2022,6,June,2022-06,9.383452989684827
+2022-04-08,Cotton,15,4,Rajasthan,29,Hanumangarh APMC,258,Desi,FAQ,10900.0,11911.0,11850.0,Rs./Quintal,False,2022,4,April,2022-04,9.380167531188448
+2022-06-08,Cotton,15,4,Gujarat,11,Rajkot APMC,60,Narma BT Cotton,FAQ,10500.0,13000.0,11850.0,Rs./Quintal,False,2022,6,June,2022-06,9.380167531188448
+2022-04-08,Cotton,15,4,Rajasthan,29,Suratgarh APMC,1391,American,FAQ,11820.0,11820.0,11820.0,Rs./Quintal,False,2022,4,April,2022-04,9.377632889750377
+2016-07-01,Cotton,15,4,Karnataka,16,Shiggoan APMC,1604,Aka-1 (Unginned),FAQ,11800.0,11850.0,11810.0,Rs./Quintal,False,2016,7,July,2016-07,9.376786579611847
+2022-04-01,Cotton,15,4,Maharashtra,20,APMC Kille Dharur ,1944,Other,FAQ,11608.0,11806.0,11806.0,Rs./Quintal,False,2022,4,April,2022-04,9.37644785490711
+2022-04-01,Cotton,15,4,Tamil Nadu,31,Kolathur APMC,2942,Other,FAQ,10100.0,12000.0,11800.0,Rs./Quintal,False,2022,4,April,2022-04,9.375939552625749
+2022-04-08,Cotton,15,4,Rajasthan,29,Hanumangarh Town APMC,2474,American,FAQ,8500.0,12000.0,11800.0,Rs./Quintal,False,2022,4,April,2022-04,9.375939552625749
+2021-02-01,Onion,23,6,Keralam,17,Kanjirappally Market,2021,Onion,FAQ,11000.0,12000.0,11800.0,Rs./Quintal,False,2021,2,February,2021-02,9.375939552625749
+2021-02-08,Onion,23,6,Keralam,17,Kanjirappally Market,2021,Onion,FAQ,11000.0,12000.0,11800.0,Rs./Quintal,False,2021,2,February,2021-02,9.375939552625749
+2023-01-01,Onion,23,6,Keralam,17,Kanjirappally Market,2021,Onion,FAQ,11000.0,12000.0,11800.0,Rs./Quintal,False,2023,1,January,2023-01,9.375939552625749
+2021-03-01,Onion,23,6,Keralam,17,Kanjirappally Market,2021,Onion,FAQ,11000.0,12000.0,11800.0,Rs./Quintal,False,2021,3,March,2021-03,9.375939552625749
+2022-05-01,Cotton,15,4,Rajasthan,29,Goluwala APMC,1387,American,FAQ,11500.0,12529.0,11800.0,Rs./Quintal,False,2022,5,May,2022-05,9.375939552625749
+2022-03-01,Cotton,15,4,Maharashtra,20,APMC  Chimur,1349,Other,FAQ,11700.0,12011.0,11800.0,Rs./Quintal,False,2022,3,March,2022-03,9.375939552625749
+2022-06-01,Cotton,15,4,Karnataka,16,Soundati APMC,698,GCH,FAQ,11400.0,11909.0,11782.0,Rs./Quintal,False,2022,6,June,2022-06,9.37441309371334
+2022-06-01,Cotton,15,4,Gujarat,11,Jetpur(Dist.Rajkot) APMC,1615,Cotton (Unginned),FAQ,7500.0,13455.0,11750.0,Rs./Quintal,False,2022,6,June,2022-06,9.371693622333941
+2022-06-01,Cotton,15,4,Gujarat,11,Rajkot APMC,60,Narma BT Cotton,FAQ,10750.0,13375.0,11750.0,Rs./Quintal,False,2022,6,June,2022-06,9.371693622333941
+2022-04-08,Cotton,15,4,Gujarat,11,JASDAN APMC,780,Shanker 6 (B) 30mm FIne,FAQ,9250.0,12750.0,11750.0,Rs./Quintal,False,2022,4,April,2022-04,9.371693622333941
+2022-08-01,Cotton,15,4,Tamil Nadu,31,Vikkiravandi APMC,1672,Other,FAQ,11640.0,11770.0,11720.0,Rs./Quintal,False,2022,8,August,2022-08,9.36913738372318
+2022-04-08,Cotton,15,4,Rajasthan,29,Sri Vijayanagar APMC,1414,American,FAQ,11710.0,11710.0,11710.0,Rs./Quintal,False,2022,4,April,2022-04,9.368283850042138
+2022-04-01,Cotton,15,4,Maharashtra,20,APMC Parbhani ,567,Other,FAQ,9000.0,12000.0,11700.0,Rs./Quintal,False,2022,4,April,2022-04,9.367429587218957
+2022-06-01,Cotton,15,4,Andhra Pradesh,2,Adoni APMC,828,Bunny,FAQ,6906.0,12977.0,11679.0,Rs./Quintal,False,2022,6,June,2022-06,9.365633256382218
+2022-04-01,Cotton,15,4,Maharashtra,20,APMC  Chimur,1349,Other,FAQ,11500.0,11700.0,11650.0,Rs./Quintal,False,2022,4,April,2022-04,9.36314729221994
+2022-04-01,Cotton,15,4,Rajasthan,29,Hanumangarh Town APMC,2474,American,FAQ,10755.0,11855.0,11630.0,Rs./Quintal,False,2022,4,April,2022-04,9.36142922633904
+2023-12-08,Groundnut,10,3,Tamil Nadu,31,Vellore APMC,1469,Other,FAQ,11587.0,11621.0,11621.0,Rs./Quintal,False,2023,12,December,2023-12,9.360655132635051
+2015-10-01,Lentil,52,2,Manipur,21,Lamlong Bazaar APMC,171,Other,FAQ,,11600.0,11600.0,Rs./Quintal,False,2015,10,October,2015-10,9.358846580275406
+2022-06-08,Cotton,15,4,Madhya Pradesh,19,Gandhwani APMC,2657,Other,FAQ,10800.0,12100.0,11600.0,Rs./Quintal,False,2022,6,June,2022-06,9.358846580275406
+2020-01-01,Onion,23,6,Keralam,17,Alappuzha Market,120,Big,FAQ,11500.0,11700.0,11600.0,Rs./Quintal,False,2020,1,January,2020-01,9.358846580275406
+2022-04-01,Cotton,15,4,Rajasthan,29,Hanumangarh APMC,258,Desi,FAQ,10500.0,11735.0,11561.0,Rs./Quintal,False,2022,4,April,2022-04,9.355479137642421
+2022-09-08,Cotton,15,4,Gujarat,11,Anjar APMC,1256,Other,FAQ,11500.0,11562.0,11555.0,Rs./Quintal,False,2022,9,September,2022-09,9.354960061586127
+2022-04-08,Cotton,15,4,Gujarat,11,Dhoraji APMC,1253,H.B (Unginned),FAQ,9980.0,12730.0,11555.0,Rs./Quintal,False,2022,4,April,2022-04,9.354960061586127
+2024-06-08,Groundnut,10,3,West Bengal,36,Gajol APMC,2902,F.A.Q,FAQ,11500.0,11600.0,11550.0,Rs./Quintal,False,2024,6,June,2024-06,9.35452729228868
+2022-04-08,Cotton,15,4,Gujarat,11,Rajkot APMC,60,Narma BT Cotton,FAQ,9175.0,12500.0,11550.0,Rs./Quintal,False,2022,4,April,2022-04,9.35452729228868
+2024-06-01,Groundnut,10,3,West Bengal,36,Gajol APMC,2902,F.A.Q,FAQ,11500.0,11600.0,11550.0,Rs./Quintal,False,2024,6,June,2024-06,9.35452729228868
+2022-04-08,Cotton,15,4,Gujarat,11,Bhesan APMC,2298,Other,FAQ,8000.0,12530.0,11550.0,Rs./Quintal,False,2022,4,April,2022-04,9.35452729228868
+2022-04-01,Cotton,15,4,Maharashtra,20,APMC Ashti ,1941,Other,FAQ,11500.0,11600.0,11550.0,Rs./Quintal,False,2022,4,April,2022-04,9.35452729228868
+2016-11-08,Lentil,52,2,Manipur,21,Thoubal APMC,1119,Other,FAQ,11450.0,11550.0,11500.0,Rs./Quintal,False,2016,11,November,2016-11,9.350189267092581
+2016-11-08,Lentil,52,2,Manipur,21,Bishenpur APMC,584,Other,FAQ,11450.0,11550.0,11500.0,Rs./Quintal,False,2016,11,November,2016-11,9.350189267092581
+2016-07-01,Lentil,52,2,Manipur,21,Thoubal APMC,1119,Other,FAQ,11450.0,11550.0,11500.0,Rs./Quintal,False,2016,7,July,2016-07,9.350189267092581
+2016-04-01,Lentil,52,2,Manipur,21,Thoubal APMC,1119,Other,FAQ,11450.0,11550.0,11500.0,Rs./Quintal,False,2016,4,April,2016-04,9.350189267092581
+2016-06-01,Lentil,52,2,Manipur,21,Imphal APMC,583,Other,FAQ,,11500.0,11500.0,Rs./Quintal,False,2016,6,June,2016-06,9.350189267092581
+2016-04-01,Lentil,52,2,Manipur,21,Lamlong Bazaar APMC,171,Other,FAQ,,11500.0,11500.0,Rs./Quintal,False,2016,4,April,2016-04,9.350189267092581
+2021-03-08,Onion,23,6,Keralam,17,Madhavapuram Market,1986,Other,FAQ,11000.0,12000.0,11500.0,Rs./Quintal,False,2021,3,March,2021-03,9.350189267092581
+2021-03-01,Onion,23,6,Keralam,17,Madhavapuram Market,1986,Other,FAQ,11200.0,11700.0,11500.0,Rs./Quintal,False,2021,3,March,2021-03,9.350189267092581
+2016-04-01,Lentil,52,2,Manipur,21,Imphal APMC,583,Other,FAQ,,11500.0,11500.0,Rs./Quintal,False,2016,4,April,2016-04,9.350189267092581
+2016-03-01,Lentil,52,2,Manipur,21,Thoubal APMC,1119,Other,FAQ,11450.0,11550.0,11500.0,Rs./Quintal,False,2016,3,March,2016-03,9.350189267092581
+2016-08-08,Lentil,52,2,Manipur,21,Thoubal APMC,1119,Other,FAQ,11450.0,11550.0,11500.0,Rs./Quintal,False,2016,8,August,2016-08,9.350189267092581
+2016-02-01,Lentil,52,2,Manipur,21,Lamlong Bazaar APMC,171,Other,FAQ,,11500.0,11500.0,Rs./Quintal,False,2016,2,February,2016-02,9.350189267092581
+2021-02-08,Onion,23,6,Keralam,17,Kayamkulam Market,2016,Small,FAQ,11400.0,11600.0,11500.0,Rs./Quintal,False,2021,2,February,2021-02,9.350189267092581
+2016-01-01,Lentil,52,2,Manipur,21,Thoubal APMC,1119,Other,FAQ,11450.0,11550.0,11500.0,Rs./Quintal,False,2016,1,January,2016-01,9.350189267092581
+2015-10-01,Lentil,52,2,Manipur,21,Bishenpur APMC,584,Other,FAQ,11450.0,11550.0,11500.0,Rs./Quintal,False,2015,10,October,2015-10,9.350189267092581
+2022-06-08,Cotton,15,4,Gujarat,11,Jetpur(Dist.Rajkot) APMC,1615,Cotton (Unginned),FAQ,5000.0,13200.0,11500.0,Rs./Quintal,False,2022,6,June,2022-06,9.350189267092581
+2020-01-01,Onion,23,6,Keralam,17,Kuruppanthura Market,1973,Big,FAQ,11000.0,12000.0,11500.0,Rs./Quintal,False,2020,1,January,2020-01,9.350189267092581
+2024-08-01,Groundnut,10,3,West Bengal,36,Gajol APMC,2902,F.A.Q,FAQ,11400.0,11600.0,11500.0,Rs./Quintal,False,2024,8,August,2024-08,9.350189267092581
+2016-06-01,Lentil,52,2,Manipur,21,Lamlong Bazaar APMC,171,Other,FAQ,,11500.0,11500.0,Rs./Quintal,False,2016,6,June,2016-06,9.350189267092581
+2019-03-08,Rice,3,1,Karnataka,16,Davangere APMC,106,Basmati,FAQ,11000.0,12000.0,11500.0,Rs./Quintal,False,2019,3,March,2019-03,9.350189267092581
+2015-06-01,Lentil,52,2,Manipur,21,Imphal APMC,583,Other,FAQ,,11500.0,11500.0,Rs./Quintal,False,2015,6,June,2015-06,9.350189267092581
+2015-07-01,Lentil,52,2,Manipur,21,Thoubal APMC,1119,Other,FAQ,11450.0,11550.0,11500.0,Rs./Quintal,False,2015,7,July,2015-07,9.350189267092581
+2025-09-08,Banana,19,5,Tamil Nadu,31,Avallapalli(Uzhavar Sandhai ),4100,Besrai,Local,11000.0,11500.0,11500.0,Rs./Quintal,False,2025,9,September,2025-09,9.350189267092581
+2017-06-01,Onion,23,6,Keralam,17,Pattambi Market,2177,Small,FAQ,11000.0,12000.0,11500.0,Rs./Quintal,False,2017,6,June,2017-06,9.350189267092581
+2015-12-01,Lentil,52,2,Manipur,21,Lamlong Bazaar APMC,171,Other,FAQ,,11500.0,11500.0,Rs./Quintal,False,2015,12,December,2015-12,9.350189267092581
+2024-09-01,Groundnut,10,3,West Bengal,36,Gajol APMC,2902,F.A.Q,FAQ,11400.0,11600.0,11500.0,Rs./Quintal,False,2024,9,September,2024-09,9.350189267092581
+2015-10-01,Lentil,52,2,Manipur,21,Imphal APMC,583,Other,FAQ,,11500.0,11500.0,Rs./Quintal,False,2015,10,October,2015-10,9.350189267092581
+2019-12-08,Onion,23,6,Maharashtra,20,APMC Rahuri ,1634,Other,FAQ,1000.0,14000.0,11500.0,Rs./Quintal,False,2019,12,December,2019-12,9.350189267092581
+2015-12-01,Lentil,52,2,Manipur,21,Bishenpur APMC,584,Other,FAQ,11450.0,11550.0,11500.0,Rs./Quintal,False,2015,12,December,2015-12,9.350189267092581
+2015-10-01,Lentil,52,2,Manipur,21,Thoubal APMC,1119,Other,FAQ,11450.0,11550.0,11500.0,Rs./Quintal,False,2015,10,October,2015-10,9.350189267092581
+2022-05-01,Cotton,15,4,Telangana,32,Bhainsa APMC,846,Cotton (Unginned),FAQ,11500.0,11500.0,11500.0,Rs./Quintal,False,2022,5,May,2022-05,9.350189267092581
+2023-09-01,Onion,23,6,Nagaland,24,Jalukie APMC,195,1st Sort,FAQ,11400.0,11600.0,11500.0,Rs./Quintal,False,2023,9,September,2023-09,9.350189267092581
+2015-12-01,Lentil,52,2,Manipur,21,Imphal APMC,583,Other,FAQ,,11500.0,11500.0,Rs./Quintal,False,2015,12,December,2015-12,9.350189267092581
+2022-04-01,Cotton,15,4,Gujarat,11,Bodeliu APMC,432,Shanker 6 (B) 30mm FIne,FAQ,9500.0,13175.0,11500.0,Rs./Quintal,False,2022,4,April,2022-04,9.350189267092581
+2022-04-01,Cotton,15,4,Gujarat,11,Modasar APMC,2789,Shanker 6 (B) 30mm FIne,FAQ,9500.0,13175.0,11500.0,Rs./Quintal,False,2022,4,April,2022-04,9.350189267092581
+2016-02-01,Lentil,52,2,Manipur,21,Thoubal APMC,1119,Other,FAQ,11450.0,11550.0,11500.0,Rs./Quintal,False,2016,2,February,2016-02,9.350189267092581
+2025-12-01,Groundnut,10,3,Madhya Pradesh,19,Indore APMC,3046,Groundnut seed,FAQ,11470.24,11470.24,11470.24,Rs./Quintal,False,2025,12,December,2025-12,9.347598312388264
+2024-08-08,Groundnut,10,3,West Bengal,36,Gajol APMC,2902,F.A.Q,FAQ,11450.0,11470.0,11460.0,Rs./Quintal,False,2024,8,August,2024-08,9.346705246496699
+2022-04-08,Cotton,15,4,Madhya Pradesh,19,Badwaha APMC,2095,Other,FAQ,5505.0,12460.0,11460.0,Rs./Quintal,False,2022,4,April,2022-04,9.346705246496699
+2022-04-08,Cotton,15,4,Rajasthan,29,Pilibanga APMC,260,American,FAQ,11000.0,11900.0,11451.0,Rs./Quintal,False,2022,4,April,2022-04,9.345919666218006
+2022-04-01,Cotton,15,4,Haryana,12,Ellanabad APMC,91,American,FAQ,10300.0,11500.0,11431.0,Rs./Quintal,False,2022,4,April,2022-04,9.344171719609703
+2022-04-08,Cotton,15,4,Rajasthan,29,Goluwala APMC,1387,American,FAQ,8700.0,12121.0,11400.0,Rs./Quintal,False,2022,4,April,2022-04,9.34145634983372
+2023-12-08,Groundnut,10,3,Maharashtra,20,APMC Dhule ,149,Other,FAQ,5925.0,11400.0,11400.0,Rs./Quintal,False,2023,12,December,2023-12,9.34145634983372
+2022-06-01,Cotton,15,4,Tamil Nadu,31,Theni APMC,1473,MCU 5,FAQ,11300.0,11500.0,11400.0,Rs./Quintal,False,2022,6,June,2022-06,9.34145634983372
+2024-11-08,Groundnut,10,3,West Bengal,36,Gajol APMC,2902,F.A.Q,FAQ,11300.0,11500.0,11400.0,Rs./Quintal,False,2024,11,November,2024-11,9.34145634983372
+2022-08-01,Cotton,15,4,Tamil Nadu,31,Panruti APMC,1217,Other,FAQ,4709.0,11569.0,11399.0,Rs./Quintal,False,2022,8,August,2022-08,9.341368634382587
+2022-06-01,Cotton,15,4,Gujarat,11,JASDAN APMC,780,Shanker 6 (B) 30mm FIne,FAQ,10000.0,13700.0,11375.0,Rs./Quintal,False,2022,6,June,2022-06,9.339261152043022
+2022-04-08,Cotton,15,4,Maharashtra,20,Sindi (Selu),3139,Other,FAQ,10000.0,12500.0,11360.0,Rs./Quintal,False,2022,4,April,2022-04,9.337941716569905
+2024-02-08,Groundnut,10,3,Tamil Nadu,31,Vellore APMC,1469,Bold Kernel,FAQ,5055.0,11661.0,11350.0,Rs./Quintal,False,2024,2,February,2024-02,9.337061124755339
+2022-06-01,Cotton,15,4,Rajasthan,29,Hanumangarh Town APMC,2474,American,FAQ,11320.0,11322.0,11321.0,Rs./Quintal,False,2022,6,June,2022-06,9.334503014596605
+2022-04-01,Cotton,15,4,Rajasthan,29,Sriganganagar (Grain) APMC,257,American,FAQ,11150.0,11305.0,11305.0,Rs./Quintal,False,2022,4,April,2022-04,9.333088837235236
+2024-09-08,Groundnut,10,3,West Bengal,36,Gajol APMC,2902,F.A.Q,FAQ,11200.0,11400.0,11300.0,Rs./Quintal,False,2024,9,September,2024-09,9.332646496360152
+2022-04-08,Cotton,15,4,Telangana,32,Bhainsa APMC,846,Cotton (Unginned),FAQ,10800.0,11500.0,11300.0,Rs./Quintal,False,2022,4,April,2022-04,9.332646496360152
+2022-04-08,Cotton,15,4,Tamil Nadu,31,Kolathur APMC,2942,Other,FAQ,10100.0,11500.0,11300.0,Rs./Quintal,False,2022,4,April,2022-04,9.332646496360152
+2022-01-08,Cotton,15,4,Madhya Pradesh,19,Sailana APMC,2088,DCH-32(Unginned),FAQ,10100.0,12500.0,11300.0,Rs./Quintal,False,2022,1,January,2022-01,9.332646496360152
+2021-05-08,Rice,3,1,Keralam,17,Aroor Market,1971,Basmati,FAQ,11200.0,11400.0,11300.0,Rs./Quintal,False,2021,5,May,2021-05,9.332646496360152
+2022-06-08,Cotton,15,4,Maharashtra,20,APMC Jamner ,1293,Other,FAQ,10000.0,12000.0,11300.0,Rs./Quintal,False,2022,6,June,2022-06,9.332646496360152
+2022-08-01,Cotton,15,4,Telangana,32,Khammam APMC,5,Cotton (Unginned),FAQ,9000.0,11300.0,11300.0,Rs./Quintal,False,2022,8,August,2022-08,9.332646496360152
+2024-02-01,Groundnut,10,3,West Bengal,36,Gajol APMC,2902,F.A.Q,FAQ,11200.0,11400.0,11300.0,Rs./Quintal,False,2024,2,February,2024-02,9.332646496360152
+2022-04-08,Cotton,15,4,Maharashtra,20,APMC Jamner ,1293,Other,FAQ,10000.0,12000.0,11300.0,Rs./Quintal,False,2022,4,April,2022-04,9.332646496360152
+2024-10-01,Groundnut,10,3,West Bengal,36,Gajol APMC,2902,F.A.Q,FAQ,11200.0,11400.0,11300.0,Rs./Quintal,False,2024,10,October,2024-10,9.332646496360152
+2024-10-08,Groundnut,10,3,West Bengal,36,Gajol APMC,2902,F.A.Q,FAQ,11200.0,11400.0,11300.0,Rs./Quintal,False,2024,10,October,2024-10,9.332646496360152
+2022-04-08,Cotton,15,4,Haryana,12,Ellanabad APMC,91,American,FAQ,11000.0,11630.0,11300.0,Rs./Quintal,False,2022,4,April,2022-04,9.332646496360152
+2023-12-01,Rice,3,1,Karnataka,16,Mysuru APMC,115,Fine,FAQ,11290.0,11290.0,11290.0,Rs./Quintal,False,2023,12,December,2023-12,9.331761227180522
+2022-06-08,Cotton,15,4,Andhra Pradesh,2,Adoni APMC,828,Bunny,FAQ,8000.0,12259.0,11275.0,Rs./Quintal,False,2022,6,June,2022-06,9.330431852234003
+2024-01-08,Groundnut,10,3,Tamil Nadu,31,Thirukovilur APMC,290,Other,FAQ,11261.0,11261.0,11261.0,Rs./Quintal,False,2024,1,January,2024-01,9.329189505814563
+2022-04-08,Cotton,15,4,Gujarat,11,Jetpur(Dist.Rajkot) APMC,1615,Cotton (Unginned),FAQ,7505.0,13505.0,11250.0,Rs./Quintal,False,2022,4,April,2022-04,9.328212292571072
+2022-09-01,Cotton,15,4,Gujarat,11,Savarkundla APMC,1625,Narma BT Cotton,FAQ,10500.0,12000.0,11250.0,Rs./Quintal,False,2022,9,September,2022-09,9.328212292571072
+2022-06-01,Cotton,15,4,Gujarat,11,Babra APMC,1560,Other,FAQ,8750.0,13750.0,11250.0,Rs./Quintal,False,2022,6,June,2022-06,9.328212292571072
+2023-11-08,Groundnut,10,3,Tamil Nadu,31,Vellore APMC,1469,Other,FAQ,7835.0,11380.0,11250.0,Rs./Quintal,False,2023,11,November,2023-11,9.328212292571072
+2020-11-08,Onion,23,6,Keralam,17,Vandiperiyar Market,2677,Big,FAQ,11250.0,11250.0,11250.0,Rs./Quintal,False,2020,11,November,2020-11,9.328212292571072
+2024-07-01,Groundnut,10,3,Tamil Nadu,31,Vellore APMC,1469,Bold,Local,10336.0,11536.0,11250.0,Rs./Quintal,False,2024,7,July,2024-07,9.328212292571072
+2025-12-08,Groundnut,10,3,Rajasthan,29,Chaksu APMC,1612,Other,Local,10000.0,12500.0,11250.0,Rs./Quintal,False,2025,12,December,2025-12,9.328212292571072
+2025-12-01,Groundnut,10,3,Rajasthan,29,Chaksu APMC,1612,Other,Local,9000.0,13150.0,11250.0,Rs./Quintal,False,2025,12,December,2025-12,9.328212292571072
+2022-06-08,Cotton,15,4,Gujarat,11,JASDAN APMC,780,Shanker 6 (B) 30mm FIne,FAQ,9750.0,13450.0,11250.0,Rs./Quintal,False,2022,6,June,2022-06,9.328212292571072
+2022-02-01,Groundnut,10,3,Tamil Nadu,31,Vellore APMC,1469,Other,FAQ,9501.0,11408.0,11250.0,Rs./Quintal,False,2022,2,February,2022-02,9.328212292571072
+2022-04-01,Cotton,15,4,Rajasthan,29,Anupgarh APMC,256,American,FAQ,11000.0,11500.0,11250.0,Rs./Quintal,False,2022,4,April,2022-04,9.328212292571072
+2022-08-08,Cotton,15,4,Tamil Nadu,31,Sembanarkoil APMC,1680,MCU-7,FAQ,10254.0,12019.0,11241.0,Rs./Quintal,False,2022,8,August,2022-08,9.32741204356202
+2023-02-01,Groundnut,10,3,Tamil Nadu,31,Avalurpet APMC,1062,Other,FAQ,10011.0,11349.0,11228.0,Rs./Quintal,False,2023,2,February,2023-02,9.326254996572539
+2023-06-01,Banana,19,5,Nagaland,24,Tuli APMC,3291,Other,Medium,11000.0,11440.0,11220.0,Rs./Quintal,False,2023,6,June,2023-06,9.325542301664866
+2022-04-01,Cotton,15,4,Telangana,32,Bhainsa APMC,846,Cotton (Unginned),FAQ,11200.0,11200.0,11200.0,Rs./Quintal,False,2022,4,April,2022-04,9.32375833901174
+2023-08-01,Onion,23,6,Nagaland,24,Jalukie APMC,195,1st Sort,FAQ,11100.0,11300.0,11200.0,Rs./Quintal,False,2023,8,August,2023-08,9.32375833901174
+2021-06-08,Rice,3,1,Keralam,17,Aroor Market,1971,Basmati,FAQ,11000.0,11300.0,11200.0,Rs./Quintal,False,2021,6,June,2021-06,9.32375833901174
+2020-02-01,Rice,3,1,Keralam,17,Aroor Market,1971,Basmati,FAQ,11000.0,11300.0,11200.0,Rs./Quintal,False,2020,2,February,2020-02,9.32375833901174
+2020-05-08,Rice,3,1,Keralam,17,Aroor Market,1971,Basmati,FAQ,11000.0,11300.0,11200.0,Rs./Quintal,False,2020,5,May,2020-05,9.32375833901174
+2020-05-01,Rice,3,1,Keralam,17,Aroor Market,1971,Basmati,FAQ,11000.0,11300.0,11200.0,Rs./Quintal,False,2020,5,May,2020-05,9.32375833901174
+2020-06-01,Rice,3,1,Keralam,17,Aroor Market,1971,Basmati,FAQ,11000.0,11300.0,11200.0,Rs./Quintal,False,2020,6,June,2020-06,9.32375833901174
+2016-07-01,Lentil,52,2,West Bengal,36,Gajol APMC,2902,Masur Dal,FAQ,11100.0,11300.0,11200.0,Rs./Quintal,False,2016,7,July,2016-07,9.32375833901174
+2020-10-01,Rice,3,1,Keralam,17,Aroor Market,1971,Basmati,FAQ,11000.0,11300.0,11200.0,Rs./Quintal,False,2020,10,October,2020-10,9.32375833901174
+2020-07-08,Rice,3,1,Keralam,17,Aroor Market,1971,Basmati,FAQ,11000.0,11300.0,11200.0,Rs./Quintal,False,2020,7,July,2020-07,9.32375833901174
+2022-06-01,Cotton,15,4,Haryana,12,Ellanabad APMC,91,American,FAQ,9000.0,11350.0,11187.0,Rs./Quintal,False,2022,6,June,2022-06,9.32259705432185
+2022-06-08,Cotton,15,4,Karnataka,16,Vijayapura APMC,105,LH-1556,FAQ,10205.0,11309.0,11176.0,Rs./Quintal,False,2022,6,June,2022-06,9.321613374385612
+2022-08-08,Cotton,15,4,Tamil Nadu,31,Vikkiravandi APMC,1672,Other,FAQ,10250.0,11309.0,11175.0,Rs./Quintal,False,2022,8,August,2022-08,9.321523900936798
+2024-02-01,Groundnut,10,3,Tamil Nadu,31,Kallakurichi APMC,1216,Other,FAQ,10711.0,11638.0,11174.0,Rs./Quintal,False,2024,2,February,2024-02,9.32143441948177
+2022-04-08,Cotton,15,4,Madhya Pradesh,19,Saunsar APMC,2089,H4,FAQ,11150.0,11600.0,11150.0,Rs./Quintal,False,2022,4,April,2022-04,9.319284458965361
+2022-02-01,Cotton,15,4,Karnataka,16,Haveri APMC,109,GCH,Medium,11089.0,11242.0,11135.0,Rs./Quintal,False,2022,2,February,2022-02,9.317938382574201
+2022-04-08,Cotton,15,4,Gujarat,11,Siddhpur APMC,1262,H.Y.4 (Unginned),FAQ,9500.0,12735.0,11117.0,Rs./Quintal,False,2022,4,April,2022-04,9.316320695513415
+2019-10-01,Groundnut,10,3,Keralam,17,Alappuzha Market,120,Other,FAQ,11000.0,11200.0,11100.0,Rs./Quintal,False,2019,10,October,2019-10,9.314790473332646
+2022-04-01,Cotton,15,4,Rajasthan,29,Sadulshahar APMC,1390,American,FAQ,11100.0,11100.0,11100.0,Rs./Quintal,False,2022,4,April,2022-04,9.314790473332646
+2021-03-01,Onion,23,6,Keralam,17,Anchal Market,2013,Other,FAQ,11000.0,11200.0,11100.0,Rs./Quintal,False,2021,3,March,2021-03,9.314790473332646
+2023-03-01,Groundnut,10,3,Tamil Nadu,31,Vellore APMC,1469,Other,FAQ,9646.0,11136.0,11100.0,Rs./Quintal,False,2023,3,March,2023-03,9.314790473332646
+2022-09-01,Cotton,15,4,Telangana,32,Khammam APMC,5,Cotton (Unginned),FAQ,7700.0,11100.0,11100.0,Rs./Quintal,False,2022,9,September,2022-09,9.314790473332646
+2022-04-01,Cotton,15,4,Rajasthan,29,Jaitsar APMC,1410,American,FAQ,11100.0,11100.0,11100.0,Rs./Quintal,False,2022,4,April,2022-04,9.314790473332646
+2020-02-08,Onion,23,6,Keralam,17,Anchal Market,2013,Other,FAQ,11000.0,11200.0,11100.0,Rs./Quintal,False,2020,2,February,2020-02,9.314790473332646
+2022-04-08,Cotton,15,4,Rajasthan,29,Sadulshahar APMC,1390,American,FAQ,11100.0,11100.0,11100.0,Rs./Quintal,False,2022,4,April,2022-04,9.314790473332646
+2022-06-01,Cotton,15,4,Tamil Nadu,31,Panruti APMC,1217,Other,FAQ,5738.0,11489.0,11089.0,Rs./Quintal,False,2022,6,June,2022-06,9.313799080344413
+2024-02-08,Groundnut,10,3,Tamil Nadu,31,Kallakurichi APMC,1216,Other,FAQ,10500.0,11636.0,11068.0,Rs./Quintal,False,2024,2,February,2024-02,9.311903687385623
+2023-12-08,Groundnut,10,3,Tamil Nadu,31,Andimadom APMC,2969,Other,FAQ,10278.0,11065.0,11065.0,Rs./Quintal,False,2023,12,December,2023-12,9.311632623458054
+2022-07-01,Cotton,15,4,Maharashtra,20,APMC Jamner ,1293,Other,FAQ,11000.0,11500.0,11050.0,Rs./Quintal,False,2022,7,July,2022-07,9.310276200588783
+2023-02-01,Groundnut,10,3,Tamil Nadu,31,Vellore APMC,1469,Other,FAQ,9024.0,11087.0,11040.0,Rs./Quintal,False,2023,2,February,2023-02,9.309370895439137
+2023-03-08,Groundnut,10,3,Tamil Nadu,31,Kallakurichi APMC,1216,Other,FAQ,11025.0,11025.0,11025.0,Rs./Quintal,False,2023,3,March,2023-03,9.30801139914963
+2022-04-08,Cotton,15,4,Gujarat,11,Dhari APMC,2295,Other,FAQ,9050.0,11725.0,11005.0,Rs./Quintal,False,2022,4,April,2022-04,9.306195857619704
+2022-03-08,Cotton,15,4,Karnataka,16,Annigeri APMC,505,GCH,Medium,11000.0,11500.0,11000.0,Rs./Quintal,False,2022,3,March,2022-03,9.305741456739435
+2022-04-08,Cotton,15,4,Maharashtra,20,APMC Savner ,582,Other,FAQ,10700.0,11300.0,11000.0,Rs./Quintal,False,2022,4,April,2022-04,9.305741456739435
+2017-06-08,Onion,23,6,Keralam,17,Pattambi Market,2177,Small,FAQ,10000.0,12000.0,11000.0,Rs./Quintal,False,2017,6,June,2017-06,9.305741456739435
+2023-08-01,Groundnut,10,3,Tamil Nadu,31,Vellore APMC,1469,Other,FAQ,10898.0,12021.0,11000.0,Rs./Quintal,False,2023,8,August,2023-08,9.305741456739435
+2019-12-08,Onion,23,6,Keralam,17,Madhavapuram Market,1986,Other,FAQ,10000.0,11500.0,11000.0,Rs./Quintal,False,2019,12,December,2019-12,9.305741456739435
+2019-12-08,Onion,23,6,Odisha,26,Chuliaposi APMC,3299,1st Sort,FAQ,10000.0,12500.0,11000.0,Rs./Quintal,False,2019,12,December,2019-12,9.305741456739435
+2022-04-08,Cotton,15,4,Madhya Pradesh,19,Jobat APMC,2356,Other,FAQ,9500.0,11000.0,11000.0,Rs./Quintal,False,2022,4,April,2022-04,9.305741456739435
+2024-09-08,Banana,19,5,Tamil Nadu,31,Melapalayam(Uzhavar Sandhai ),4162,Besrai,Local,7000.0,11000.0,11000.0,Rs./Quintal,False,2024,9,September,2024-09,9.305741456739435
+2024-02-08,Banana,19,5,Keralam,17,Mattathur VFPCK Market,3386,Rasakathai,Medium,10000.0,11000.0,11000.0,Rs./Quintal,False,2024,2,February,2024-02,9.305741456739435
+2022-04-08,Cotton,15,4,Maharashtra,20,APMC Arvi ,1358,H-4(A) 27mm FIne,FAQ,10500.0,12000.0,11000.0,Rs./Quintal,False,2022,4,April,2022-04,9.305741456739435
+2022-04-01,Cotton,15,4,Maharashtra,20,Sindi (Selu),3139,Other,FAQ,8000.0,12000.0,11000.0,Rs./Quintal,False,2022,4,April,2022-04,9.305741456739435
+2025-01-08,Banana,19,5,Tamil Nadu,31,NGO Colony(Uzhavar Sandhai ),4164,Besrai,Local,6000.0,11000.0,11000.0,Rs./Quintal,False,2025,1,January,2025-01,9.305741456739435
+2024-02-01,Banana,19,5,Keralam,17,Mattathur VFPCK Market,3386,Rasakathai,Medium,10000.0,13000.0,11000.0,Rs./Quintal,False,2024,2,February,2024-02,9.305741456739435
+2017-07-01,Onion,23,6,Keralam,17,Aroor Market,1971,Small,FAQ,10000.0,11200.0,11000.0,Rs./Quintal,False,2017,7,July,2017-07,9.305741456739435
+2022-04-01,Cotton,15,4,Maharashtra,20,APMC Jamner ,1293,Other,FAQ,9000.0,11500.0,11000.0,Rs./Quintal,False,2022,4,April,2022-04,9.305741456739435
+2022-04-01,Cotton,15,4,Maharashtra,20,APMC Arvi ,1358,H-4(A) 27mm FIne,FAQ,10500.0,12300.0,11000.0,Rs./Quintal,False,2022,4,April,2022-04,9.305741456739435
+2022-04-01,Cotton,15,4,Madhya Pradesh,19,Saunsar APMC,2089,H4,FAQ,11000.0,11500.0,11000.0,Rs./Quintal,False,2022,4,April,2022-04,9.305741456739435
+2017-06-01,Onion,23,6,Keralam,17,Aroor Market,1971,Small,FAQ,10000.0,11200.0,11000.0,Rs./Quintal,False,2017,6,June,2017-06,9.305741456739435
+2023-03-08,Groundnut,10,3,Tamil Nadu,31,Vellore APMC,1469,Other,FAQ,10587.0,11772.0,11000.0,Rs./Quintal,False,2023,3,March,2023-03,9.305741456739435
+2024-09-08,Banana,19,5,Tamil Nadu,31,Palayamkottai(Uzhavar Sandhai ),4160,Besrai,Local,6000.0,11000.0,11000.0,Rs./Quintal,False,2024,9,September,2024-09,9.305741456739435
+2025-10-08,Banana,19,5,Nagaland,24,Pfatsero APMC,196,Other,Medium,10000.0,12000.0,11000.0,Rs./Quintal,False,2025,10,October,2025-10,9.305741456739435
+2023-11-01,Groundnut,10,3,Tamil Nadu,31,Vellore APMC,1469,Other,FAQ,8336.0,11687.0,11000.0,Rs./Quintal,False,2023,11,November,2023-11,9.305741456739435
+2021-06-08,Rice,3,1,Maharashtra,20,APMC Mumbai ,154,Other,FAQ,9500.0,12000.0,11000.0,Rs./Quintal,False,2021,6,June,2021-06,9.305741456739435
+2020-02-01,Onion,23,6,Keralam,17,Aroor Market,1971,Small,FAQ,10000.0,11200.0,11000.0,Rs./Quintal,False,2020,2,February,2020-02,9.305741456739435
+2022-04-08,Cotton,15,4,Haryana,12,Sirsa APMC,90,American,FAQ,6000.0,11761.0,11000.0,Rs./Quintal,False,2022,4,April,2022-04,9.305741456739435
+2017-07-01,Onion,23,6,Keralam,17,Piravam Market,2007,Other,FAQ,10000.0,12000.0,11000.0,Rs./Quintal,False,2017,7,July,2017-07,9.305741456739435
+2025-02-01,Onion,23,6,Keralam,17,Aroor Market,1971,Small,FAQ,10000.0,12000.0,11000.0,Rs./Quintal,False,2025,2,February,2025-02,9.305741456739435
+2022-05-01,Cotton,15,4,Maharashtra,20,APMC Bhiwapur ,1354,Other,FAQ,9300.0,12500.0,11000.0,Rs./Quintal,False,2022,5,May,2022-05,9.305741456739435
+2022-05-01,Cotton,15,4,Maharashtra,20,APMC Narkhed ,1357,Other,FAQ,10000.0,12000.0,11000.0,Rs./Quintal,False,2022,5,May,2022-05,9.305741456739435
+2022-05-08,Cotton,15,4,Maharashtra,20,APMC Arvi ,1358,H-4(A) 27mm FIne,FAQ,10000.0,12500.0,11000.0,Rs./Quintal,False,2022,5,May,2022-05,9.305741456739435
+2024-03-01,Groundnut,10,3,Tamil Nadu,31,Vellore APMC,1469,Bold Kernel,FAQ,10833.0,11265.0,11000.0,Rs./Quintal,False,2024,3,March,2024-03,9.305741456739435
+2022-06-01,Cotton,15,4,Gujarat,11,Bhesan APMC,2298,Other,FAQ,8000.0,13250.0,11000.0,Rs./Quintal,False,2022,6,June,2022-06,9.305741456739435
+2022-06-08,Banana,19,5,Keralam,17,Kottarakkara Market,2668,Nendra Bale,Medium,11000.0,12000.0,11000.0,Rs./Quintal,False,2022,6,June,2022-06,9.305741456739435
+2022-07-01,Banana,19,5,Keralam,17,Kottarakkara Market,2668,Nendra Bale,Medium,11000.0,11000.0,11000.0,Rs./Quintal,False,2022,7,July,2022-07,9.305741456739435
+2019-04-08,Banana,19,5,Meghalaya,22,Sohra APMC,3154,Other,Large,9000.0,13000.0,11000.0,Rs./Quintal,False,2019,4,April,2019-04,9.305741456739435
+2017-03-01,Banana,19,5,Meghalaya,22,Sohra APMC,3154,Other,Medium,10000.0,12000.0,11000.0,Rs./Quintal,False,2017,3,March,2017-03,9.305741456739435
+2017-07-08,Onion,23,6,Keralam,17,Aroor Market,1971,Small,FAQ,10000.0,11200.0,11000.0,Rs./Quintal,False,2017,7,July,2017-07,9.305741456739435
+2024-02-01,Groundnut,10,3,Tamil Nadu,31,Vellore APMC,1469,Bold Kernel,FAQ,10470.0,11646.0,11000.0,Rs./Quintal,False,2024,2,February,2024-02,9.305741456739435
+2024-10-08,Banana,19,5,Tamil Nadu,31,Melapalayam(Uzhavar Sandhai ),4162,Besrai,Local,8000.0,11000.0,11000.0,Rs./Quintal,False,2024,10,October,2024-10,9.305741456739435
+2025-01-01,Banana,19,5,Tamil Nadu,31,Melapalayam(Uzhavar Sandhai ),4162,Besrai,Local,6000.0,11000.0,11000.0,Rs./Quintal,False,2025,1,January,2025-01,9.305741456739435
+2025-01-01,Banana,19,5,Tamil Nadu,31,Palayamkottai(Uzhavar Sandhai ),4160,Besrai,Local,6000.0,11000.0,11000.0,Rs./Quintal,False,2025,1,January,2025-01,9.305741456739435
+2024-10-01,Banana,19,5,Tamil Nadu,31,Melapalayam(Uzhavar Sandhai ),4162,Besrai,Local,8000.0,11000.0,11000.0,Rs./Quintal,False,2024,10,October,2024-10,9.305741456739435
+2022-04-08,Cotton,15,4,Madhya Pradesh,19,Anjad APMC,2324,Other,FAQ,11000.0,11000.0,11000.0,Rs./Quintal,False,2022,4,April,2022-04,9.305741456739435
+2024-01-08,Groundnut,10,3,Tamil Nadu,31,Vellore APMC,1469,Bold Kernel,FAQ,9211.0,12085.0,11000.0,Rs./Quintal,False,2024,1,January,2024-01,9.305741456739435
+2022-06-08,Cotton,15,4,Gujarat,11,Vankaner APMC,1616,Other,FAQ,7500.0,12255.0,11000.0,Rs./Quintal,False,2022,6,June,2022-06,9.305741456739435
+2022-05-08,Cotton,15,4,Maharashtra,20,APMC Narkhed ,1357,Other,FAQ,10000.0,12000.0,11000.0,Rs./Quintal,False,2022,5,May,2022-05,9.305741456739435
+2020-04-08,Rice,3,1,Keralam,17,Aroor Market,1971,Basmati,FAQ,10000.0,11200.0,11000.0,Rs./Quintal,False,2020,4,April,2020-04,9.305741456739435
+2022-02-08,Cotton,15,4,Karnataka,16,Haveri APMC,109,GCH,FAQ,10999.0,10999.0,10999.0,Rs./Quintal,False,2022,2,February,2022-02,9.305650551780507
+2022-01-08,Cotton,15,4,Madhya Pradesh,19,Petlawad APMC,1229,DCH-32(Unginned),FAQ,10700.0,11600.0,10988.0,Rs./Quintal,False,2022,1,January,2022-01,9.304650051446924
+2023-11-01,Groundnut,10,3,Tamil Nadu,31,Andimadom APMC,2969,Other,FAQ,10188.0,10988.0,10988.0,Rs./Quintal,False,2023,11,November,2023-11,9.304650051446924
+2022-04-08,Cotton,15,4,Gujarat,11,Morbi APMC,62,Local,FAQ,9375.0,12575.0,10975.0,Rs./Quintal,False,2022,4,April,2022-04,9.303466349965667
+2023-09-01,Groundnut,10,3,Tamil Nadu,31,Avalurpet APMC,1062,Other,FAQ,7511.0,11020.0,10963.0,Rs./Quintal,False,2023,9,September,2023-09,9.302372457422676
+2023-09-08,Banana,19,5,Nagaland,24,Tuli APMC,3291,Other,Medium,10800.0,11100.0,10950.0,Rs./Quintal,False,2023,9,September,2023-09,9.301186055275759
+2022-08-08,Cotton,15,4,Gujarat,11,The Agricultural Produce Market Committee-Amreli,429,Other,FAQ,5490.0,11600.0,10950.0,Rs./Quintal,False,2022,8,August,2022-08,9.301186055275759
+2023-03-01,Groundnut,10,3,Tamil Nadu,31,Cuddalore APMC,645,Other,FAQ,10386.0,11124.0,10944.0,Rs./Quintal,False,2023,3,March,2023-03,9.300638009956963
+2024-04-01,Groundnut,10,3,Tamil Nadu,31,Kallakurichi APMC,1216,Other,FAQ,10261.0,11624.0,10943.0,Rs./Quintal,False,2024,4,April,2024-04,9.30054663986233
+2023-08-01,Groundnut,10,3,Tamil Nadu,31,Avalurpet APMC,1062,Other,FAQ,8811.0,11096.0,10940.0,Rs./Quintal,False,2023,8,August,2023-08,9.30027247947679
+2023-09-08,Groundnut,10,3,Tamil Nadu,31,Kallakurichi APMC,1216,Other,FAQ,10413.0,11450.0,10931.0,Rs./Quintal,False,2023,9,September,2023-09,9.299449547047958
+2023-12-01,Groundnut,10,3,Tamil Nadu,31,Vellore APMC,1469,Other,FAQ,10711.0,10922.0,10922.0,Rs./Quintal,False,2023,12,December,2023-12,9.298625936843543
+2015-10-01,Lentil,52,2,Assam,4,Golaghat APMC,386,Masur Dal,FAQ,9800.0,11000.0,10900.0,Rs./Quintal,False,2015,10,October,2015-10,9.296609807128359
+2022-05-01,Cotton,15,4,Madhya Pradesh,19,Sendhwa APMC,1091,H4,FAQ,9660.0,11000.0,10900.0,Rs./Quintal,False,2022,5,May,2022-05,9.296609807128359
+2023-12-01,Groundnut,10,3,West Bengal,36,Gajol APMC,2902,F.A.Q,FAQ,10800.0,11000.0,10900.0,Rs./Quintal,False,2023,12,December,2023-12,9.296609807128359
+2022-04-01,Cotton,15,4,Haryana,12,Sirsa APMC,90,American,FAQ,5500.0,11751.0,10900.0,Rs./Quintal,False,2022,4,April,2022-04,9.296609807128359
+2023-12-08,Groundnut,10,3,West Bengal,36,Gajol APMC,2902,F.A.Q,FAQ,10800.0,11000.0,10900.0,Rs./Quintal,False,2023,12,December,2023-12,9.296609807128359
+2019-12-01,Onion,23,6,Keralam,17,Kayamkulam Market,2016,Small,FAQ,10800.0,11000.0,10900.0,Rs./Quintal,False,2019,12,December,2019-12,9.296609807128359
+2022-08-01,Cotton,15,4,Tamil Nadu,31,Konganapuram APMC,2941,Other,FAQ,9900.0,12200.0,10900.0,Rs./Quintal,False,2022,8,August,2022-08,9.296609807128359
+2016-09-01,Groundnut,10,3,Maharashtra,20,Kolhapur(Laxmipuri) ,2143,Other,FAQ,10800.0,11000.0,10900.0,Rs./Quintal,False,2016,9,September,2016-09,9.296609807128359
+2016-02-01,Lentil,52,2,West Bengal,36,Medinipur(West) APMC,671,Masur Dal,FAQ,10800.0,10900.0,10900.0,Rs./Quintal,False,2016,2,February,2016-02,9.296609807128359
+2021-12-08,Cotton,15,4,Madhya Pradesh,19,Jhabua APMC,2115,Other,FAQ,10800.0,11000.0,10900.0,Rs./Quintal,False,2021,12,December,2021-12,9.296609807128359
+2023-02-08,Groundnut,10,3,Tamil Nadu,31,Avalurpet APMC,1062,Other,FAQ,9636.0,12336.0,10899.0,Rs./Quintal,False,2023,2,February,2023-02,9.296518068217235
+2023-03-01,Groundnut,10,3,Tamil Nadu,31,Cheyyar APMC,2436,Other,FAQ,10123.0,11263.0,10899.0,Rs./Quintal,False,2023,3,March,2023-03,9.296518068217235
+2022-03-08,Groundnut,10,3,Tamil Nadu,31,Thirukovilur APMC,290,Other,FAQ,10663.0,11100.0,10881.0,Rs./Quintal,False,2022,3,March,2022-03,9.294865327045871
+2022-08-08,Cotton,15,4,Tamil Nadu,31,Sirkali APMC,2962,MCU-7,FAQ,8999.0,11509.0,10879.0,Rs./Quintal,False,2022,8,August,2022-08,9.294681520409934
+2023-08-01,Groundnut,10,3,Tamil Nadu,31,Andimadom APMC,2969,Other,FAQ,10624.0,11389.0,10878.0,Rs./Quintal,False,2023,8,August,2023-08,9.294589604421082
+2022-06-01,Cotton,15,4,Gujarat,11,Savarkundla APMC,1625,Narma BT Cotton,FAQ,9250.0,12500.0,10875.0,Rs./Quintal,False,2022,6,June,2022-06,9.294313805752362
+2022-04-08,Cotton,15,4,Maharashtra,20,APMC Amarawati ,147,Other,FAQ,9500.0,12250.0,10875.0,Rs./Quintal,False,2022,4,April,2022-04,9.294313805752362
+2023-09-08,Groundnut,10,3,Tamil Nadu,31,Cheyyar APMC,2436,Other,FAQ,8116.0,11438.0,10874.0,Rs./Quintal,False,2023,9,September,2023-09,9.294221855956884
+2023-09-01,Groundnut,10,3,Tamil Nadu,31,Thirukovilur APMC,290,Other,FAQ,9826.0,11026.0,10866.0,Rs./Quintal,False,2023,9,September,2023-09,9.293485953062852
+2022-04-08,Cotton,15,4,Karnataka,16,Vijayapura APMC,105,LH-1556,FAQ,7785.0,12209.0,10864.0,Rs./Quintal,False,2022,4,April,2022-04,9.29330189269053
+2023-09-08,Groundnut,10,3,Tamil Nadu,31,Thirukovilur APMC,290,Other,FAQ,9925.0,10949.0,10861.0,Rs./Quintal,False,2023,9,September,2023-09,9.29302573859479
+2022-04-01,Cotton,15,4,Rajasthan,29,Rawatsar APMC,1389,American,FAQ,10500.0,11300.0,10850.0,Rs./Quintal,False,2022,4,April,2022-04,9.292012520620208
+2022-06-08,Cotton,15,4,Gujarat,11,The Agricultural Produce Market Committee-Amreli,429,Other,FAQ,6700.0,13175.0,10850.0,Rs./Quintal,False,2022,6,June,2022-06,9.292012520620208
+2022-06-01,Cotton,15,4,Gujarat,11,The Agricultural Produce Market Committee-Amreli,429,Other,FAQ,7000.0,13850.0,10850.0,Rs./Quintal,False,2022,6,June,2022-06,9.292012520620208
+2020-01-01,Onion,23,6,Keralam,17,Chala Market,2693,Big,FAQ,10800.0,10852.0,10827.0,Rs./Quintal,False,2020,1,January,2020-01,9.289890650734192
+2023-09-01,Groundnut,10,3,Tamil Nadu,31,Kallakurichi APMC,1216,Other,FAQ,10625.0,11026.0,10826.0,Rs./Quintal,False,2023,9,September,2023-09,9.289798293310898
+2022-04-01,Cotton,15,4,Karnataka,16,Ranebennur APMC,110,GCH,Medium,10800.0,11111.0,10815.0,Rs./Quintal,False,2022,4,April,2022-04,9.288781798282745
+2023-11-08,Groundnut,10,3,Tamil Nadu,31,Andimadom APMC,2969,Other,FAQ,10336.0,10836.0,10811.0,Rs./Quintal,False,2023,11,November,2023-11,9.288411907396338
+2022-06-08,Cotton,15,4,Gujarat,11,APMC HALVAD,2638,Other,FAQ,10805.0,10805.0,10805.0,Rs./Quintal,False,2022,6,June,2022-06,9.28785681440401
+2016-08-08,Lentil,52,2,West Bengal,36,Medinipur(West) APMC,671,Masur Dal,FAQ,10700.0,10800.0,10800.0,Rs./Quintal,False,2016,8,August,2016-08,9.287394001418473
+2024-01-01,Groundnut,10,3,West Bengal,36,Gajol APMC,2902,F.A.Q,FAQ,10700.0,10900.0,10800.0,Rs./Quintal,False,2024,1,January,2024-01,9.287394001418473
+2024-03-01,Groundnut,10,3,West Bengal,36,Gajol APMC,2902,F.A.Q,FAQ,10700.0,10900.0,10800.0,Rs./Quintal,False,2024,3,March,2024-03,9.287394001418473
+2017-07-01,Onion,23,6,Keralam,17,Kanjirappally Market,2021,Onion,FAQ,10000.0,11000.0,10800.0,Rs./Quintal,False,2017,7,July,2017-07,9.287394001418473
+2016-01-01,Lentil,52,2,West Bengal,36,Samsi APMC,336,Masur Dal,FAQ,10700.0,10900.0,10800.0,Rs./Quintal,False,2016,1,January,2016-01,9.287394001418473
+2016-06-01,Lentil,52,2,West Bengal,36,Medinipur(West) APMC,671,Masur Dal,FAQ,10700.0,10800.0,10800.0,Rs./Quintal,False,2016,6,June,2016-06,9.287394001418473
+2023-11-08,Groundnut,10,3,West Bengal,36,Gajol APMC,2902,F.A.Q,FAQ,10700.0,10900.0,10800.0,Rs./Quintal,False,2023,11,November,2023-11,9.287394001418473
+2023-11-01,Groundnut,10,3,West Bengal,36,Gajol APMC,2902,F.A.Q,FAQ,10700.0,10900.0,10800.0,Rs./Quintal,False,2023,11,November,2023-11,9.287394001418473
+2022-08-08,Cotton,15,4,Tamil Nadu,31,Konganapuram APMC,2941,Other,FAQ,9300.0,12000.0,10800.0,Rs./Quintal,False,2022,8,August,2022-08,9.287394001418473
+2022-07-01,Cotton,15,4,Karnataka,16,Raichur APMC,116,F-1054,FAQ,10800.0,11000.0,10800.0,Rs./Quintal,False,2022,7,July,2022-07,9.287394001418473
+2023-09-01,Groundnut,10,3,Tamil Nadu,31,Cheyyar APMC,2436,Other,FAQ,8936.0,11275.0,10799.0,Rs./Quintal,False,2023,9,September,2023-09,9.287301413112312
+2022-04-08,Cotton,15,4,Gujarat,11,Savarkundla APMC,1625,Narma BT Cotton,FAQ,9000.0,12570.0,10785.0,Rs./Quintal,False,2022,4,April,2022-04,9.286004275897172
+2022-06-08,Cotton,15,4,Gujarat,11,Savarkundla APMC,1625,Narma BT Cotton,FAQ,9050.0,12500.0,10775.0,Rs./Quintal,False,2022,6,June,2022-06,9.2850767180902
+2022-03-08,Groundnut,10,3,Tamil Nadu,31,Vellore APMC,1469,Other,FAQ,10757.0,10757.0,10757.0,Rs./Quintal,False,2022,3,March,2022-03,9.283404942833188
+2022-09-08,Cotton,15,4,Gujarat,11,Rajkot APMC,60,Narma BT Cotton,FAQ,10075.0,11060.0,10750.0,Rs./Quintal,False,2022,9,September,2022-09,9.282754052485227
+2022-07-08,Cotton,15,4,Gujarat,11,The Agricultural Produce Market Committee-Amreli,429,Other,FAQ,6000.0,11570.0,10750.0,Rs./Quintal,False,2022,7,July,2022-07,9.282754052485227
+2023-08-08,Groundnut,10,3,Tamil Nadu,31,Cheyyar APMC,2436,Other,FAQ,10499.0,10939.0,10736.0,Rs./Quintal,False,2023,8,August,2023-08,9.281450999434135
+2023-08-01,Groundnut,10,3,Tamil Nadu,31,Cheyyar APMC,2436,Other,FAQ,8873.0,10874.0,10736.0,Rs./Quintal,False,2023,8,August,2023-08,9.281450999434135
+2022-04-08,Cotton,15,4,Gujarat,11,Visavadar APMC,1535,Other,FAQ,9115.0,12355.0,10735.0,Rs./Quintal,False,2022,4,April,2022-04,9.281357859211463
+2022-01-01,Cotton,15,4,Madhya Pradesh,19,Petlawad APMC,1229,Cotton (Unginned),FAQ,8200.0,12400.0,10723.0,Rs./Quintal,False,2022,1,January,2022-01,9.28023949935585
+2022-04-08,Cotton,15,4,Madhya Pradesh,19,Manawar APMC,2087,Other,FAQ,10700.0,10800.0,10700.0,Rs./Quintal,False,2022,4,April,2022-04,9.278092474027002
+2024-07-01,Groundnut,10,3,West Bengal,36,Gajol APMC,2902,F.A.Q,FAQ,10600.0,10800.0,10700.0,Rs./Quintal,False,2024,7,July,2024-07,9.278092474027002
+2023-03-01,Cotton,15,4,Rajasthan,29,Pilibanga APMC,260,Desi,FAQ,10700.0,10700.0,10700.0,Rs./Quintal,False,2023,3,March,2023-03,9.278092474027002
+2022-12-08,Groundnut,10,3,Tamil Nadu,31,Vellore APMC,1469,Other,FAQ,7595.0,10711.0,10700.0,Rs./Quintal,False,2022,12,December,2022-12,9.278092474027002
+2022-09-08,Cotton,15,4,Gujarat,11,Visnagar APMC,59,Other,FAQ,10000.0,11400.0,10700.0,Rs./Quintal,False,2022,9,September,2022-09,9.278092474027002
+2023-03-01,Groundnut,10,3,Tamil Nadu,31,Thirukovilur APMC,290,Other,FAQ,9586.0,10901.0,10694.0,Rs./Quintal,False,2023,3,March,2023-03,9.277531621516506
+2023-09-01,Groundnut,10,3,Tamil Nadu,31,Shrimushnam APMC,2933,Other,FAQ,9918.0,10861.25,10689.0,Rs./Quintal,False,2023,9,September,2023-09,9.27706400401909
+2022-04-08,Cotton,15,4,Madhya Pradesh,19,Khetia APMC,2317,H4,FAQ,9000.0,12250.0,10680.0,Rs./Quintal,False,2022,4,April,2022-04,9.276221741089696
+2022-02-08,Cotton,15,4,Karnataka,16,Soundati APMC,698,GCH,FAQ,10675.0,10675.0,10675.0,Rs./Quintal,False,2022,2,February,2022-02,9.275753510524416
+2023-05-08,Banana,19,5,Nagaland,24,Tuli APMC,3291,Other,Medium,10500.0,10850.0,10675.0,Rs./Quintal,False,2023,5,May,2023-05,9.275753510524416
+2022-08-08,Cotton,15,4,Tamil Nadu,31,Mailaduthurai APMC,2961,MCU-7,FAQ,9847.0,11572.0,10657.0,Rs./Quintal,False,2022,8,August,2022-08,9.274066062856727
+2018-04-01,Cotton,15,4,Karnataka,16,Shiggoan APMC,1604,Aka-1 (Unginned),FAQ,10600.0,10700.0,10650.0,Rs./Quintal,False,2018,4,April,2018-04,9.273409063443166
+2023-12-08,Groundnut,10,3,Tamil Nadu,31,Cheyyar APMC,2436,Other,FAQ,9090.0,10766.0,10640.0,Rs./Quintal,False,2023,12,December,2023-12,9.272469743441732
+2022-03-08,Cotton,15,4,Madhya Pradesh,19,Gandhwani APMC,2657,Other,FAQ,8000.0,10950.0,10640.0,Rs./Quintal,False,2022,3,March,2022-03,9.272469743441732
+2023-09-08,Groundnut,10,3,Tamil Nadu,31,Ulundurpettai APMC,292,Other,FAQ,9613.0,11674.0,10625.0,Rs./Quintal,False,2023,9,September,2023-09,9.271059107010888
+2023-12-08,Groundnut,10,3,Tamil Nadu,31,Thirukovilur APMC,290,Other,FAQ,9361.0,10774.0,10620.0,Rs./Quintal,False,2023,12,December,2023-12,9.27058845232154
+2023-02-08,Groundnut,10,3,Tamil Nadu,31,Virudhachalam APMC,279,Other,FAQ,9736.0,11299.0,10620.0,Rs./Quintal,False,2023,2,February,2023-02,9.27058845232154
+2021-02-08,Onion,23,6,Keralam,17,Palakkad Market,135,Small,FAQ,10000.0,11000.0,10600.0,Rs./Quintal,False,2021,2,February,2021-02,9.268703615273097
+2017-06-01,Onion,23,6,Keralam,17,Palakkad Market,135,Small,FAQ,10000.0,11000.0,10600.0,Rs./Quintal,False,2017,6,June,2017-06,9.268703615273097
+2016-04-01,Lentil,52,2,West Bengal,36,Medinipur(West) APMC,671,Masur Dal,FAQ,10500.0,10700.0,10600.0,Rs./Quintal,False,2016,4,April,2016-04,9.268703615273097
+2017-12-01,Onion,23,6,Keralam,17,Mannar Market,2673,Small,FAQ,10500.0,10700.0,10600.0,Rs./Quintal,False,2017,12,December,2017-12,9.268703615273097
+2024-01-08,Groundnut,10,3,West Bengal,36,Gajol APMC,2902,F.A.Q,FAQ,10500.0,10700.0,10600.0,Rs./Quintal,False,2024,1,January,2024-01,9.268703615273097
+2023-10-08,Groundnut,10,3,West Bengal,36,Gajol APMC,2902,F.A.Q,FAQ,10500.0,10700.0,10600.0,Rs./Quintal,False,2023,10,October,2023-10,9.268703615273097
+2017-07-01,Onion,23,6,Keralam,17,Palakkad Market,135,Small,FAQ,10000.0,11000.0,10600.0,Rs./Quintal,False,2017,7,July,2017-07,9.268703615273097
+2023-06-01,Onion,23,6,Nagaland,24,Jalukie APMC,195,1st Sort,FAQ,10500.0,10700.0,10600.0,Rs./Quintal,False,2023,6,June,2023-06,9.268703615273097
+2022-06-01,Cotton,15,4,Gujarat,11,Morbi APMC,62,Local,FAQ,9100.0,12100.0,10600.0,Rs./Quintal,False,2022,6,June,2022-06,9.268703615273097
+2023-07-01,Onion,23,6,Nagaland,24,Jalukie APMC,195,1st Sort,FAQ,10500.0,10700.0,10600.0,Rs./Quintal,False,2023,7,July,2023-07,9.268703615273097
+2022-08-08,Cotton,15,4,Tamil Nadu,31,Panruti APMC,1217,Other,FAQ,9689.0,11509.0,10599.0,Rs./Quintal,False,2022,8,August,2022-08,9.268609280100158
+2023-12-01,Groundnut,10,3,Tamil Nadu,31,Avalurpet APMC,1062,Other,FAQ,8761.0,12125.0,10596.0,Rs./Quintal,False,2023,12,December,2023-12,9.268326221174837
+2023-08-08,Groundnut,10,3,Tamil Nadu,31,Andimadom APMC,2969,Other,FAQ,10594.0,10594.0,10594.0,Rs./Quintal,False,2023,8,August,2023-08,9.2681374707024
+2022-04-08,Cotton,15,4,Gujarat,11,Patan APMC,444,Other,FAQ,9000.0,12180.0,10590.0,Rs./Quintal,False,2022,4,April,2022-04,9.267759862843668
+2023-08-01,Groundnut,10,3,Tamil Nadu,31,Kurinchipadi APMC,2423,Other,FAQ,10288.0,10949.0,10588.0,Rs./Quintal,False,2023,8,August,2023-08,9.267571005430455
+2023-12-08,Groundnut,10,3,Tamil Nadu,31,Avalurpet APMC,1062,Other,FAQ,9889.0,12711.0,10583.0,Rs./Quintal,False,2023,12,December,2023-12,9.267098705794792
+2022-01-08,Cotton,15,4,Madhya Pradesh,19,Petlawad APMC,1229,Cotton (Unginned),FAQ,8300.0,11800.0,10579.0,Rs./Quintal,False,2022,1,January,2022-01,9.26672070541229
+2022-09-01,Cotton,15,4,Tamil Nadu,31,Anthiyur APMC,1223,Other,FAQ,8686.0,11089.0,10569.0,Rs./Quintal,False,2022,9,September,2022-09,9.265775078864284
+2022-07-08,Cotton,15,4,Gujarat,11,Gondal APMC,61,H.B (Unginned),FAQ,5555.0,11005.0,10555.0,Rs./Quintal,False,2022,7,July,2022-07,9.264449697623215
+2023-12-08,Groundnut,10,3,Tamil Nadu,31,Kallakurichi APMC,1216,Other,FAQ,9275.0,11825.0,10550.0,Rs./Quintal,False,2023,12,December,2023-12,9.263975921142093
+2023-02-01,Potato,24,6,Keralam,17,Pothencode Market,2009,Other,FAQ,10500.0,10580.0,10540.0,Rs./Quintal,False,2023,2,February,2023-02,9.26302769425519
+2023-08-08,Groundnut,10,3,Tamil Nadu,31,Avalurpet APMC,1062,Other,FAQ,9261.0,10899.0,10528.0,Rs./Quintal,False,2023,8,August,2023-08,9.26188863385676
+2022-12-01,Groundnut,10,3,Tamil Nadu,31,Thirukovilur APMC,290,Other,FAQ,9086.0,10736.0,10511.0,Rs./Quintal,False,2022,12,December,2022-12,9.260272740724393
+2016-08-08,Lentil,52,2,Manipur,21,Imphal APMC,583,Other,FAQ,,10500.0,10500.0,Rs./Quintal,False,2016,8,August,2016-08,9.259225769705994
+2016-11-08,Lentil,52,2,Manipur,21,Imphal APMC,583,Other,FAQ,,10500.0,10500.0,Rs./Quintal,False,2016,11,November,2016-11,9.259225769705994
+2016-06-01,Lentil,52,2,Assam,4,Jorhat APMC,387,Masur Dal,FAQ,8000.0,11000.0,10500.0,Rs./Quintal,False,2016,6,June,2016-06,9.259225769705994
+2022-12-01,Groundnut,10,3,Tamil Nadu,31,Vellore APMC,1469,Other,FAQ,4305.0,10528.0,10500.0,Rs./Quintal,False,2022,12,December,2022-12,9.259225769705994
+2022-04-08,Cotton,15,4,Gujarat,11,Vankaner APMC,1616,Other,FAQ,8000.0,12075.0,10500.0,Rs./Quintal,False,2022,4,April,2022-04,9.259225769705994
+2020-11-08,Onion,23,6,Keralam,17,Kattappana Market,2679,Small,FAQ,10000.0,11000.0,10500.0,Rs./Quintal,False,2020,11,November,2020-11,9.259225769705994
+2022-09-08,Cotton,15,4,Tamil Nadu,31,Tiruchengode APMC,2940,Other,FAQ,9500.0,11000.0,10500.0,Rs./Quintal,False,2022,9,September,2022-09,9.259225769705994
+2019-12-01,Onion,23,6,Keralam,17,Kattappana Market,2679,Small,FAQ,10000.0,10800.0,10500.0,Rs./Quintal,False,2019,12,December,2019-12,9.259225769705994
+2016-06-01,Lentil,52,2,Assam,4,Cachar APMC,383,Masur Dal,FAQ,9800.0,10800.0,10500.0,Rs./Quintal,False,2016,6,June,2016-06,9.259225769705994
+2020-06-08,Rice,3,1,Maharashtra,20,APMC Mumbai ,154,Other,FAQ,9000.0,11500.0,10500.0,Rs./Quintal,False,2020,6,June,2020-06,9.259225769705994
+2016-07-01,Lentil,52,2,Manipur,21,Imphal APMC,583,Other,FAQ,,10500.0,10500.0,Rs./Quintal,False,2016,7,July,2016-07,9.259225769705994
+2016-07-01,Lentil,52,2,Assam,4,Hailakandi APMC,1712,Masur Dal,FAQ,9800.0,10800.0,10500.0,Rs./Quintal,False,2016,7,July,2016-07,9.259225769705994
+2018-06-01,Rice,3,1,Karnataka,16,Davangere APMC,106,Basmati,FAQ,10000.0,11000.0,10500.0,Rs./Quintal,False,2018,6,June,2018-06,9.259225769705994
+2022-04-08,Cotton,15,4,Gujarat,11,Kadi(Kadi cotton Yard) APMC,2593,Shanker 6 (B) 30mm FIne,FAQ,8000.0,12855.0,10500.0,Rs./Quintal,False,2022,4,April,2022-04,9.259225769705994
+2024-06-08,Banana,19,5,Keralam,17,Nedumpana  VFPCK Market,4312,Nendra Bale,Medium,10100.0,10800.0,10500.0,Rs./Quintal,False,2024,6,June,2024-06,9.259225769705994
+2015-12-01,Lentil,52,2,West Bengal,36,Medinipur(West) APMC,671,Masur Dal,FAQ,10400.0,10500.0,10500.0,Rs./Quintal,False,2015,12,December,2015-12,9.259225769705994
+2021-03-01,Onion,23,6,Keralam,17,Vadakkenchery Market,2683,Small,FAQ,10000.0,11000.0,10500.0,Rs./Quintal,False,2021,3,March,2021-03,9.259225769705994
+2022-04-01,Cotton,15,4,Maharashtra,20,APMC Kalmeshwar ,1355,Other,FAQ,9500.0,11300.0,10500.0,Rs./Quintal,False,2022,4,April,2022-04,9.259225769705994
+2021-03-08,Onion,23,6,Keralam,17,Vadakkenchery Market,2683,Small,FAQ,10000.0,11000.0,10500.0,Rs./Quintal,False,2021,3,March,2021-03,9.259225769705994
+2022-04-08,Cotton,15,4,Gujarat,11,APMC HALVAD,2638,Other,FAQ,8000.0,11450.0,10500.0,Rs./Quintal,False,2022,4,April,2022-04,9.259225769705994
+2022-04-08,Cotton,15,4,Telangana,32,Warangal APMC,19,Cotton (Unginned),FAQ,9000.0,11710.0,10500.0,Rs./Quintal,False,2022,4,April,2022-04,9.259225769705994
+2022-08-01,Banana,19,5,Keralam,17,Parakkodu Market,514,Nendra Bale,Large,10000.0,10500.0,10500.0,Rs./Quintal,False,2022,8,August,2022-08,9.259225769705994
+2022-04-08,Cotton,15,4,Maharashtra,20,APMC Varora ,1641,Desi,FAQ,8000.0,12100.0,10500.0,Rs./Quintal,False,2022,4,April,2022-04,9.259225769705994
+2022-07-01,Cotton,15,4,Gujarat,11,Jetpur(Dist.Rajkot) APMC,1615,Cotton (Unginned),FAQ,7500.0,11500.0,10500.0,Rs./Quintal,False,2022,7,July,2022-07,9.259225769705994
+2022-06-01,Cotton,15,4,Gujarat,11,Vankaner APMC,1616,Other,FAQ,8500.0,12355.0,10500.0,Rs./Quintal,False,2022,6,June,2022-06,9.259225769705994
+2022-06-08,Cotton,15,4,Gujarat,11,Rajula APMC,430,Local,FAQ,9000.0,12000.0,10500.0,Rs./Quintal,False,2022,6,June,2022-06,9.259225769705994
+2024-03-08,Groundnut,10,3,Tamil Nadu,31,Vellore APMC,1469,Bold Kernel,FAQ,10210.0,10861.0,10500.0,Rs./Quintal,False,2024,3,March,2024-03,9.259225769705994
+2019-03-01,Cotton,15,4,Karnataka,16,Shiggoan APMC,1604,Aka-1 (Unginned),FAQ,10400.0,10600.0,10500.0,Rs./Quintal,False,2019,3,March,2019-03,9.259225769705994
+2025-10-08,Groundnut,10,3,Madhya Pradesh,19,Bhopal APMC,172,Groundnut seed,FAQ,10500.0,10500.0,10500.0,Rs./Quintal,False,2025,10,October,2025-10,9.259225769705994
+2015-07-01,Lentil,52,2,Manipur,21,Imphal APMC,583,Other,FAQ,,10500.0,10500.0,Rs./Quintal,False,2015,7,July,2015-07,9.259225769705994
+2021-04-01,Groundnut,10,3,Tamil Nadu,31,Vellore APMC,1469,Other,FAQ,10000.0,10900.0,10500.0,Rs./Quintal,False,2021,4,April,2021-04,9.259225769705994
+2022-07-08,Cotton,15,4,Gujarat,11,Rajkot APMC,60,Narma BT Cotton,FAQ,9500.0,11250.0,10500.0,Rs./Quintal,False,2022,7,July,2022-07,9.259225769705994
+2019-12-08,Onion,23,6,Karnataka,16,Belgaum APMC,101,Pusa-Red,FAQ,8000.0,12000.0,10500.0,Rs./Quintal,False,2019,12,December,2019-12,9.259225769705994
+2022-08-08,Cotton,15,4,Telangana,32,Khammam APMC,5,Cotton (Unginned),FAQ,10500.0,10500.0,10500.0,Rs./Quintal,False,2022,8,August,2022-08,9.259225769705994
+2022-08-08,Cotton,15,4,Telangana,32,Warangal APMC,19,Cotton (Unginned),FAQ,9500.0,11320.0,10500.0,Rs./Quintal,False,2022,8,August,2022-08,9.259225769705994
+2020-11-08,Onion,23,6,Keralam,17,Madhavapuram Market,1986,Other,FAQ,10200.0,11000.0,10500.0,Rs./Quintal,False,2020,11,November,2020-11,9.259225769705994
+2020-04-01,Onion,23,6,Keralam,17,Madhavapuram Market,1986,Other,FAQ,10000.0,11000.0,10500.0,Rs./Quintal,False,2020,4,April,2020-04,9.259225769705994
+2022-04-08,Cotton,15,4,Maharashtra,20,APMC Narkhed ,1357,Other,FAQ,10000.0,11000.0,10500.0,Rs./Quintal,False,2022,4,April,2022-04,9.259225769705994
+2022-06-01,Cotton,15,4,Tamil Nadu,31,Vikkiravandi APMC,1672,Other,FAQ,4909.0,11099.0,10489.0,Rs./Quintal,False,2022,6,June,2022-06,9.258177701390343
+2023-11-08,Groundnut,10,3,Tamil Nadu,31,Ulundurpettai APMC,292,Other,FAQ,8113.0,10838.0,10488.0,Rs./Quintal,False,2023,11,November,2023-11,9.258082367961604
+2023-12-01,Groundnut,10,3,Tamil Nadu,31,Thirukovilur APMC,290,Other,FAQ,9274.0,10511.0,10486.0,Rs./Quintal,False,2023,12,December,2023-12,9.257891673834406
+2022-01-08,Cotton,15,4,Madhya Pradesh,19,Jhabua APMC,2115,Desi,FAQ,8500.0,12451.0,10476.0,Rs./Quintal,False,2022,1,January,2022-01,9.256937657352966
+2021-12-08,Cotton,15,4,Madhya Pradesh,19,Petlawad APMC,1229,Cotton (Unginned),FAQ,7000.0,11700.0,10470.0,Rs./Quintal,False,2021,12,December,2021-12,9.256364810287462
+2022-04-01,Cotton,15,4,Karnataka,16,Haveri APMC,109,GCH,Medium,7819.0,11499.0,10465.0,Rs./Quintal,False,2022,4,April,2022-04,9.255887186932153
+2023-08-08,Groundnut,10,3,Tamil Nadu,31,Kallakurichi APMC,1216,Other,FAQ,9911.0,11011.0,10461.0,Rs./Quintal,False,2023,8,August,2023-08,9.255504923930557
+2023-06-08,Groundnut,10,3,Tamil Nadu,31,Kallakurichi APMC,1216,Other,FAQ,10125.0,10788.0,10456.0,Rs./Quintal,False,2023,6,June,2023-06,9.25502688959859
+2023-08-08,Groundnut,10,3,Tamil Nadu,31,Vellore APMC,1469,Other,FAQ,10348.0,10596.0,10450.0,Rs./Quintal,False,2023,8,August,2023-08,9.254452946594503
+2022-11-01,Groundnut,10,3,Tamil Nadu,31,Vellore APMC,1469,Other,FAQ,7600.0,10471.0,10450.0,Rs./Quintal,False,2022,11,November,2022-11,9.254452946594503
+2023-08-08,Groundnut,10,3,Tamil Nadu,31,Thirukovilur APMC,290,Other,FAQ,10188.0,10586.0,10438.0,Rs./Quintal,False,2023,8,August,2023-08,9.253304071408298
+2024-01-08,Groundnut,10,3,Tamil Nadu,31,Avalurpet APMC,1062,Other,FAQ,9581.0,11688.0,10438.0,Rs./Quintal,False,2024,1,January,2024-01,9.253304071408298
+2023-08-01,Groundnut,10,3,Tamil Nadu,31,Thirukovilur APMC,290,Other,FAQ,9250.0,10824.0,10438.0,Rs./Quintal,False,2023,8,August,2023-08,9.253304071408298
+2022-02-01,Cotton,15,4,Maharashtra,20,Sindi (Selu),3139,Other,FAQ,9500.0,10605.0,10420.0,Rs./Quintal,False,2022,2,February,2022-02,9.251578279992428
+2022-09-08,Groundnut,10,3,Tamil Nadu,31,Vellore APMC,1469,Other,FAQ,9111.0,10465.0,10420.0,Rs./Quintal,False,2022,9,September,2022-09,9.251578279992428
+2023-03-01,Groundnut,10,3,Tamil Nadu,31,Chetpet APMC,282,Balli/Habbu,FAQ,9116.0,10529.0,10415.0,Rs./Quintal,False,2023,3,March,2023-03,9.251098364448351
+2022-02-01,Cotton,15,4,Rajasthan,29,Gajsinghpur APMC,1409,American,FAQ,7500.0,11000.0,10400.0,Rs./Quintal,False,2022,2,February,2022-02,9.249657234353133
+2015-08-01,Lentil,52,2,Manipur,21,Imphal APMC,583,Other,FAQ,,10400.0,10400.0,Rs./Quintal,False,2015,8,August,2015-08,9.249657234353133
+2016-03-01,Lentil,52,2,West Bengal,36,Medinipur(West) APMC,671,Masur Dal,FAQ,10300.0,10500.0,10400.0,Rs./Quintal,False,2016,3,March,2016-03,9.249657234353133
+2023-08-08,Maize,4,1,Nagaland,24,Tuensang APMC,1698,Other,FAQ,10300.0,10600.0,10400.0,Rs./Quintal,False,2023,8,August,2023-08,9.249657234353133
+2024-12-08,Cotton,15,4,Madhya Pradesh,19,Sailana APMC,2088,Long fiber,FAQ,6420.0,10500.0,10400.0,Rs./Quintal,False,2024,12,December,2024-12,9.249657234353133
+2022-04-08,Cotton,15,4,Karnataka,16,Nargunda APMC,726,GCH,Medium,10300.0,10400.0,10400.0,Rs./Quintal,False,2022,4,April,2022-04,9.249657234353133
+2023-08-08,Groundnut,10,3,Tamil Nadu,31,Ulundurpettai APMC,292,Other,FAQ,10361.0,10469.0,10380.0,Rs./Quintal,False,2023,8,August,2023-08,9.247732491193245
+2022-06-08,Cotton,15,4,Gujarat,11,Morbi APMC,62,Local,FAQ,9250.0,11500.0,10375.0,Rs./Quintal,False,2022,6,June,2022-06,9.24725072599628
+2022-09-01,Cotton,15,4,Karnataka,16,Jagalur APMC,722,LH-1556,FAQ,9869.0,10569.0,10369.0,Rs./Quintal,False,2022,9,September,2022-09,9.246672301223573
+2024-01-08,Groundnut,10,3,Tamil Nadu,31,Andimadom APMC,2969,Other,FAQ,9086.0,10736.0,10361.0,Rs./Quintal,False,2024,1,January,2024-01,9.245900547374733
+2023-06-01,Groundnut,10,3,Tamil Nadu,31,Thirukovilur APMC,290,Other,FAQ,9111.0,10488.0,10361.0,Rs./Quintal,False,2023,6,June,2023-06,9.245900547374733
+2023-11-01,Groundnut,10,3,Tamil Nadu,31,Kallakurichi APMC,1216,Other,FAQ,9814.0,10901.0,10358.0,Rs./Quintal,False,2023,11,November,2023-11,9.245610986058102
+2023-08-08,Groundnut,10,3,Tamil Nadu,31,Kurinchipadi APMC,2423,Other,FAQ,7500.0,10636.0,10356.0,Rs./Quintal,False,2023,8,August,2023-08,9.24541789858888
+2022-03-08,Cotton,15,4,Rajasthan,29,Padampur APMC,1136,American,FAQ,9900.0,10441.0,10356.0,Rs./Quintal,False,2022,3,March,2022-03,9.24541789858888
+2022-08-01,Cotton,15,4,Gujarat,11,The Agricultural Produce Market Committee-Amreli,429,Other,FAQ,5750.0,14000.0,10350.0,Rs./Quintal,False,2022,8,August,2022-08,9.24483841238375
+2022-08-08,Cotton,15,4,Andhra Pradesh,2,Adoni APMC,828,Bunny,FAQ,6269.0,11379.0,10350.0,Rs./Quintal,False,2022,8,August,2022-08,9.24483841238375
+2024-03-01,Groundnut,10,3,Tamil Nadu,31,Kallakurichi APMC,1216,Other,FAQ,9900.0,10800.0,10350.0,Rs./Quintal,False,2024,3,March,2024-03,9.24483841238375
+2022-03-08,Cotton,15,4,Rajasthan,29,Goluwala APMC,1387,American,FAQ,8000.0,10801.0,10350.0,Rs./Quintal,False,2022,3,March,2022-03,9.24483841238375
+2024-02-01,Groundnut,10,3,Tamil Nadu,31,Avalurpet APMC,1062,Other,FAQ,9861.0,11250.0,10341.0,Rs./Quintal,False,2024,2,February,2024-02,9.243968552956167
+2023-11-08,Groundnut,10,3,Tamil Nadu,31,Thirukovilur APMC,290,Other,FAQ,9370.0,10486.0,10336.0,Rs./Quintal,False,2023,11,November,2023-11,9.243484970568485
+2023-02-01,Groundnut,10,3,Tamil Nadu,31,Virudhachalam APMC,279,Other,FAQ,7499.0,11360.0,10336.0,Rs./Quintal,False,2023,2,February,2023-02,9.243484970568485
+2022-02-08,Cotton,15,4,Rajasthan,29,Padampur APMC,1136,American,FAQ,9925.0,10431.0,10336.0,Rs./Quintal,False,2022,2,February,2022-02,9.243484970568485
+2023-03-01,Groundnut,10,3,Tamil Nadu,31,Sangarapuram APMC,1215,Other,FAQ,10328.0,10328.0,10328.0,Rs./Quintal,False,2023,3,March,2023-03,9.242710752006634
+2023-02-08,Groundnut,10,3,Tamil Nadu,31,Chetpet APMC,282,Balli/Habbu,FAQ,9806.0,11081.0,10325.0,Rs./Quintal,False,2023,2,February,2023-02,9.242420265439595
+2023-11-01,Groundnut,10,3,Tamil Nadu,31,Thirukovilur APMC,290,Other,FAQ,9236.0,10586.0,10325.0,Rs./Quintal,False,2023,11,November,2023-11,9.242420265439595
+2022-05-08,Cotton,15,4,Maharashtra,20,"Kai Madhavrao Pawar Khajgi Krushi Utappan Bazar, Georai, Dist Beed",4013,Other,FAQ,10256.0,10420.0,10320.0,Rs./Quintal,False,2022,5,May,2022-05,9.241935933565934
+2023-03-01,Groundnut,10,3,Tamil Nadu,31,Vandavasi APMC,287,Other,FAQ,10251.0,10376.0,10314.0,Rs./Quintal,False,2023,3,March,2023-03,9.241354425505353
+2024-02-01,Groundnut,10,3,Tamil Nadu,31,Vandavasi APMC,287,Other,FAQ,10125.0,10500.0,10313.0,Rs./Quintal,False,2024,2,February,2024-02,9.241257474610904
+2022-09-01,Cotton,15,4,Rajasthan,29,Sadulshahar APMC,1390,Other,FAQ,10301.0,10301.0,10301.0,Rs./Quintal,False,2022,9,September,2022-09,9.24009333012553
+2020-03-01,Rice,3,1,Keralam,17,Aroor Market,1971,Basmati,FAQ,10200.0,10400.0,10300.0,Rs./Quintal,False,2020,3,March,2020-03,9.239996256883693
+2020-04-01,Rice,3,1,Maharashtra,20,APMC Mumbai ,154,Other,FAQ,9500.0,12000.0,10300.0,Rs./Quintal,False,2020,4,April,2020-04,9.239996256883693
+2016-04-01,Lentil,52,2,Assam,4,Cachar APMC,383,Masur Dal,FAQ,9600.0,10500.0,10300.0,Rs./Quintal,False,2016,4,April,2016-04,9.239996256883693
+2016-03-01,Lentil,52,2,Assam,4,Cachar APMC,383,Masur Dal,FAQ,9600.0,10500.0,10300.0,Rs./Quintal,False,2016,3,March,2016-03,9.239996256883693
+2022-02-01,Cotton,15,4,Rajasthan,29,Pilibanga APMC,260,American,FAQ,6750.0,10421.0,10300.0,Rs./Quintal,False,2022,2,February,2022-02,9.239996256883693
+2016-08-08,Groundnut,10,3,Maharashtra,20,Kolhapur(Laxmipuri) ,2143,Other,FAQ,10200.0,10500.0,10300.0,Rs./Quintal,False,2016,8,August,2016-08,9.239996256883693
+2016-02-01,Lentil,52,2,Assam,4,Hailakandi APMC,1712,Masur Dal,FAQ,9600.0,10500.0,10300.0,Rs./Quintal,False,2016,2,February,2016-02,9.239996256883693
+2016-01-01,Lentil,52,2,Assam,4,Cachar APMC,383,Masur Dal,FAQ,9600.0,10500.0,10300.0,Rs./Quintal,False,2016,1,January,2016-01,9.239996256883693
+2022-02-08,Cotton,15,4,Rajasthan,29,Sri Karanpur APMC,1413,American,FAQ,8701.0,10506.0,10300.0,Rs./Quintal,False,2022,2,February,2022-02,9.239996256883693
+2015-12-01,Lentil,52,2,Assam,4,Cachar APMC,383,Masur Dal,FAQ,9600.0,10500.0,10300.0,Rs./Quintal,False,2015,12,December,2015-12,9.239996256883693
+2015-11-01,Lentil,52,2,Assam,4,Silapathar APMC,388,Masur Dal,FAQ,10000.0,11000.0,10300.0,Rs./Quintal,False,2015,11,November,2015-11,9.239996256883693
+2016-02-01,Lentil,52,2,Assam,4,Jorhat APMC,387,Masur Dal,FAQ,8500.0,10800.0,10300.0,Rs./Quintal,False,2016,2,February,2016-02,9.239996256883693
+2022-04-01,Cotton,15,4,Karnataka,16,Nargunda APMC,726,GCH,Medium,9800.0,10500.0,10300.0,Rs./Quintal,False,2022,4,April,2022-04,9.239996256883693
+2016-02-01,Lentil,52,2,West Bengal,36,Ramkrishanpur(Howrah),799,Masur Dal,FAQ,10100.0,10500.0,10300.0,Rs./Quintal,False,2016,2,February,2016-02,9.239996256883693
+2016-01-01,Lentil,52,2,Assam,4,Jorhat APMC,387,Masur Dal,FAQ,9500.0,11000.0,10300.0,Rs./Quintal,False,2016,1,January,2016-01,9.239996256883693
+2022-06-08,Cotton,15,4,Tamil Nadu,31,Theni APMC,1473,MCU 5,FAQ,10200.0,10400.0,10300.0,Rs./Quintal,False,2022,6,June,2022-06,9.239996256883693
+2022-02-01,Cotton,15,4,Rajasthan,29,Raisingh Nagar APMC,640,American,FAQ,9702.0,10535.0,10300.0,Rs./Quintal,False,2022,2,February,2022-02,9.239996256883693
+2016-03-01,Lentil,52,2,Assam,4,Hailakandi APMC,1712,Masur Dal,FAQ,9600.0,10500.0,10300.0,Rs./Quintal,False,2016,3,March,2016-03,9.239996256883693
+2023-07-01,Onion,23,6,Keralam,17,Palakkad Market,135,Small,FAQ,9400.0,11000.0,10300.0,Rs./Quintal,False,2023,7,July,2023-07,9.239996256883693
+2025-01-01,Cotton,15,4,Karnataka,16,Bailahongal APMC,692,LD-327,FAQ,8500.0,10900.0,10300.0,Rs./Quintal,False,2025,1,January,2025-01,9.239996256883693
+2015-12-01,Lentil,52,2,Assam,4,Silapathar APMC,388,Masur Dal,FAQ,10000.0,11000.0,10300.0,Rs./Quintal,False,2015,12,December,2015-12,9.239996256883693
+2023-04-01,Cotton,15,4,Madhya Pradesh,19,Sailana APMC,2088,DCH-32(Unginned),FAQ,9300.0,10290.0,10290.0,Rs./Quintal,False,2023,4,April,2023-04,9.239025005836092
+2022-03-08,Cotton,15,4,Maharashtra,20,APMC Parbhani ,567,Other,FAQ,7900.0,10400.0,10280.0,Rs./Quintal,False,2022,3,March,2022-03,9.238052810542719
+2022-09-01,Cotton,15,4,Gujarat,11,Rajkot APMC,60,Narma BT Cotton,FAQ,10000.0,10890.0,10275.0,Rs./Quintal,False,2022,9,September,2022-09,9.237566358229774
+2023-05-08,Groundnut,10,3,Tamil Nadu,31,Kurinchipadi APMC,2423,Other,FAQ,9700.0,10450.0,10275.0,Rs./Quintal,False,2023,5,May,2023-05,9.237566358229774
+2022-08-01,Cotton,15,4,Tamil Nadu,31,Salem APMC,1471,Other,FAQ,9711.0,10712.0,10270.0,Rs./Quintal,False,2022,8,August,2022-08,9.237079669165805
+2022-03-08,Cotton,15,4,Maharashtra,20,Sindi (Selu),3139,Other,FAQ,9000.0,10340.0,10260.0,Rs./Quintal,False,2022,3,March,2022-03,9.236105579862208
+2022-02-08,Cotton,15,4,Karnataka,16,Ranebennur APMC,110,GCH,Medium,8093.0,10609.0,10258.0,Rs./Quintal,False,2022,2,February,2022-02,9.235910648087712
+2022-08-08,Cotton,15,4,Tamil Nadu,31,Kuthalam APMC,2960,MCU-7,FAQ,9571.0,11548.0,10254.0,Rs./Quintal,False,2022,8,August,2022-08,9.235520670506482
+2022-02-08,Cotton,15,4,Madhya Pradesh,19,Gandhwani APMC,2657,Other,FAQ,8200.0,10800.0,10251.0,Rs./Quintal,False,2022,2,February,2022-02,9.235228087483963
+2017-03-08,Groundnut,10,3,Madhya Pradesh,19,Katni APMC,180,Other,FAQ,10200.0,10990.0,10251.0,Rs./Quintal,False,2017,3,March,2017-03,9.235228087483963
+2022-02-01,Cotton,15,4,Rajasthan,29,Sriganganagar (Grain) APMC,257,American,FAQ,7511.0,10411.0,10251.0,Rs./Quintal,False,2022,2,February,2022-02,9.235228087483963
+2015-09-01,Lentil,52,2,Assam,4,P.O. Uparhali Guwahati APMC,23,Masur Dal,FAQ,10000.0,10500.0,10250.0,Rs./Quintal,False,2015,9,September,2015-09,9.235130540783402
+2022-03-08,Cotton,15,4,Rajasthan,29,Sri Karanpur APMC,1413,American,FAQ,9901.0,10370.0,10250.0,Rs./Quintal,False,2022,3,March,2022-03,9.235130540783402
+2022-02-01,Cotton,15,4,Rajasthan,29,Gharsana APMC,1135,American,FAQ,9000.0,10400.0,10250.0,Rs./Quintal,False,2022,2,February,2022-02,9.235130540783402
+2016-02-01,Lentil,52,2,Assam,4,P.O. Uparhali Guwahati APMC,23,Masur Dal,FAQ,9850.0,10650.0,10250.0,Rs./Quintal,False,2016,2,February,2016-02,9.235130540783402
+2022-08-08,Cotton,15,4,Tamil Nadu,31,Nagapattinam APMC,2889,MCU-7,FAQ,9875.0,11548.0,10248.0,Rs./Quintal,False,2022,8,August,2022-08,9.234935418831563
+2024-02-08,Groundnut,10,3,Tamil Nadu,31,Avalurpet APMC,1062,Other,FAQ,9365.0,10913.0,10240.0,Rs./Quintal,False,2024,2,February,2024-02,9.234154550075438
+2022-02-01,Cotton,15,4,Rajasthan,29,HanumangarhTown APMC,2758,Desi,FAQ,7150.0,10240.0,10240.0,Rs./Quintal,False,2022,2,February,2022-02,9.234154550075438
+2022-08-08,Groundnut,10,3,Tamil Nadu,31,Vellore APMC,1469,Other,FAQ,8000.0,10282.0,10240.0,Rs./Quintal,False,2022,8,August,2022-08,9.234154550075438
+2023-12-01,Groundnut,10,3,Tamil Nadu,31,Ulundurpettai APMC,292,Other,FAQ,8249.0,11488.0,10238.0,Rs./Quintal,False,2023,12,December,2023-12,9.233959237574817
+2021-12-08,Groundnut,10,3,Tamil Nadu,31,Vellore APMC,1469,Other,FAQ,10235.0,10235.0,10235.0,Rs./Quintal,False,2021,12,December,2021-12,9.23366619727968
+2022-02-01,Cotton,15,4,Rajasthan,29,Kesarisinghpur APMC,1411,Other,FAQ,7721.0,10451.0,10231.0,Rs./Quintal,False,2022,2,February,2022-02,9.23327534325868
+2023-06-01,Groundnut,10,3,Tamil Nadu,31,Cuddalore APMC,645,Other,FAQ,10226.0,10226.0,10226.0,Rs./Quintal,False,2023,6,June,2023-06,9.232786560806012
+2022-07-01,Cotton,15,4,Telangana,32,Kesamudram APMC,378,Cotton (Unginned),FAQ,5122.0,10225.0,10211.0,Rs./Quintal,False,2022,7,July,2022-07,9.231318778361375
+2022-09-01,Cotton,15,4,Telangana,32,Kesamudram APMC,378,Cotton (Unginned),FAQ,4251.0,10211.0,10211.0,Rs./Quintal,False,2022,9,September,2022-09,9.231318778361375
+2022-08-01,Groundnut,10,3,Tamil Nadu,31,Vellore APMC,1469,Other,FAQ,7818.0,10252.0,10210.0,Rs./Quintal,False,2022,8,August,2022-08,9.231220849555537
+2022-01-01,Cotton,15,4,Madhya Pradesh,19,Jhabua APMC,2115,Desi,FAQ,8000.0,12411.0,10206.0,Rs./Quintal,False,2022,1,January,2022-01,9.230829038403499
+2023-02-08,Cotton,15,4,Rajasthan,29,Gharsana APMC,1135,Desi,FAQ,10205.0,10205.0,10205.0,Rs./Quintal,False,2023,2,February,2023-02,9.230731061623917
+2023-02-08,Groundnut,10,3,Tamil Nadu,31,Vandavasi APMC,287,Other,FAQ,9563.0,10838.0,10200.0,Rs./Quintal,False,2023,2,February,2023-02,9.23024103368252
+2023-05-08,Groundnut,10,3,Tamil Nadu,31,Vellore APMC,1469,Other,FAQ,9461.0,10285.0,10200.0,Rs./Quintal,False,2023,5,May,2023-05,9.23024103368252
+2016-09-08,Groundnut,10,3,Maharashtra,20,Kolhapur(Laxmipuri) ,2143,Other,FAQ,10000.0,10400.0,10200.0,Rs./Quintal,False,2016,9,September,2016-09,9.23024103368252
+2016-05-01,Lentil,52,2,West Bengal,36,Balarampur APMC,2905,Masur Dal,FAQ,10100.0,10300.0,10200.0,Rs./Quintal,False,2016,5,May,2016-05,9.23024103368252
+2016-05-01,Lentil,52,2,West Bengal,36,English Bazar APMC,337,Other,FAQ,9700.0,10700.0,10200.0,Rs./Quintal,False,2016,5,May,2016-05,9.23024103368252
+2022-02-01,Cotton,15,4,Rajasthan,29,Anupgarh APMC,256,American,FAQ,9000.0,10800.0,10200.0,Rs./Quintal,False,2022,2,February,2022-02,9.23024103368252
+2022-02-01,Cotton,15,4,Rajasthan,29,Goluwala APMC,1387,American,FAQ,8401.0,10510.0,10200.0,Rs./Quintal,False,2022,2,February,2022-02,9.23024103368252
+2022-08-08,Cotton,15,4,Tamil Nadu,31,Papanasam APMC,3753,Other,FAQ,10000.0,10500.0,10200.0,Rs./Quintal,False,2022,8,August,2022-08,9.23024103368252
+2024-11-08,Cotton,15,4,Madhya Pradesh,19,Thandla APMC,2096,Without Ginned Cotton,FAQ,8000.0,10200.0,10200.0,Rs./Quintal,False,2024,11,November,2024-11,9.23024103368252
+2022-09-08,Cotton,15,4,Gujarat,11,The Agricultural Produce Market Committee-Amreli,429,Other,FAQ,5000.0,10750.0,10200.0,Rs./Quintal,False,2022,9,September,2022-09,9.23024103368252
+2022-02-08,Cotton,15,4,Rajasthan,29,Kesarisinghpur APMC,1411,Other,FAQ,7700.0,10441.0,10200.0,Rs./Quintal,False,2022,2,February,2022-02,9.23024103368252
+2015-12-01,Lentil,52,2,Assam,4,P.O. Uparhali Guwahati APMC,23,Masur Dal,FAQ,9900.0,10500.0,10200.0,Rs./Quintal,False,2015,12,December,2015-12,9.23024103368252
+2016-11-08,Lentil,52,2,West Bengal,36,Medinipur(West) APMC,671,Masur Dal,FAQ,10000.0,10300.0,10200.0,Rs./Quintal,False,2016,11,November,2016-11,9.23024103368252
+2016-07-01,Lentil,52,2,West Bengal,36,Balarampur APMC,2905,Masur Dal,FAQ,10100.0,10300.0,10200.0,Rs./Quintal,False,2016,7,July,2016-07,9.23024103368252
+2023-08-08,Maize,4,1,Nagaland,24,Longleng APMC,3294,Hybrid Yellow (Cattle Feed),FAQ,10100.0,10400.0,10200.0,Rs./Quintal,False,2023,8,August,2023-08,9.23024103368252
+2016-08-08,Lentil,52,2,West Bengal,36,Kasipur APMC,3354,Other,FAQ,10100.0,10200.0,10200.0,Rs./Quintal,False,2016,8,August,2016-08,9.23024103368252
+2016-07-01,Lentil,52,2,West Bengal,36,Kasipur APMC,3354,Other,FAQ,10200.0,10300.0,10200.0,Rs./Quintal,False,2016,7,July,2016-07,9.23024103368252
+2022-07-08,Cotton,15,4,Maharashtra,20,APMC Jamner ,1293,Other,FAQ,10000.0,10500.0,10190.0,Rs./Quintal,False,2022,7,July,2022-07,9.229260256828693
+2024-02-01,Groundnut,10,3,Tamil Nadu,31,Andimadom APMC,2969,Other,FAQ,9776.0,10188.0,10188.0,Rs./Quintal,False,2024,2,February,2024-02,9.229063985974285
+2023-02-01,Groundnut,10,3,Tamil Nadu,31,Vandavasi APMC,287,Other,FAQ,9988.0,10365.0,10176.0,Rs./Quintal,False,2023,2,February,2023-02,9.227885551191932
+2023-11-08,Groundnut,10,3,Tamil Nadu,31,Avalurpet APMC,1062,Other,FAQ,8611.0,10522.0,10175.0,Rs./Quintal,False,2023,11,November,2023-11,9.227787285579904
+2023-07-01,Rice,3,1,Karnataka,16,Mysuru APMC,115,Fine,FAQ,10170.0,10170.0,10170.0,Rs./Quintal,False,2023,7,July,2023-07,9.227295812625597
+2022-03-08,Cotton,15,4,Rajasthan,29,Kesarisinghpur APMC,1411,Other,FAQ,7400.0,10231.0,10170.0,Rs./Quintal,False,2022,3,March,2022-03,9.227295812625597
+2023-08-01,Groundnut,10,3,Tamil Nadu,31,Kallakurichi APMC,1216,Other,FAQ,9338.0,11000.0,10169.0,Rs./Quintal,False,2023,8,August,2023-08,9.227197489042606
+2022-02-08,Cotton,15,4,Rajasthan,29,Sri Vijayanagar APMC,1414,American,FAQ,9500.0,10173.0,10160.0,Rs./Quintal,False,2022,2,February,2022-02,9.22631214148588
+2022-04-08,Groundnut,10,3,Tamil Nadu,31,Vellore APMC,1469,Other,FAQ,10156.0,10156.0,10156.0,Rs./Quintal,False,2022,4,April,2022-04,9.2259184019395
+2022-06-01,Groundnut,10,3,Tamil Nadu,31,Vellore APMC,1469,Other,FAQ,10153.0,10153.0,10153.0,Rs./Quintal,False,2022,6,June,2022-06,9.22562299550734
+2022-09-01,Groundnut,10,3,Tamil Nadu,31,Vellore APMC,1469,Other,FAQ,8149.0,10197.0,10150.0,Rs./Quintal,False,2022,9,September,2022-09,9.225327501784431
+2016-01-01,Lentil,52,2,Assam,4,P.O. Uparhali Guwahati APMC,23,Masur Dal,FAQ,9800.0,10500.0,10150.0,Rs./Quintal,False,2016,1,January,2016-01,9.225327501784431
+2023-02-01,Cotton,15,4,Rajasthan,29,Anupgarh APMC,256,Other,FAQ,10150.0,10290.0,10150.0,Rs./Quintal,False,2023,2,February,2023-02,9.225327501784431
+2022-02-08,Cotton,15,4,Rajasthan,29,Suratgarh APMC,1391,American,FAQ,8700.0,10380.0,10150.0,Rs./Quintal,False,2022,2,February,2022-02,9.225327501784431
+2022-02-08,Cotton,15,4,Rajasthan,29,Goluwala APMC,1387,American,FAQ,8601.0,10570.0,10150.0,Rs./Quintal,False,2022,2,February,2022-02,9.225327501784431
+2022-02-01,Cotton,15,4,Maharashtra,20,APMC Ralegaon ,1928,Other,FAQ,9000.0,10280.0,10150.0,Rs./Quintal,False,2022,2,February,2022-02,9.225327501784431
+2022-02-08,Cotton,15,4,Rajasthan,29,Pilibanga APMC,260,American,FAQ,8900.0,10177.0,10140.0,Rs./Quintal,False,2022,2,February,2022-02,9.224341891611996
+2022-02-08,Cotton,15,4,Maharashtra,20,APMC Sailu ,1326,Other,FAQ,8000.0,10250.0,10140.0,Rs./Quintal,False,2022,2,February,2022-02,9.224341891611996
+2023-02-01,Cotton,15,4,Rajasthan,29,Sri Vijayanagar APMC,1414,Desi,FAQ,10140.0,10140.0,10140.0,Rs./Quintal,False,2023,2,February,2023-02,9.224341891611996
+2022-02-08,Cotton,15,4,Maharashtra,20,APMC Manwat ,1325,Desi,FAQ,8400.0,10245.0,10130.0,Rs./Quintal,False,2022,2,February,2022-02,9.223355309053677
+2022-02-01,Cotton,15,4,Maharashtra,20,APMC Manwat ,1325,Desi,FAQ,8500.0,10260.0,10130.0,Rs./Quintal,False,2022,2,February,2022-02,9.223355309053677
+2016-03-01,Lentil,52,2,Assam,4,P.O. Uparhali Guwahati APMC,23,Masur Dal,FAQ,9800.0,10450.0,10125.0,Rs./Quintal,False,2016,3,March,2016-03,9.222861652529854
+2024-03-08,Groundnut,10,3,Tamil Nadu,31,Thirukovilur APMC,290,Other,FAQ,8166.0,10596.0,10125.0,Rs./Quintal,False,2024,3,March,2024-03,9.222861652529854
+2023-03-08,Groundnut,10,3,Tamil Nadu,31,Cheyyar APMC,2436,Other,FAQ,9743.0,10499.0,10123.0,Rs./Quintal,False,2023,3,March,2023-03,9.222664121665014
+2022-02-01,Cotton,15,4,Maharashtra,20,APMC  Chimur,1349,Other,FAQ,10010.0,10150.0,10120.0,Rs./Quintal,False,2022,2,February,2022-02,9.222367752188902
+2022-02-01,Cotton,15,4,Rajasthan,29,Sri Vijayanagar APMC,1414,American,FAQ,9605.0,10184.0,10112.0,Rs./Quintal,False,2022,2,February,2022-02,9.221577003902171
+2022-02-01,Cotton,15,4,Madhya Pradesh,19,Jhabua APMC,2115,Desi,FAQ,8000.0,12210.0,10105.0,Rs./Quintal,False,2022,2,February,2022-02,9.220884585851854
+2022-04-08,Cotton,15,4,Telangana,32,Peddapalli APMC,989,Cotton (Unginned),FAQ,8999.0,11821.0,10101.0,Rs./Quintal,False,2022,4,April,2022-04,9.220488703027998
+2022-02-01,Cotton,15,4,Karnataka,16,Soundati APMC,698,GCH,FAQ,9200.0,10500.0,10100.0,Rs./Quintal,False,2022,2,February,2022-02,9.220389707829185
+2022-02-01,Cotton,15,4,Gujarat,11,Manavdar APMC,1619,Shanker 4 31mm FIne,FAQ,8500.0,10750.0,10100.0,Rs./Quintal,False,2022,2,February,2022-02,9.220389707829185
+2022-02-01,Cotton,15,4,Maharashtra,20,APMC Umared ,156,Desi,FAQ,9200.0,10200.0,10100.0,Rs./Quintal,False,2022,2,February,2022-02,9.220389707829185
+2022-06-01,Cotton,15,4,Tamil Nadu,31,Kolathur APMC,2942,Other,FAQ,10000.0,10200.0,10100.0,Rs./Quintal,False,2022,6,June,2022-06,9.220389707829185
+2024-12-08,Cotton,15,4,Madhya Pradesh,19,Sailana APMC,2088,Without Ginned Cotton,FAQ,7700.0,10740.0,10100.0,Rs./Quintal,False,2024,12,December,2024-12,9.220389707829185
+2023-08-08,Banana,19,5,Nagaland,24,Tuli APMC,3291,Other,Medium,10000.0,10200.0,10100.0,Rs./Quintal,False,2023,8,August,2023-08,9.220389707829185
+2022-04-01,Cotton,15,4,Madhya Pradesh,19,Thandla APMC,2096,DCH-32  (Ginned),FAQ,10000.0,10100.0,10100.0,Rs./Quintal,False,2022,4,April,2022-04,9.220389707829185
+2017-09-08,Onion,23,6,Keralam,17,Mannar Market,2673,Small,FAQ,10000.0,10200.0,10100.0,Rs./Quintal,False,2017,9,September,2017-09,9.220389707829185
+2022-09-08,Cotton,15,4,Rajasthan,29,Gajsinghpur APMC,1409,American,FAQ,10100.0,10100.0,10100.0,Rs./Quintal,False,2022,9,September,2022-09,9.220389707829185
+2016-08-08,Lentil,52,2,West Bengal,36,English Bazar APMC,337,Other,FAQ,9600.0,10600.0,10100.0,Rs./Quintal,False,2016,8,August,2016-08,9.220389707829185
+2022-03-08,Cotton,15,4,Rajasthan,29,Suratgarh APMC,1391,American,FAQ,9785.0,10275.0,10100.0,Rs./Quintal,False,2022,3,March,2022-03,9.220389707829185
+2022-03-08,Cotton,15,4,Rajasthan,29,Anupgarh APMC,256,American,FAQ,9300.0,10300.0,10100.0,Rs./Quintal,False,2022,3,March,2022-03,9.220389707829185
+2022-04-08,Cotton,15,4,Madhya Pradesh,19,Jhabua APMC,2115,Desi,FAQ,9400.0,10800.0,10100.0,Rs./Quintal,False,2022,4,April,2022-04,9.220389707829185
+2024-12-08,Cotton,15,4,Madhya Pradesh,19,Sailana(F&V) APMC,4533,Other,FAQ,7700.0,10740.0,10100.0,Rs./Quintal,False,2024,12,December,2024-12,9.220389707829185
+2022-02-08,Cotton,15,4,Maharashtra,20,APMC Umared ,156,Desi,FAQ,8000.0,10210.0,10100.0,Rs./Quintal,False,2022,2,February,2022-02,9.220389707829185
+2023-07-01,Potato,24,6,Nagaland,24,Jalukie APMC,195,Other,FAQ,10000.0,10200.0,10100.0,Rs./Quintal,False,2023,7,July,2023-07,9.220389707829185
+2022-03-08,Cotton,15,4,Maharashtra,20,APMC  Chimur,1349,Other,FAQ,10000.0,10150.0,10100.0,Rs./Quintal,False,2022,3,March,2022-03,9.220389707829185
+2022-03-08,Cotton,15,4,Rajasthan,29,Hanumangarh APMC,258,Desi,FAQ,9003.0,10214.0,10100.0,Rs./Quintal,False,2022,3,March,2022-03,9.220389707829185
+2023-11-01,Groundnut,10,3,Tamil Nadu,31,Ulundurpettai APMC,292,Other,FAQ,9586.0,10438.0,10095.0,Rs./Quintal,False,2023,11,November,2023-11,9.219894584780995
+2023-03-08,Groundnut,10,3,Tamil Nadu,31,Avalurpet APMC,1062,Other,FAQ,9596.0,10114.0,10086.0,Rs./Quintal,False,2023,3,March,2023-03,9.219002745054835
+2022-02-08,Cotton,15,4,Rajasthan,29,Sriganganagar (Grain) APMC,257,American,FAQ,7200.0,10151.0,10086.0,Rs./Quintal,False,2022,2,February,2022-02,9.219002745054835
+2022-03-08,Cotton,15,4,Rajasthan,29,Sri Vijayanagar APMC,1414,American,FAQ,9350.0,10230.0,10083.0,Rs./Quintal,False,2022,3,March,2022-03,9.218705288307811
+2023-09-08,Groundnut,10,3,Tamil Nadu,31,Avalurpet APMC,1062,Other,FAQ,9086.0,11188.0,10061.0,Rs./Quintal,False,2023,9,September,2023-09,9.216521231051264
+2022-02-01,Cotton,15,4,Maharashtra,20,APMC Parbhani ,567,Other,FAQ,8700.0,10085.0,10060.0,Rs./Quintal,False,2022,2,February,2022-02,9.21642184229205
+2022-09-08,Cotton,15,4,Haryana,12,Ellanabad APMC,91,American,FAQ,9850.0,10151.0,10060.0,Rs./Quintal,False,2022,9,September,2022-09,9.21642184229205
+2022-09-08,Cotton,15,4,Rajasthan,29,Hanumangarh Town APMC,2474,American,FAQ,10051.0,10051.0,10051.0,Rs./Quintal,False,2022,9,September,2022-09,9.215526898663482
+2022-02-01,Cotton,15,4,Gujarat,11,Mansa APMC,1249,H-6,FAQ,5000.0,10425.0,10050.0,Rs./Quintal,False,2022,2,February,2022-02,9.21542741102474
+2023-03-08,Groundnut,10,3,Tamil Nadu,31,Cuddalore APMC,645,Other,FAQ,9113.0,10388.0,10050.0,Rs./Quintal,False,2023,3,March,2023-03,9.21542741102474
+2022-11-08,Groundnut,10,3,Tamil Nadu,31,Vellore APMC,1469,Other,FAQ,9099.0,10073.0,10050.0,Rs./Quintal,False,2022,11,November,2022-11,9.21542741102474
+2022-02-01,Cotton,15,4,Maharashtra,20,APMC Hingna,3452,Other,FAQ,8000.0,10050.0,10050.0,Rs./Quintal,False,2022,2,February,2022-02,9.21542741102474
+2022-04-08,Cotton,15,4,Madhya Pradesh,19,Sailana APMC,2088,MECH-1,FAQ,10000.0,10100.0,10050.0,Rs./Quintal,False,2022,4,April,2022-04,9.21542741102474
+2022-02-08,Cotton,15,4,Gujarat,11,Manavdar APMC,1619,Shanker 4 31mm FIne,FAQ,6850.0,10500.0,10050.0,Rs./Quintal,False,2022,2,February,2022-02,9.21542741102474
+2022-03-08,Cotton,15,4,Rajasthan,29,Rawatsar APMC,1389,American,FAQ,7000.0,10160.0,10050.0,Rs./Quintal,False,2022,3,March,2022-03,9.21542741102474
+2022-02-01,Cotton,15,4,Rajasthan,29,Rawatsar APMC,1389,American,FAQ,9000.0,10311.0,10050.0,Rs./Quintal,False,2022,2,February,2022-02,9.21542741102474
+2022-02-01,Cotton,15,4,Rajasthan,29,Sangriya APMC,259,Other,FAQ,7413.0,10246.0,10050.0,Rs./Quintal,False,2022,2,February,2022-02,9.21542741102474
+2022-02-08,Cotton,15,4,Maharashtra,20,APMC  Chimur,1349,Other,FAQ,10000.0,10100.0,10050.0,Rs./Quintal,False,2022,2,February,2022-02,9.21542741102474
+2015-10-01,Lentil,52,2,Assam,4,P.O. Uparhali Guwahati APMC,23,Masur Dal,FAQ,9800.0,10300.0,10050.0,Rs./Quintal,False,2015,10,October,2015-10,9.21542741102474
+2019-08-08,Groundnut,10,3,Tamil Nadu,31,Kallakurichi APMC,1216,Other,FAQ,9860.0,10229.0,10045.0,Rs./Quintal,False,2019,8,August,2019-08,9.21492982430999
+2022-02-08,Cotton,15,4,Maharashtra,20,APMC Parbhani ,567,Other,FAQ,8650.0,10070.0,10040.0,Rs./Quintal,False,2022,2,February,2022-02,9.214431989879436
+2022-09-01,Cotton,15,4,Karnataka,16,Chitradurga APMC,713,Varalakshmi  (Ginned),FAQ,2019.0,10766.0,10035.0,Rs./Quintal,False,2022,9,September,2022-09,9.213933907486313
+2022-03-08,Cotton,15,4,Rajasthan,29,Sriganganagar (Grain) APMC,257,American,FAQ,7901.0,10050.0,10031.0,Rs./Quintal,False,2022,3,March,2022-03,9.213535262872702
+2022-02-01,Cotton,15,4,Gujarat,11,Rajkot APMC,60,Narma BT Cotton,FAQ,9175.0,10300.0,10025.0,Rs./Quintal,False,2022,2,February,2022-02,9.212936997823448
+2022-02-08,Groundnut,10,3,Tamil Nadu,31,Kallakurichi APMC,1216,Other,FAQ,10024.0,10024.0,10024.0,Rs./Quintal,False,2022,2,February,2022-02,9.21283725217477
+2022-04-01,Cotton,15,4,Karnataka,16,Soundati APMC,698,GCH,FAQ,10000.0,10100.0,10022.0,Rs./Quintal,False,2022,4,April,2022-04,9.212637731024866
+2022-03-08,Cotton,15,4,Rajasthan,29,HanumangarhTown APMC,2758,Desi,FAQ,9950.0,10021.0,10021.0,Rs./Quintal,False,2022,3,March,2022-03,9.21253795551967
+2022-04-08,Cotton,15,4,Maharashtra,20,APMC Hinganghat ,170,Other,FAQ,8500.0,12530.0,10020.0,Rs./Quintal,False,2022,4,April,2022-04,9.212438170058329
+2022-03-08,Cotton,15,4,Tamil Nadu,31,Villupuram APMC,291,Other,FAQ,9399.0,10070.0,10020.0,Rs./Quintal,False,2022,3,March,2022-03,9.212438170058329
+2022-08-01,Cotton,15,4,Rajasthan,29,Sangriya APMC,259,Other,FAQ,9993.0,10043.0,10018.0,Rs./Quintal,False,2022,8,August,2022-08,9.212238569259263
+2022-03-01,Cotton,15,4,Rajasthan,29,Sangriya APMC,259,Other,FAQ,8000.0,10125.0,10018.0,Rs./Quintal,False,2022,3,March,2022-03,9.212238569259263
+2022-09-08,Cotton,15,4,Punjab,28,Malout APMC,231,Other,FAQ,10011.0,10031.0,10015.0,Rs./Quintal,False,2022,9,September,2022-09,9.211939093339879
+2022-02-08,Cotton,15,4,Rajasthan,29,Rawatsar APMC,1389,American,FAQ,8150.0,10100.0,10011.0,Rs./Quintal,False,2022,2,February,2022-02,9.211539652551664
+2022-02-08,Cotton,15,4,Rajasthan,29,HanumangarhTown APMC,2758,Desi,FAQ,6900.0,10011.0,10011.0,Rs./Quintal,False,2022,2,February,2022-02,9.211539652551664
+2022-03-08,Cotton,15,4,Maharashtra,20,APMC Kille Dharur ,1944,Other,FAQ,9900.0,10053.0,10006.0,Rs./Quintal,False,2022,3,March,2022-03,9.211040127090456
+2022-04-01,Cotton,15,4,Madhya Pradesh,19,Khargone APMC,524,Other,FAQ,6001.0,12755.0,10005.0,Rs./Quintal,False,2022,4,April,2022-04,9.21094019204815
+2022-02-08,Groundnut,10,3,Tamil Nadu,31,Thammampati APMC,2425,Other,FAQ,9902.0,10104.0,10005.0,Rs./Quintal,False,2022,2,February,2022-02,9.21094019204815
+2022-02-08,Cotton,15,4,Rajasthan,29,Hanumangarh APMC,258,Desi,FAQ,9301.0,10014.0,10001.0,Rs./Quintal,False,2022,2,February,2022-02,9.21054035197885
+2022-08-08,Cotton,15,4,Karnataka,16,Vijayapura APMC,105,LH-1556,FAQ,8099.0,10909.0,10001.0,Rs./Quintal,False,2022,8,August,2022-08,9.21054035197885
+2022-09-08,Cotton,15,4,Rajasthan,29,Sadulshahar APMC,1390,Other,FAQ,10001.0,10001.0,10001.0,Rs./Quintal,False,2022,9,September,2022-09,9.21054035197885
+2017-07-01,Onion,23,6,Keralam,17,Kollengode Market,2028,Small,FAQ,9800.0,10060.0,10000.0,Rs./Quintal,False,2017,7,July,2017-07,9.210440366976517
+2017-07-08,Onion,23,6,Keralam,17,Aralamoodu Market,2008,Onion,FAQ,10000.0,10000.0,10000.0,Rs./Quintal,False,2017,7,July,2017-07,9.210440366976517
+2017-07-01,Onion,23,6,Keralam,17,Thodupuzha Market,1081,Small,FAQ,9800.0,10000.0,10000.0,Rs./Quintal,False,2017,7,July,2017-07,9.210440366976517
+2017-07-01,Onion,23,6,Keralam,17,Kothamangalam Market,2681,Other,FAQ,9500.0,10500.0,10000.0,Rs./Quintal,False,2017,7,July,2017-07,9.210440366976517
+2024-12-08,Banana,19,5,Tamil Nadu,31,Palayamkottai(Uzhavar Sandhai ),4160,Besrai,Local,6000.0,10000.0,10000.0,Rs./Quintal,False,2024,12,December,2024-12,9.210440366976517
+2016-06-01,Lentil,52,2,West Bengal,36,Kasipur APMC,3354,Other,FAQ,10000.0,10000.0,10000.0,Rs./Quintal,False,2016,6,June,2016-06,9.210440366976517
+2016-08-08,Lentil,52,2,Maharashtra,20,Kolhapur(Laxmipuri) ,2143,Other,FAQ,6500.0,18400.0,10000.0,Rs./Quintal,False,2016,8,August,2016-08,9.210440366976517
+2019-11-08,Rice,3,1,Keralam,17,Aroor Market,1971,Basmati,FAQ,9900.0,11000.0,10000.0,Rs./Quintal,False,2019,11,November,2019-11,9.210440366976517
+2016-11-08,Lentil,52,2,Maharashtra,20,Kolhapur(Laxmipuri) ,2143,Other,FAQ,7500.0,19500.0,10000.0,Rs./Quintal,False,2016,11,November,2016-11,9.210440366976517
+2025-02-01,Banana,19,5,Tamil Nadu,31,Ammapet(Uzhavar Sandhai ),4133,Besrai,Local,4500.0,10000.0,10000.0,Rs./Quintal,False,2025,2,February,2025-02,9.210440366976517
+2025-02-01,Banana,19,5,Tamil Nadu,31,Hasthampatti(Uzhavar Sandhai ),4138,Besrai,Local,5000.0,10000.0,10000.0,Rs./Quintal,False,2025,2,February,2025-02,9.210440366976517
+2016-08-08,Lentil,52,2,Assam,4,Jorhat APMC,387,Masur Dal,FAQ,8000.0,10200.0,10000.0,Rs./Quintal,False,2016,8,August,2016-08,9.210440366976517
+2023-03-01,Cotton,15,4,Madhya Pradesh,19,Sailana APMC,2088,DCH-32(Unginned),FAQ,7100.0,10000.0,10000.0,Rs./Quintal,False,2023,3,March,2023-03,9.210440366976517
+2023-08-08,Banana,19,5,Nagaland,24,Tuensang APMC,1698,Other,Medium,9800.0,10200.0,10000.0,Rs./Quintal,False,2023,8,August,2023-08,9.210440366976517
+2023-09-08,Banana,19,5,Andaman and Nicobar,1,Bathubasti Vegetable Market,345,Red Banana,Medium,8000.0,12000.0,10000.0,Rs./Quintal,False,2023,9,September,2023-09,9.210440366976517
+2023-09-08,Banana,19,5,Andaman and Nicobar,1,Bathubasti Vegetable Market,345,Nendra Bale,Medium,8000.0,12000.0,10000.0,Rs./Quintal,False,2023,9,September,2023-09,9.210440366976517
+2023-12-01,Banana,19,5,Andaman and Nicobar,1,Bathubasti Vegetable Market,345,Red Banana,Medium,8000.0,12000.0,10000.0,Rs./Quintal,False,2023,12,December,2023-12,9.210440366976517
+2023-12-01,Banana,19,5,Andaman and Nicobar,1,Bathubasti Vegetable Market,345,Nendra Bale,Medium,8000.0,12000.0,10000.0,Rs./Quintal,False,2023,12,December,2023-12,9.210440366976517
+2023-05-01,Banana,19,5,Andaman and Nicobar,1,Bathubasti Vegetable Market,345,Red Banana,Medium,8000.0,12000.0,10000.0,Rs./Quintal,False,2023,5,May,2023-05,9.210440366976517
+2023-05-01,Banana,19,5,Andaman and Nicobar,1,Bathubasti Vegetable Market,345,Nendra Bale,Medium,8000.0,12000.0,10000.0,Rs./Quintal,False,2023,5,May,2023-05,9.210440366976517
+2023-05-08,Banana,19,5,Andaman and Nicobar,1,Perka Vegetable Market,3365,Other,Large,10000.0,12000.0,10000.0,Rs./Quintal,False,2023,5,May,2023-05,9.210440366976517
+2022-07-08,Banana,19,5,Keralam,17,Mattathur VFPCK Market,3386,Rasakathai,Medium,8000.0,12000.0,10000.0,Rs./Quintal,False,2022,7,July,2022-07,9.210440366976517
+2017-07-08,Onion,23,6,Keralam,17,Kothamangalam Market,2681,Other,FAQ,9500.0,10500.0,10000.0,Rs./Quintal,False,2017,7,July,2017-07,9.210440366976517
+2022-08-01,Banana,19,5,Keralam,17,Kottarakkara Market,2668,Nendra Bale,Medium,10000.0,10000.0,10000.0,Rs./Quintal,False,2022,8,August,2022-08,9.210440366976517
+2017-12-01,Onion,23,6,Karnataka,16,Gundlupet APMC,497,Local,FAQ,6250.0,14000.0,10000.0,Rs./Quintal,False,2017,12,December,2017-12,9.210440366976517
+2022-09-08,Cotton,15,4,Tamil Nadu,31,Theni APMC,1473,MCU 5,FAQ,9900.0,10100.0,10000.0,Rs./Quintal,False,2022,9,September,2022-09,9.210440366976517
+2019-12-08,Onion,23,6,Maharashtra,20,APMC Junnar ,1306,Other,FAQ,4000.0,13000.0,10000.0,Rs./Quintal,False,2019,12,December,2019-12,9.210440366976517
+2018-01-01,Onion,23,6,Keralam,17,Chengannur Market,2015,Small,FAQ,9800.0,10500.0,10000.0,Rs./Quintal,False,2018,1,January,2018-01,9.210440366976517
+2024-11-08,Cotton,15,4,Madhya Pradesh,19,Sailana APMC,2088,Without Ginned Cotton,FAQ,6603.0,10700.0,10000.0,Rs./Quintal,False,2024,11,November,2024-11,9.210440366976517
+2023-08-01,Cotton,15,4,Maharashtra,20,APMC Varud ,1331,Other,FAQ,10000.0,10000.0,10000.0,Rs./Quintal,False,2023,8,August,2023-08,9.210440366976517
+2022-06-01,Cotton,15,4,Gujarat,11,Kalediya APMC,2577,Shanker 6 (B) 30mm FIne,FAQ,9500.0,10000.0,10000.0,Rs./Quintal,False,2022,6,June,2022-06,9.210440366976517
+2023-06-08,Banana,19,5,Keralam,17,Mattathur VFPCK Market,3386,Rasakathai,Medium,9000.0,10500.0,10000.0,Rs./Quintal,False,2023,6,June,2023-06,9.210440366976517
+2025-10-01,Banana,19,5,Nagaland,24,Pfatsero APMC,196,Other,Medium,9000.0,11000.0,10000.0,Rs./Quintal,False,2025,10,October,2025-10,9.210440366976517
+2025-08-08,Banana,19,5,Keralam,17,Muriyad  VFPCK Market,4361,Rasakathai,Large,4000.0,13000.0,10000.0,Rs./Quintal,False,2025,8,August,2025-08,9.210440366976517
+2025-07-08,Banana,19,5,Tamil Nadu,31,Ranipettai(Uzhavar Sandhai ),4225,Besrai,Local,5000.0,10000.0,10000.0,Rs./Quintal,False,2025,7,July,2025-07,9.210440366976517
+2025-07-08,Banana,19,5,Tamil Nadu,31,Palayamkottai(Uzhavar Sandhai ),4160,Besrai,Local,6000.0,10000.0,10000.0,Rs./Quintal,False,2025,7,July,2025-07,9.210440366976517
+2025-07-08,Banana,19,5,Tamil Nadu,31,NGO Colony(Uzhavar Sandhai ),4164,Besrai,Local,9000.0,10000.0,10000.0,Rs./Quintal,False,2025,7,July,2025-07,9.210440366976517
+2025-07-01,Banana,19,5,Tamil Nadu,31,Tiruvarur(Uzhavar Sandhai ),4173,Besrai,Local,5000.0,10000.0,10000.0,Rs./Quintal,False,2025,7,July,2025-07,9.210440366976517
+2025-07-01,Banana,19,5,Tamil Nadu,31,Ranipettai(Uzhavar Sandhai ),4225,Besrai,Local,4000.0,10000.0,10000.0,Rs./Quintal,False,2025,7,July,2025-07,9.210440366976517
+2020-01-01,Onion,23,6,Keralam,17,Chengannur Market,2015,Other,FAQ,9700.0,10200.0,10000.0,Rs./Quintal,False,2020,1,January,2020-01,9.210440366976517
+2022-08-08,Cotton,15,4,Gujarat,11,Rajkot APMC,60,Narma BT Cotton,FAQ,5000.0,10275.0,10000.0,Rs./Quintal,False,2022,8,August,2022-08,9.210440366976517
+2019-12-08,Onion,23,6,West Bengal,36,Sheoraphuly APMC,2270,Nasik,FAQ,9500.0,10500.0,10000.0,Rs./Quintal,False,2019,12,December,2019-12,9.210440366976517
+2022-09-01,Cotton,15,4,Haryana,12,KALANWALIAPMC,92,American,FAQ,10000.0,10000.0,10000.0,Rs./Quintal,False,2022,9,September,2022-09,9.210440366976517
+2024-12-08,Cotton,15,4,Madhya Pradesh,19,Petlawad APMC,1229,Without Ginned Cotton,FAQ,7535.0,10000.0,10000.0,Rs./Quintal,False,2024,12,December,2024-12,9.210440366976517
+2025-06-08,Banana,19,5,Tamil Nadu,31,Palayamkottai(Uzhavar Sandhai ),4160,Besrai,Local,6000.0,10000.0,10000.0,Rs./Quintal,False,2025,6,June,2025-06,9.210440366976517
+2025-06-08,Banana,19,5,Tamil Nadu,31,Ranipettai(Uzhavar Sandhai ),4225,Besrai,Local,5000.0,10000.0,10000.0,Rs./Quintal,False,2025,6,June,2025-06,9.210440366976517
+2025-06-08,Banana,19,5,Tamil Nadu,31,Tiruvarur(Uzhavar Sandhai ),4173,Besrai,Local,5000.0,10000.0,10000.0,Rs./Quintal,False,2025,6,June,2025-06,9.210440366976517
+2025-07-01,Banana,19,5,Tamil Nadu,31,NGO Colony(Uzhavar Sandhai ),4164,Besrai,Local,9000.0,10000.0,10000.0,Rs./Quintal,False,2025,7,July,2025-07,9.210440366976517
+2025-07-01,Banana,19,5,Tamil Nadu,31,Palayamkottai(Uzhavar Sandhai ),4160,Besrai,Local,6000.0,10000.0,10000.0,Rs./Quintal,False,2025,7,July,2025-07,9.210440366976517
+2024-09-08,Banana,19,5,Tamil Nadu,31,Ranipettai(Uzhavar Sandhai ),4225,Besrai,Local,7000.0,10000.0,10000.0,Rs./Quintal,False,2024,9,September,2024-09,9.210440366976517
+2022-07-08,Banana,19,5,Keralam,17,Kottarakkara Market,2668,Nendra Bale,Medium,10000.0,10000.0,10000.0,Rs./Quintal,False,2022,7,July,2022-07,9.210440366976517
+2024-08-08,Banana,19,5,Tamil Nadu,31,Palayamkottai(Uzhavar Sandhai ),4160,Besrai,Local,6000.0,10000.0,10000.0,Rs./Quintal,False,2024,8,August,2024-08,9.210440366976517
+2020-01-01,Onion,23,6,Tripura,33,Barpathari APMC,3105,Other,FAQ,9500.0,11000.0,10000.0,Rs./Quintal,False,2020,1,January,2020-01,9.210440366976517
+2020-01-01,Onion,23,6,Odisha,26,Pattamundai APMC,3301,Bombay (U.P.),FAQ,9000.0,10000.0,10000.0,Rs./Quintal,False,2020,1,January,2020-01,9.210440366976517
+2020-01-01,Onion,23,6,Odisha,26,Dhenkanal APMC,1514,Other,FAQ,9000.0,10000.0,10000.0,Rs./Quintal,False,2020,1,January,2020-01,9.210440366976517
+2020-01-01,Onion,23,6,Odisha,26,Kendrapara(Marshaghai) APMC,2720,Bombay (U.P.),FAQ,9000.0,10000.0,10000.0,Rs./Quintal,False,2020,1,January,2020-01,9.210440366976517
+2022-06-01,Cotton,15,4,Gujarat,11,Bodeliu APMC,432,Shanker 6 (B) 30mm FIne,FAQ,8901.0,11905.0,10000.0,Rs./Quintal,False,2022,6,June,2022-06,9.210440366976517
+2022-06-01,Cotton,15,4,Gujarat,11,APMC Bagasara,1624,Other,FAQ,8000.0,12000.0,10000.0,Rs./Quintal,False,2022,6,June,2022-06,9.210440366976517
+2020-11-01,Onion,23,6,Keralam,17,Nedumkandam Market,2678,Small,FAQ,10000.0,10000.0,10000.0,Rs./Quintal,False,2020,11,November,2020-11,9.210440366976517
+2022-06-01,Cotton,15,4,Gujarat,11,Hadad     APMC,2578,Shanker 6 (B) 30mm FIne,FAQ,9500.0,10000.0,10000.0,Rs./Quintal,False,2022,6,June,2022-06,9.210440366976517
+2021-02-08,Onion,23,6,Keralam,17,Harippad Market,2017,Other,FAQ,10000.0,11500.0,10000.0,Rs./Quintal,False,2021,2,February,2021-02,9.210440366976517
+2022-07-01,Cotton,15,4,Gujarat,11,JASDAN APMC,780,Shanker 6 (B) 30mm FIne,FAQ,7500.0,11000.0,10000.0,Rs./Quintal,False,2022,7,July,2022-07,9.210440366976517
+2022-08-01,Cotton,15,4,Gujarat,11,Rajula APMC,430,Local,FAQ,7500.0,12500.0,10000.0,Rs./Quintal,False,2022,8,August,2022-08,9.210440366976517
+2022-06-08,Cotton,15,4,Tamil Nadu,31,Kolathur APMC,2942,Other,FAQ,9300.0,10500.0,10000.0,Rs./Quintal,False,2022,6,June,2022-06,9.210440366976517
+2022-04-01,Cotton,15,4,Gujarat,11,Vankaner APMC,1616,Other,FAQ,8500.0,11360.0,10000.0,Rs./Quintal,False,2022,4,April,2022-04,9.210440366976517
+2017-06-08,Onion,23,6,Keralam,17,Harippad Market,2017,Other,FAQ,9000.0,12000.0,10000.0,Rs./Quintal,False,2017,6,June,2017-06,9.210440366976517
+2017-06-08,Onion,23,6,Keralam,17,Chengannur Market,2015,Small,FAQ,9800.0,10300.0,10000.0,Rs./Quintal,False,2017,6,June,2017-06,9.210440366976517
+2016-08-08,Lentil,52,2,West Bengal,36,Balarampur APMC,2905,Masur Dal,FAQ,9900.0,10100.0,10000.0,Rs./Quintal,False,2016,8,August,2016-08,9.210440366976517
+2025-02-01,Banana,19,5,Tamil Nadu,31,Pudukottai(Uzhavar Sandhai ),4123,Besrai,Local,9000.0,10000.0,10000.0,Rs./Quintal,False,2025,2,February,2025-02,9.210440366976517
+2025-02-01,Banana,19,5,Tamil Nadu,31,RSPuram(Uzhavar Sandhai ),4057,Besrai,Local,3500.0,10000.0,10000.0,Rs./Quintal,False,2025,2,February,2025-02,9.210440366976517
+2025-02-01,Banana,19,5,Tamil Nadu,31,Vadavalli(Uzhavar Sandhai ),4063,Besrai,Local,4000.0,10000.0,10000.0,Rs./Quintal,False,2025,2,February,2025-02,9.210440366976517
+2025-02-01,Banana,19,5,Tamil Nadu,31,Singanallur(Uzhavar Sandhai ),4058,Besrai,Local,3000.0,10000.0,10000.0,Rs./Quintal,False,2025,2,February,2025-02,9.210440366976517
+2022-03-01,Groundnut,10,3,Tamil Nadu,31,Vellore APMC,1469,Other,FAQ,9336.0,10210.0,10000.0,Rs./Quintal,False,2022,3,March,2022-03,9.210440366976517
+2016-07-01,Lentil,52,2,West Bengal,36,Purulia APMC,673,Masur Dal,FAQ,9900.0,10100.0,10000.0,Rs./Quintal,False,2016,7,July,2016-07,9.210440366976517
+2021-03-01,Groundnut,10,3,Tamil Nadu,31,Vellore APMC,1469,Other,FAQ,7100.0,10111.0,10000.0,Rs./Quintal,False,2021,3,March,2021-03,9.210440366976517
+2022-06-08,Groundnut,10,3,Tamil Nadu,31,Vellore APMC,1469,Other,FAQ,8771.0,10097.0,10000.0,Rs./Quintal,False,2022,6,June,2022-06,9.210440366976517
+2022-03-01,Cotton,15,4,Rajasthan,29,Hanumangarh APMC,258,Desi,FAQ,9403.0,10371.0,10000.0,Rs./Quintal,False,2022,3,March,2022-03,9.210440366976517
+2022-03-08,Cotton,15,4,Gujarat,11,Bodeliu APMC,432,Shanker 6 (B) 30mm FIne,FAQ,8500.0,10400.0,10000.0,Rs./Quintal,False,2022,3,March,2022-03,9.210440366976517
+2022-03-08,Cotton,15,4,Gujarat,11,Hadad     APMC,2578,Shanker 6 (B) 30mm FIne,FAQ,8201.0,10401.0,10000.0,Rs./Quintal,False,2022,3,March,2022-03,9.210440366976517
+2022-03-08,Cotton,15,4,Gujarat,11,Kalawad APMC,1103,Other,FAQ,9500.0,10500.0,10000.0,Rs./Quintal,False,2022,3,March,2022-03,9.210440366976517
+2022-05-01,Cotton,15,4,Maharashtra,20,APMC Kalmeshwar ,1355,Other,FAQ,9000.0,11500.0,10000.0,Rs./Quintal,False,2022,5,May,2022-05,9.210440366976517
+2022-06-01,Cotton,15,4,Gujarat,11,Modasar APMC,2789,Shanker 6 (B) 30mm FIne,FAQ,8901.0,11905.0,10000.0,Rs./Quintal,False,2022,6,June,2022-06,9.210440366976517
+2022-05-08,Cotton,15,4,Maharashtra,20,APMC Kalmeshwar ,1355,Other,FAQ,9000.0,11500.0,10000.0,Rs./Quintal,False,2022,5,May,2022-05,9.210440366976517
+2022-04-08,Cotton,15,4,Maharashtra,20,APMC Wardha ,1635,Other,FAQ,8500.0,12500.0,10000.0,Rs./Quintal,False,2022,4,April,2022-04,9.210440366976517
+2022-04-01,Cotton,15,4,Madhya Pradesh,19,Badnawar APMC,2076,DCH-32  (Ginned),FAQ,9700.0,10000.0,10000.0,Rs./Quintal,False,2022,4,April,2022-04,9.210440366976517
+2022-04-08,Cotton,15,4,Gujarat,11,Dhansura APMC,1533,RCH-2,FAQ,9500.0,10500.0,10000.0,Rs./Quintal,False,2022,4,April,2022-04,9.210440366976517
+2022-04-01,Cotton,15,4,Maharashtra,20,APMC Varora ,1641,Desi,FAQ,7800.0,12000.0,10000.0,Rs./Quintal,False,2022,4,April,2022-04,9.210440366976517
+2024-06-08,Banana,19,5,Meghalaya,22,Sohra APMC,3154,Other,Medium,8000.0,12000.0,10000.0,Rs./Quintal,False,2024,6,June,2024-06,9.210440366976517
+2025-06-01,Banana,19,5,Tamil Nadu,31,Tiruvarur(Uzhavar Sandhai ),4173,Besrai,Local,5000.0,10000.0,10000.0,Rs./Quintal,False,2025,6,June,2025-06,9.210440366976517
+2024-05-08,Banana,19,5,Nagaland,24,Pfatsero APMC,196,Other,Medium,9000.0,11000.0,10000.0,Rs./Quintal,False,2024,5,May,2024-05,9.210440366976517
+2025-06-08,Banana,19,5,Tamil Nadu,31,NGO Colony(Uzhavar Sandhai ),4164,Besrai,Local,9000.0,10000.0,10000.0,Rs./Quintal,False,2025,6,June,2025-06,9.210440366976517
+2025-06-08,Banana,19,5,Tamil Nadu,31,Melapalayam(Uzhavar Sandhai ),4162,Besrai,Local,6000.0,10000.0,10000.0,Rs./Quintal,False,2025,6,June,2025-06,9.210440366976517
+2025-06-01,Banana,19,5,Tamil Nadu,31,Palayamkottai(Uzhavar Sandhai ),4160,Besrai,Local,6000.0,10000.0,10000.0,Rs./Quintal,False,2025,6,June,2025-06,9.210440366976517
+2025-06-01,Banana,19,5,Tamil Nadu,31,Pollachi(Uzhavar Sandhai ),4059,Besrai,Local,5000.0,10000.0,10000.0,Rs./Quintal,False,2025,6,June,2025-06,9.210440366976517
+2025-05-08,Banana,19,5,Tamil Nadu,31,Tiruvarur(Uzhavar Sandhai ),4173,Besrai,Local,5000.0,10000.0,10000.0,Rs./Quintal,False,2025,5,May,2025-05,9.210440366976517
+2025-06-01,Banana,19,5,Tamil Nadu,31,NGO Colony(Uzhavar Sandhai ),4164,Besrai,Local,6000.0,10000.0,10000.0,Rs./Quintal,False,2025,6,June,2025-06,9.210440366976517
+2025-05-08,Banana,19,5,Tamil Nadu,31,Ranipettai(Uzhavar Sandhai ),4225,Besrai,Local,5000.0,10000.0,10000.0,Rs./Quintal,False,2025,5,May,2025-05,9.210440366976517
+2025-05-08,Banana,19,5,Tamil Nadu,31,Palayamkottai(Uzhavar Sandhai ),4160,Besrai,Local,6000.0,10000.0,10000.0,Rs./Quintal,False,2025,5,May,2025-05,9.210440366976517
+2023-08-01,Banana,19,5,Nagaland,24,Tuensang APMC,1698,Other,Medium,9900.0,10200.0,10000.0,Rs./Quintal,False,2023,8,August,2023-08,9.210440366976517
+2025-06-01,Banana,19,5,Tamil Nadu,31,Melapalayam(Uzhavar Sandhai ),4162,Besrai,Local,8000.0,10000.0,10000.0,Rs./Quintal,False,2025,6,June,2025-06,9.210440366976517
+2022-02-08,Cotton,15,4,Rajasthan,29,Sadulshahar APMC,1390,American,FAQ,6100.0,10261.0,10000.0,Rs./Quintal,False,2022,2,February,2022-02,9.210440366976517
+2022-02-08,Cotton,15,4,Rajasthan,29,Raisingh Nagar APMC,640,American,FAQ,9800.0,10116.0,10000.0,Rs./Quintal,False,2022,2,February,2022-02,9.210440366976517
+2023-11-01,Onion,23,6,Keralam,17,Pala Market,2022,Onion,FAQ,9500.0,11000.0,10000.0,Rs./Quintal,False,2023,11,November,2023-11,9.210440366976517
+2023-12-01,Onion,23,6,Keralam,17,Kanjirappally Market,2021,Onion,FAQ,9800.0,10000.0,10000.0,Rs./Quintal,False,2023,12,December,2023-12,9.210440366976517
+2023-08-01,Onion,23,6,Keralam,17,Kuruppanthura Market,1973,Onion,FAQ,8000.0,12000.0,10000.0,Rs./Quintal,False,2023,8,August,2023-08,9.210440366976517
+2022-03-08,Cotton,15,4,Rajasthan,29,Hanumangarh Town APMC,2474,American,FAQ,9100.0,10253.0,10000.0,Rs./Quintal,False,2022,3,March,2022-03,9.210440366976517
+2022-03-08,Cotton,15,4,Rajasthan,29,Pilibanga APMC,260,American,FAQ,7300.0,10100.0,10000.0,Rs./Quintal,False,2022,3,March,2022-03,9.210440366976517
+2022-03-08,Cotton,15,4,Rajasthan,29,Raisingh Nagar APMC,640,American,FAQ,9200.0,10225.0,10000.0,Rs./Quintal,False,2022,3,March,2022-03,9.210440366976517
+2022-03-08,Cotton,15,4,Gujarat,11,Modasar APMC,2789,Shanker 6 (B) 30mm FIne,FAQ,8500.0,10400.0,10000.0,Rs./Quintal,False,2022,3,March,2022-03,9.210440366976517
+2022-03-08,Cotton,15,4,Haryana,12,KALANWALIAPMC,92,American,FAQ,5100.0,10000.0,10000.0,Rs./Quintal,False,2022,3,March,2022-03,9.210440366976517
+2022-03-08,Cotton,15,4,Maharashtra,20,APMC Umared ,156,Desi,FAQ,8500.0,10100.0,10000.0,Rs./Quintal,False,2022,3,March,2022-03,9.210440366976517
+2022-03-08,Cotton,15,4,Gujarat,11,Kalediya APMC,2577,Shanker 6 (B) 30mm FIne,FAQ,8201.0,10401.0,10000.0,Rs./Quintal,False,2022,3,March,2022-03,9.210440366976517
+2021-10-01,Potato,24,6,Karnataka,16,Mysuru APMC,115,Potato,FAQ,6000.0,14000.0,10000.0,Rs./Quintal,False,2021,10,October,2021-10,9.210440366976517
+2022-03-01,Cotton,15,4,Rajasthan,29,Goluwala APMC,1387,American,FAQ,8050.0,10800.0,10000.0,Rs./Quintal,False,2022,3,March,2022-03,9.210440366976517
+2022-02-08,Cotton,15,4,Rajasthan,29,Anupgarh APMC,256,American,FAQ,9300.0,10321.0,10000.0,Rs./Quintal,False,2022,2,February,2022-02,9.210440366976517
+2022-02-08,Cotton,15,4,Maharashtra,20,APMC Ralegaon ,1928,Other,FAQ,9200.0,10100.0,10000.0,Rs./Quintal,False,2022,2,February,2022-02,9.210440366976517
+2022-02-08,Cotton,15,4,Telangana,32,Manakodur APMC,3762,Bramha,FAQ,10000.0,10000.0,10000.0,Rs./Quintal,False,2022,2,February,2022-02,9.210440366976517
+2022-02-08,Cotton,15,4,Telangana,32,Bhadrachalam APMC,369,Cotton (Unginned),FAQ,10000.0,10000.0,10000.0,Rs./Quintal,False,2022,2,February,2022-02,9.210440366976517
+2022-01-08,Cotton,15,4,Rajasthan,29,Raisingh Nagar APMC,640,American,FAQ,9640.0,10052.0,10000.0,Rs./Quintal,False,2022,1,January,2022-01,9.210440366976517
+2025-05-08,Banana,19,5,Tamil Nadu,31,Melapalayam(Uzhavar Sandhai ),4162,Besrai,Local,6000.0,10000.0,10000.0,Rs./Quintal,False,2025,5,May,2025-05,9.210440366976517
+2025-05-01,Banana,19,5,Tamil Nadu,31,Tiruvarur(Uzhavar Sandhai ),4173,Besrai,Local,5000.0,10000.0,10000.0,Rs./Quintal,False,2025,5,May,2025-05,9.210440366976517
+2025-05-01,Banana,19,5,Tamil Nadu,31,Ranipettai(Uzhavar Sandhai ),4225,Besrai,Local,5000.0,10000.0,10000.0,Rs./Quintal,False,2025,5,May,2025-05,9.210440366976517
+2022-03-01,Cotton,15,4,Madhya Pradesh,19,Saunsar APMC,2089,H4,FAQ,9500.0,10050.0,10000.0,Rs./Quintal,False,2022,3,March,2022-03,9.210440366976517
+2022-03-01,Cotton,15,4,Gujarat,11,Bodeliu APMC,432,Shanker 6 (B) 30mm FIne,FAQ,8000.0,10201.0,10000.0,Rs./Quintal,False,2022,3,March,2022-03,9.210440366976517
+2025-05-01,Banana,19,5,Tamil Nadu,31,NGO Colony(Uzhavar Sandhai ),4164,Besrai,Local,9000.0,10000.0,10000.0,Rs./Quintal,False,2025,5,May,2025-05,9.210440366976517
+2025-05-01,Banana,19,5,Tamil Nadu,31,Palayamkottai(Uzhavar Sandhai ),4160,Besrai,Local,6000.0,10000.0,10000.0,Rs./Quintal,False,2025,5,May,2025-05,9.210440366976517
+2025-05-01,Banana,19,5,Tamil Nadu,31,Melapalayam(Uzhavar Sandhai ),4162,Besrai,Local,6000.0,10000.0,10000.0,Rs./Quintal,False,2025,5,May,2025-05,9.210440366976517
+2025-05-01,Banana,19,5,Tamil Nadu,31,Anna nagar(Uzhavar Sandhai ),4101,Besrai,Local,10000.0,10000.0,10000.0,Rs./Quintal,False,2025,5,May,2025-05,9.210440366976517
+2025-04-01,Banana,19,5,Tamil Nadu,31,Tiruvarur(Uzhavar Sandhai ),4173,Besrai,Local,5000.0,10000.0,10000.0,Rs./Quintal,False,2025,4,April,2025-04,9.210440366976517
+2025-04-01,Banana,19,5,Tamil Nadu,31,NGO Colony(Uzhavar Sandhai ),4164,Besrai,Local,8000.0,10000.0,10000.0,Rs./Quintal,False,2025,4,April,2025-04,9.210440366976517
+2025-04-08,Banana,19,5,Tamil Nadu,31,Tiruvarur(Uzhavar Sandhai ),4173,Besrai,Local,5000.0,10000.0,10000.0,Rs./Quintal,False,2025,4,April,2025-04,9.210440366976517
+2025-04-08,Banana,19,5,Tamil Nadu,31,Ranipettai(Uzhavar Sandhai ),4225,Besrai,Local,5000.0,10000.0,10000.0,Rs./Quintal,False,2025,4,April,2025-04,9.210440366976517
+2025-03-08,Banana,19,5,Tamil Nadu,31,Vadavalli(Uzhavar Sandhai ),4063,Besrai,Local,4000.0,10000.0,10000.0,Rs./Quintal,False,2025,3,March,2025-03,9.210440366976517
+2025-04-01,Banana,19,5,Tamil Nadu,31,Kallakurichi(Uzhavar Sandhai ),4222,Besrai,Local,4000.0,10000.0,10000.0,Rs./Quintal,False,2025,4,April,2025-04,9.210440366976517
+2025-03-08,Banana,19,5,Tamil Nadu,31,Tiruvarur(Uzhavar Sandhai ),4173,Besrai,Local,5000.0,10000.0,10000.0,Rs./Quintal,False,2025,3,March,2025-03,9.210440366976517
+2025-03-08,Banana,19,5,Tamil Nadu,31,Sulur(Uzhavar Sandhai ),4062,Besrai,Local,8500.0,10000.0,10000.0,Rs./Quintal,False,2025,3,March,2025-03,9.210440366976517
+2024-08-01,Potato,24,6,Tamil Nadu,31,Anna nagar(Uzhavar Sandhai ),4101,Red Nanital,Local,4800.0,10000.0,10000.0,Rs./Quintal,False,2024,8,August,2024-08,9.210440366976517
+2025-06-01,Banana,19,5,Tamil Nadu,31,Ranipettai(Uzhavar Sandhai ),4225,Besrai,Local,5000.0,10000.0,10000.0,Rs./Quintal,False,2025,6,June,2025-06,9.210440366976517
+2024-07-08,Banana,19,5,Nagaland,24,Pfatsero APMC,196,Other,Medium,9000.0,11000.0,10000.0,Rs./Quintal,False,2024,7,July,2024-07,9.210440366976517
+2024-06-08,Banana,19,5,Nagaland,24,Pfatsero APMC,196,Other,Medium,9000.0,11000.0,10000.0,Rs./Quintal,False,2024,6,June,2024-06,9.210440366976517
+2015-10-01,Lentil,52,2,Assam,4,Jorhat APMC,387,Masur Dal,FAQ,9200.0,10300.0,10000.0,Rs./Quintal,False,2015,10,October,2015-10,9.210440366976517
+2022-02-01,Cotton,15,4,Rajasthan,29,Hanumangarh APMC,258,Desi,FAQ,6800.0,10402.0,10000.0,Rs./Quintal,False,2022,2,February,2022-02,9.210440366976517
+2024-08-01,Banana,19,5,Tamil Nadu,31,Palayamkottai(Uzhavar Sandhai ),4160,Besrai,Local,6000.0,10000.0,10000.0,Rs./Quintal,False,2024,8,August,2024-08,9.210440366976517
+2015-09-01,Lentil,52,2,West Bengal,36,Kasipur APMC,3354,Other,FAQ,10000.0,10000.0,10000.0,Rs./Quintal,False,2015,9,September,2015-09,9.210440366976517
+2022-02-01,Cotton,15,4,Haryana,12,Ellanabad APMC,91,American,FAQ,8000.0,10064.0,10000.0,Rs./Quintal,False,2022,2,February,2022-02,9.210440366976517
+2022-02-01,Cotton,15,4,Gujarat,11,Kadi(Kadi cotton Yard) APMC,2593,Shanker 6 (B) 30mm FIne,FAQ,7500.0,10955.0,10000.0,Rs./Quintal,False,2022,2,February,2022-02,9.210440366976517
+2022-02-01,Cotton,15,4,Maharashtra,20,APMC Kille Dharur ,1944,Other,FAQ,9900.0,10050.0,10000.0,Rs./Quintal,False,2022,2,February,2022-02,9.210440366976517
+2024-08-01,Potato,24,6,Tamil Nadu,31,Hasthampatti(Uzhavar Sandhai ),4138,Red Nanital,Local,4800.0,10000.0,10000.0,Rs./Quintal,False,2024,8,August,2024-08,9.210440366976517
+2025-03-08,Banana,19,5,Tamil Nadu,31,Pudukottai(Uzhavar Sandhai ),4123,Besrai,Local,9000.0,10000.0,10000.0,Rs./Quintal,False,2025,3,March,2025-03,9.210440366976517
+2025-03-08,Banana,19,5,Tamil Nadu,31,Kallakurichi(Uzhavar Sandhai ),4222,Besrai,Local,4000.0,10000.0,10000.0,Rs./Quintal,False,2025,3,March,2025-03,9.210440366976517
+2025-03-08,Banana,19,5,Tamil Nadu,31,Hasthampatti(Uzhavar Sandhai ),4138,Besrai,Local,5000.0,10000.0,10000.0,Rs./Quintal,False,2025,3,March,2025-03,9.210440366976517
+2025-03-08,Banana,19,5,Tamil Nadu,31,Coonoor(Uzhavar Sandhai ),4118,Besrai,Local,4500.0,10000.0,10000.0,Rs./Quintal,False,2025,3,March,2025-03,9.210440366976517
+2025-03-08,Banana,19,5,Tamil Nadu,31,Ammapet(Uzhavar Sandhai ),4133,Besrai,Local,5000.0,10000.0,10000.0,Rs./Quintal,False,2025,3,March,2025-03,9.210440366976517
+2025-03-01,Banana,19,5,Tamil Nadu,31,Vadavalli(Uzhavar Sandhai ),4063,Besrai,Local,4000.0,10000.0,10000.0,Rs./Quintal,False,2025,3,March,2025-03,9.210440366976517
+2025-03-08,Banana,19,5,Tamil Nadu,31,Ranipettai(Uzhavar Sandhai ),4225,Besrai,Local,4000.0,10000.0,10000.0,Rs./Quintal,False,2025,3,March,2025-03,9.210440366976517
+2025-03-08,Banana,19,5,Tamil Nadu,31,RSPuram(Uzhavar Sandhai ),4057,Besrai,Local,3500.0,10000.0,10000.0,Rs./Quintal,False,2025,3,March,2025-03,9.210440366976517
+2025-03-01,Banana,19,5,Tamil Nadu,31,Singanallur(Uzhavar Sandhai ),4058,Besrai,Local,3500.0,10000.0,10000.0,Rs./Quintal,False,2025,3,March,2025-03,9.210440366976517
+2025-03-01,Banana,19,5,Tamil Nadu,31,RSPuram(Uzhavar Sandhai ),4057,Besrai,Local,3500.0,10000.0,10000.0,Rs./Quintal,False,2025,3,March,2025-03,9.210440366976517
+2025-03-01,Banana,19,5,Tamil Nadu,31,Pudukottai(Uzhavar Sandhai ),4123,Besrai,Local,9000.0,10000.0,10000.0,Rs./Quintal,False,2025,3,March,2025-03,9.210440366976517
+2025-01-08,Banana,19,5,Tamil Nadu,31,Ranipettai(Uzhavar Sandhai ),4225,Besrai,Local,4000.0,10000.0,10000.0,Rs./Quintal,False,2025,1,January,2025-01,9.210440366976517
+2025-01-01,Banana,19,5,Tamil Nadu,31,Ranipettai(Uzhavar Sandhai ),4225,Besrai,Local,4000.0,10000.0,10000.0,Rs./Quintal,False,2025,1,January,2025-01,9.210440366976517
+2025-05-08,Banana,19,5,Tamil Nadu,31,NGO Colony(Uzhavar Sandhai ),4164,Besrai,Local,6000.0,10000.0,10000.0,Rs./Quintal,False,2025,5,May,2025-05,9.210440366976517
+2015-12-01,Lentil,52,2,West Bengal,36,English Bazar APMC,337,Other,FAQ,9650.0,10650.0,10000.0,Rs./Quintal,False,2015,12,December,2015-12,9.210440366976517
+2015-12-01,Lentil,52,2,West Bengal,36,Durgapur APMC,2899,Other,FAQ,9700.0,10500.0,10000.0,Rs./Quintal,False,2015,12,December,2015-12,9.210440366976517
+2015-12-01,Lentil,52,2,West Bengal,36,Asansol APMC,3117,Masur Dal,FAQ,9700.0,10500.0,10000.0,Rs./Quintal,False,2015,12,December,2015-12,9.210440366976517
+2015-12-01,Lentil,52,2,Assam,4,Karimganj APMC,1713,Masur Dal,FAQ,9800.0,10200.0,10000.0,Rs./Quintal,False,2015,12,December,2015-12,9.210440366976517
+2015-11-01,Lentil,52,2,Assam,4,Baharihat APMC,385,Masur Dal,FAQ,9500.0,10500.0,10000.0,Rs./Quintal,False,2015,11,November,2015-11,9.210440366976517
+2024-04-08,Groundnut,10,3,Tamil Nadu,31,Vellore APMC,1469,Bold Kernel,FAQ,9524.0,10236.0,10000.0,Rs./Quintal,False,2024,4,April,2024-04,9.210440366976517
+2019-02-01,Cotton,15,4,Karnataka,16,Shiggoan APMC,1604,Aka-1 (Unginned),FAQ,10000.0,10000.0,10000.0,Rs./Quintal,False,2019,2,February,2019-02,9.210440366976517
+2025-09-08,Groundnut,10,3,Tamil Nadu,31,Melapalayam(Uzhavar Sandhai ),4162,Big (With Shell),Local,9000.0,10000.0,10000.0,Rs./Quintal,False,2025,9,September,2025-09,9.210440366976517
+2025-03-01,Banana,19,5,Tamil Nadu,31,Tiruvarur(Uzhavar Sandhai ),4173,Besrai,Local,5000.0,10000.0,10000.0,Rs./Quintal,False,2025,3,March,2025-03,9.210440366976517
+2025-03-01,Banana,19,5,Tamil Nadu,31,Sulur(Uzhavar Sandhai ),4062,Besrai,Local,8500.0,10000.0,10000.0,Rs./Quintal,False,2025,3,March,2025-03,9.210440366976517
+2016-01-01,Lentil,52,2,West Bengal,36,Gajol APMC,2902,Masur Dal,FAQ,9800.0,10200.0,10000.0,Rs./Quintal,False,2016,1,January,2016-01,9.210440366976517
+2025-09-01,Groundnut,10,3,Tamil Nadu,31,Melapalayam(Uzhavar Sandhai ),4162,Big (With Shell),Local,8000.0,10000.0,10000.0,Rs./Quintal,False,2025,9,September,2025-09,9.210440366976517
+2021-11-01,Groundnut,10,3,Tamil Nadu,31,Vellore APMC,1469,Other,FAQ,8903.0,10263.0,10000.0,Rs./Quintal,False,2021,11,November,2021-11,9.210440366976517
+2021-04-08,Groundnut,10,3,Tamil Nadu,31,Vellore APMC,1469,Other,FAQ,9349.0,10513.0,10000.0,Rs./Quintal,False,2021,4,April,2021-04,9.210440366976517
+2021-03-08,Groundnut,10,3,Tamil Nadu,31,Vellore APMC,1469,Other,FAQ,7888.0,10083.0,10000.0,Rs./Quintal,False,2021,3,March,2021-03,9.210440366976517
+2016-02-01,Lentil,52,2,West Bengal,36,Gajol APMC,2902,Masur Dal,FAQ,9800.0,10200.0,10000.0,Rs./Quintal,False,2016,2,February,2016-02,9.210440366976517
+2016-02-01,Lentil,52,2,West Bengal,36,English Bazar APMC,337,Other,FAQ,9650.0,10650.0,10000.0,Rs./Quintal,False,2016,2,February,2016-02,9.210440366976517
+2016-02-01,Lentil,52,2,West Bengal,36,Durgapur APMC,2899,Other,FAQ,9400.0,10500.0,10000.0,Rs./Quintal,False,2016,2,February,2016-02,9.210440366976517
+2016-02-01,Lentil,52,2,West Bengal,36,Asansol APMC,3117,Masur Dal,FAQ,9500.0,10500.0,10000.0,Rs./Quintal,False,2016,2,February,2016-02,9.210440366976517
+2025-03-08,Banana,19,5,Tamil Nadu,31,Singanallur(Uzhavar Sandhai ),4058,Besrai,Local,3000.0,10000.0,10000.0,Rs./Quintal,False,2025,3,March,2025-03,9.210440366976517
+2016-01-01,Lentil,52,2,West Bengal,36,English Bazar APMC,337,Other,FAQ,9650.0,10650.0,10000.0,Rs./Quintal,False,2016,1,January,2016-01,9.210440366976517
+2016-01-01,Lentil,52,2,West Bengal,36,Durgapur APMC,2899,Other,FAQ,9400.0,10500.0,10000.0,Rs./Quintal,False,2016,1,January,2016-01,9.210440366976517
+2016-01-01,Lentil,52,2,West Bengal,36,Asansol APMC,3117,Masur Dal,FAQ,9500.0,10500.0,10000.0,Rs./Quintal,False,2016,1,January,2016-01,9.210440366976517
+2023-07-01,Groundnut,10,3,Tamil Nadu,31,Vellore APMC,1469,Other,FAQ,9770.0,10422.0,10000.0,Rs./Quintal,False,2023,7,July,2023-07,9.210440366976517
+2023-07-01,Groundnut,10,3,Karnataka,16,Tarikere APMC,503,Other,FAQ,10000.0,10000.0,10000.0,Rs./Quintal,False,2023,7,July,2023-07,9.210440366976517
+2023-06-08,Groundnut,10,3,Tamil Nadu,31,Vellore APMC,1469,Other,FAQ,7086.0,11207.0,10000.0,Rs./Quintal,False,2023,6,June,2023-06,9.210440366976517
+2025-02-08,Banana,19,5,Tamil Nadu,31,Coonoor(Uzhavar Sandhai ),4118,Besrai,Local,4500.0,10000.0,10000.0,Rs./Quintal,False,2025,2,February,2025-02,9.210440366976517
+2024-12-08,Banana,19,5,Tamil Nadu,31,Melapalayam(Uzhavar Sandhai ),4162,Besrai,Local,8000.0,10000.0,10000.0,Rs./Quintal,False,2024,12,December,2024-12,9.210440366976517
+2024-11-08,Banana,19,5,Tamil Nadu,31,Palayamkottai(Uzhavar Sandhai ),4160,Besrai,Local,6000.0,10000.0,10000.0,Rs./Quintal,False,2024,11,November,2024-11,9.210440366976517
+2024-11-08,Banana,19,5,Tamil Nadu,31,Melapalayam(Uzhavar Sandhai ),4162,Besrai,Local,8000.0,10000.0,10000.0,Rs./Quintal,False,2024,11,November,2024-11,9.210440366976517
+2024-11-01,Banana,19,5,Tamil Nadu,31,Melapalayam(Uzhavar Sandhai ),4162,Besrai,Local,8000.0,10000.0,10000.0,Rs./Quintal,False,2024,11,November,2024-11,9.210440366976517
+2024-10-08,Banana,19,5,Tamil Nadu,31,Ranipettai(Uzhavar Sandhai ),4225,Besrai,Local,6000.0,10000.0,10000.0,Rs./Quintal,False,2024,10,October,2024-10,9.210440366976517
+2024-10-01,Banana,19,5,Tamil Nadu,31,Ranipettai(Uzhavar Sandhai ),4225,Besrai,Local,6000.0,10000.0,10000.0,Rs./Quintal,False,2024,10,October,2024-10,9.210440366976517
+2025-03-01,Banana,19,5,Tamil Nadu,31,Hasthampatti(Uzhavar Sandhai ),4138,Besrai,Local,5000.0,10000.0,10000.0,Rs./Quintal,False,2025,3,March,2025-03,9.210440366976517
+2025-03-01,Banana,19,5,Tamil Nadu,31,Coonoor(Uzhavar Sandhai ),4118,Besrai,Local,4500.0,10000.0,10000.0,Rs./Quintal,False,2025,3,March,2025-03,9.210440366976517
+2025-03-01,Banana,19,5,Tamil Nadu,31,Ammapet(Uzhavar Sandhai ),4133,Besrai,Local,5000.0,10000.0,10000.0,Rs./Quintal,False,2025,3,March,2025-03,9.210440366976517
+2025-02-08,Banana,19,5,Tamil Nadu,31,Vadavalli(Uzhavar Sandhai ),4063,Besrai,Local,4000.0,10000.0,10000.0,Rs./Quintal,False,2025,2,February,2025-02,9.210440366976517
+2025-02-08,Banana,19,5,Tamil Nadu,31,Sulur(Uzhavar Sandhai ),4062,Besrai,Local,8500.0,10000.0,10000.0,Rs./Quintal,False,2025,2,February,2025-02,9.210440366976517
+2025-02-08,Banana,19,5,Tamil Nadu,31,Singanallur(Uzhavar Sandhai ),4058,Besrai,Local,3500.0,10000.0,10000.0,Rs./Quintal,False,2025,2,February,2025-02,9.210440366976517
+2025-02-08,Banana,19,5,Tamil Nadu,31,RSPuram(Uzhavar Sandhai ),4057,Besrai,Local,3500.0,10000.0,10000.0,Rs./Quintal,False,2025,2,February,2025-02,9.210440366976517
+2025-02-08,Banana,19,5,Tamil Nadu,31,Pudukottai(Uzhavar Sandhai ),4123,Besrai,Local,9000.0,10000.0,10000.0,Rs./Quintal,False,2025,2,February,2025-02,9.210440366976517
+2025-02-08,Banana,19,5,Tamil Nadu,31,Hasthampatti(Uzhavar Sandhai ),4138,Besrai,Local,5500.0,10000.0,10000.0,Rs./Quintal,False,2025,2,February,2025-02,9.210440366976517

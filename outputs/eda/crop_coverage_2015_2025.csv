@@ -1,0 +1,11 @@
+Crop,Observed_2015_2025_Months,Expected_2015_2025_Months,Missing_2015_2025_Months,Complete_2015_2025
+Banana,132,132,0,True
+Cotton,132,132,0,True
+Groundnut,132,132,0,True
+Jowar/Sorghum,132,132,0,True
+Lentil,22,132,110,False
+Maize,132,132,0,True
+Onion,132,132,0,True
+Potato,132,132,0,True
+Rice,132,132,0,True
+Wheat,132,132,0,True

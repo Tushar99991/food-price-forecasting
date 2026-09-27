@@ -1,0 +1,612 @@
+Date,Crop,State,Market,Variety,Grade,Minimum Price,Maximum Price,Modal Price,Unit,Price_Range_Anomaly
+2024-01-01,Wheat,Madhya Pradesh,Ashoknagar APMC,Lokwan,FAQ,2880.0,2880.0,2703.0,Rs./Quintal,True
+2024-01-01,Wheat,Madhya Pradesh,Berasia APMC,Local,FAQ,2396.0,2741.0,1800.0,Rs./Quintal,True
+2024-01-01,Wheat,Madhya Pradesh,Bina APMC,Local,FAQ,2801.0,2801.0,2300.0,Rs./Quintal,True
+2024-01-01,Wheat,Madhya Pradesh,Harda APMC,Lokwan,FAQ,2533.0,2533.0,2525.0,Rs./Quintal,True
+2024-01-01,Wheat,Madhya Pradesh,Indore APMC,Lokwan,FAQ,3000.0,3100.0,2460.0,Rs./Quintal,True
+2024-01-01,Wheat,Madhya Pradesh,Mandsaur APMC,Mill Quality,FAQ,2251.0,2321.0,2554.0,Rs./Quintal,True
+2024-01-01,Wheat,Madhya Pradesh,Mandsaur APMC,Lokwan,FAQ,2570.0,2761.0,2554.0,Rs./Quintal,True
+2024-01-01,Wheat,Madhya Pradesh,Narsinghgarh APMC,Lokwan,FAQ,2485.0,2730.0,2440.0,Rs./Quintal,True
+2024-01-01,Wheat,Madhya Pradesh,Ratlam APMC,Lokwan,FAQ,3078.0,3086.0,2500.0,Rs./Quintal,True
+2024-01-01,Wheat,Madhya Pradesh,Satna APMC,Lokwan,FAQ,2393.0,2408.0,2421.0,Rs./Quintal,True
+2024-01-01,Wheat,Madhya Pradesh,Sehore APMC,Lokwan,FAQ,2750.0,3100.0,2478.0,Rs./Quintal,True
+2024-01-01,Wheat,Madhya Pradesh,Sehore APMC,Sharbati,FAQ,3640.0,3640.0,2478.0,Rs./Quintal,True
+2024-01-08,Wheat,Madhya Pradesh,Alirajpur APMC,Local,FAQ,2500.0,2500.0,2125.0,Rs./Quintal,True
+2024-01-08,Wheat,Madhya Pradesh,Ashoknagar APMC,Other,FAQ,2514.0,2995.0,2400.0,Rs./Quintal,True
+2024-01-08,Wheat,Madhya Pradesh,Ashoknagar APMC,Sharbati,FAQ,3970.0,4495.0,2400.0,Rs./Quintal,True
+2024-01-08,Wheat,Madhya Pradesh,Bareli APMC,Mill Quality,FAQ,2483.0,2500.0,2475.0,Rs./Quintal,True
+2024-01-08,Wheat,Madhya Pradesh,Bina APMC,Local,FAQ,2962.0,3226.0,2581.0,Rs./Quintal,True
+2024-01-08,Wheat,Madhya Pradesh,Dhar APMC,Local,FAQ,2589.0,2589.0,3100.0,Rs./Quintal,True
+2024-01-08,Wheat,Madhya Pradesh,Jabalpur APMC,Lokwan,FAQ,2485.0,2509.0,2471.0,Rs./Quintal,True
+2024-01-08,Wheat,Madhya Pradesh,Kumbhraj APMC,Mill Quality,FAQ,2720.0,2770.0,1900.0,Rs./Quintal,True
+2024-01-08,Wheat,Madhya Pradesh,Mow APMC,Other,FAQ,2450.0,2500.0,2350.0,Rs./Quintal,True
+2024-01-08,Wheat,Madhya Pradesh,Niwadi APMC,Mill Quality,FAQ,2430.0,2484.0,2410.0,Rs./Quintal,True
+2024-01-08,Wheat,Madhya Pradesh,Obedullaganj APMC,Local,FAQ,2400.0,2668.0,2305.0,Rs./Quintal,True
+2024-01-08,Wheat,Madhya Pradesh,Obedullaganj APMC,Mill Quality,FAQ,2400.0,2401.0,2305.0,Rs./Quintal,True
+2024-01-08,Wheat,Madhya Pradesh,Pachaur APMC,Mill Quality,FAQ,2585.0,2590.0,2530.0,Rs./Quintal,True
+2024-01-08,Wheat,Madhya Pradesh,Ratlam APMC,Lokwan,FAQ,3145.0,3260.0,2775.0,Rs./Quintal,True
+2024-01-08,Wheat,Madhya Pradesh,Satna APMC,Mill Quality,FAQ,2499.0,2505.0,2520.0,Rs./Quintal,True
+2024-01-08,Wheat,Madhya Pradesh,Sehore APMC,Sharbati,FAQ,3500.0,3500.0,2600.0,Rs./Quintal,True
+2024-01-08,Wheat,Madhya Pradesh,Vidisha APMC,Sharbati,FAQ,3037.0,3037.0,2850.0,Rs./Quintal,True
+2024-02-01,Wheat,Madhya Pradesh,Ashoknagar APMC,Sharbati,FAQ,2800.0,4400.0,2360.0,Rs./Quintal,True
+2024-02-01,Wheat,Madhya Pradesh,Ashta APMC,Lokwan,FAQ,2845.0,4700.0,2400.0,Rs./Quintal,True
+2024-02-01,Wheat,Madhya Pradesh,Berasia APMC,Local,FAQ,2338.0,2590.0,2300.0,Rs./Quintal,True
+2024-02-01,Wheat,Madhya Pradesh,Bhopal APMC,Lokwan,FAQ,2750.0,2750.0,1900.0,Rs./Quintal,True
+2024-02-01,Wheat,Madhya Pradesh,Dabra APMC,Local,FAQ,2610.0,2620.0,2584.0,Rs./Quintal,True
+2024-02-01,Wheat,Madhya Pradesh,Ganjbasoda APMC,Mill Quality,FAQ,2325.0,2471.0,2500.0,Rs./Quintal,True
+2024-02-01,Wheat,Madhya Pradesh,Ganjbasoda APMC,Sharbati,FAQ,3285.0,4250.0,2500.0,Rs./Quintal,True
+2024-02-01,Wheat,Madhya Pradesh,Indore APMC,Local,FAQ,3375.0,3375.0,2581.0,Rs./Quintal,True
+2024-02-01,Wheat,Madhya Pradesh,Jabalpur APMC,Lokwan,FAQ,2620.0,2620.0,2480.0,Rs./Quintal,True
+2024-02-01,Wheat,Madhya Pradesh,Khandwa APMC,Mill Quality,FAQ,2701.0,2948.0,2401.0,Rs./Quintal,True
+2024-02-01,Wheat,Madhya Pradesh,Khargone APMC,Mill Quality,FAQ,2565.0,2580.0,2550.0,Rs./Quintal,True
+2024-02-01,Wheat,Madhya Pradesh,Khurai APMC,Sharbati,FAQ,3150.0,3160.0,2361.0,Rs./Quintal,True
+2024-02-01,Wheat,Madhya Pradesh,Mandsaur APMC,Mill Quality,FAQ,1500.0,2463.0,2500.0,Rs./Quintal,True
+2024-02-01,Wheat,Madhya Pradesh,Pachaur APMC,Mill Quality,FAQ,2400.0,2472.0,2510.0,Rs./Quintal,True
+2024-02-01,Wheat,Madhya Pradesh,Pipariya APMC,Lokwan,FAQ,2760.0,2760.0,2300.0,Rs./Quintal,True
+2024-02-01,Wheat,Madhya Pradesh,Ratlam APMC,Lokwan,FAQ,3151.0,3265.0,2392.0,Rs./Quintal,True
+2024-02-01,Wheat,Madhya Pradesh,Satna APMC,Mill Quality,FAQ,1750.0,1750.0,2000.0,Rs./Quintal,True
+2024-02-01,Wheat,Madhya Pradesh,Sehore APMC,Lokwan,FAQ,2450.0,3050.0,2445.0,Rs./Quintal,True
+2024-02-01,Wheat,Madhya Pradesh,Sehore APMC,Sharbati,FAQ,3651.0,4400.0,2445.0,Rs./Quintal,True
+2024-02-01,Wheat,Madhya Pradesh,Sironj APMC,Sharbati,FAQ,2515.0,4105.0,2315.0,Rs./Quintal,True
+2024-02-01,Wheat,Madhya Pradesh,Tikamgarh APMC,Mill Quality,FAQ,2440.0,2440.0,2400.0,Rs./Quintal,True
+2024-02-08,Wheat,Madhya Pradesh,Ashoknagar APMC,Sharbati,FAQ,3100.0,4011.0,2400.0,Rs./Quintal,True
+2024-02-08,Wheat,Madhya Pradesh,Ashta APMC,Mill Quality,FAQ,2645.0,2645.0,2601.0,Rs./Quintal,True
+2024-02-08,Wheat,Madhya Pradesh,Berasia APMC,Lokwan,FAQ,2307.0,2513.0,2300.0,Rs./Quintal,True
+2024-02-08,Wheat,Madhya Pradesh,Betul APMC,Mill Quality,FAQ,2490.0,2515.0,2470.0,Rs./Quintal,True
+2024-02-08,Wheat,Madhya Pradesh,Bhander APMC,Other,FAQ,2380.0,2380.0,2377.0,Rs./Quintal,True
+2024-02-08,Wheat,Madhya Pradesh,Bhikangaon APMC,Mill Quality,FAQ,2525.0,2550.0,2401.0,Rs./Quintal,True
+2024-02-08,Wheat,Madhya Pradesh,Bhopal APMC,Lokwan,FAQ,2407.0,2407.0,2330.0,Rs./Quintal,True
+2024-02-08,Wheat,Madhya Pradesh,Bhopal APMC,Mill Quality,FAQ,2409.0,2691.0,2330.0,Rs./Quintal,True
+2024-02-08,Wheat,Madhya Pradesh,Bina APMC,Local,FAQ,2456.0,3161.0,2313.0,Rs./Quintal,True
+2024-02-08,Wheat,Madhya Pradesh,Ganjbasoda APMC,Local,FAQ,2515.0,2515.0,2460.0,Rs./Quintal,True
+2024-02-08,Wheat,Madhya Pradesh,Ganjbasoda APMC,Sharbati,FAQ,2993.0,3970.0,2460.0,Rs./Quintal,True
+2024-02-08,Wheat,Madhya Pradesh,Harsood APMC,Mill Quality,FAQ,1701.0,2498.0,1500.0,Rs./Quintal,True
+2024-02-08,Wheat,Madhya Pradesh,Indore APMC,Mill Quality,FAQ,2590.0,2851.0,2200.0,Rs./Quintal,True
+2024-02-08,Wheat,Madhya Pradesh,Indore APMC,Lokwan,FAQ,2223.0,3256.0,2200.0,Rs./Quintal,True
+2024-02-08,Wheat,Madhya Pradesh,Khargone APMC,Mill Quality,FAQ,2590.0,2590.0,2552.0,Rs./Quintal,True
+2024-02-08,Wheat,Madhya Pradesh,Khategaon APMC,Mill Quality,FAQ,2557.0,2557.0,2500.0,Rs./Quintal,True
+2024-02-08,Wheat,Madhya Pradesh,Khurai APMC,Sharbati,FAQ,2700.0,3801.0,2535.0,Rs./Quintal,True
+2024-02-08,Wheat,Madhya Pradesh,Mandsaur APMC,Mill Quality,FAQ,2041.0,2417.0,2520.0,Rs./Quintal,True
+2024-02-08,Wheat,Madhya Pradesh,Obedullaganj APMC,Local,FAQ,2400.0,2561.0,2200.0,Rs./Quintal,True
+2024-02-08,Wheat,Madhya Pradesh,Paatan APMC,Local,FAQ,2600.0,2640.0,2375.0,Rs./Quintal,True
+2024-02-08,Wheat,Madhya Pradesh,Rajnagar APMC,Mill Quality,FAQ,2310.0,2345.0,2300.0,Rs./Quintal,True
+2024-02-08,Wheat,Madhya Pradesh,Ratlam APMC,Lokwan,FAQ,3110.0,3491.0,2590.0,Rs./Quintal,True
+2024-02-08,Wheat,Madhya Pradesh,Sehore APMC,Other,FAQ,2926.0,2926.0,2390.0,Rs./Quintal,True
+2024-02-08,Wheat,Madhya Pradesh,Sehore APMC,Sharbati,FAQ,4200.0,4200.0,2390.0,Rs./Quintal,True
+2024-02-08,Wheat,Madhya Pradesh,Sehore APMC,Local,FAQ,2782.0,2782.0,2390.0,Rs./Quintal,True
+2024-02-08,Wheat,Madhya Pradesh,Sehore APMC,Lokwan,FAQ,2407.0,3011.0,2390.0,Rs./Quintal,True
+2024-02-08,Wheat,Madhya Pradesh,Tikamgarh APMC,Mill Quality,FAQ,2355.0,2380.0,2400.0,Rs./Quintal,True
+2024-02-08,Wheat,Madhya Pradesh,Timarni APMC,Mill Quality,FAQ,2400.0,2400.0,2475.0,Rs./Quintal,True
+2024-02-08,Wheat,Madhya Pradesh,Umariya APMC,Local,FAQ,2330.0,2330.0,2100.0,Rs./Quintal,True
+2024-02-08,Wheat,Madhya Pradesh,Vidisha APMC,Mill Quality,FAQ,2370.0,2390.0,2700.0,Rs./Quintal,True
+2024-02-08,Wheat,Madhya Pradesh,Vidisha APMC,Sharbati,FAQ,3630.0,3630.0,2700.0,Rs./Quintal,True
+2024-03-01,Wheat,Madhya Pradesh,Ashta APMC,Other,FAQ,2000.0,2340.0,2400.0,Rs./Quintal,True
+2024-03-01,Wheat,Madhya Pradesh,Badnagar APMC,Mill Quality,FAQ,2201.0,2371.0,2400.0,Rs./Quintal,True
+2024-03-01,Wheat,Madhya Pradesh,Badnawar APMC,Mill Quality,FAQ,2315.0,2530.0,2300.0,Rs./Quintal,True
+2024-03-01,Wheat,Madhya Pradesh,Bareli APMC,Mill Quality,FAQ,2176.0,2361.0,2400.0,Rs./Quintal,True
+2024-03-01,Wheat,Madhya Pradesh,Bhikangaon APMC,Lokwan,FAQ,2400.0,2426.0,2500.0,Rs./Quintal,True
+2024-03-01,Wheat,Madhya Pradesh,Bhopal APMC,Mill Quality,FAQ,2326.0,2326.0,2526.0,Rs./Quintal,True
+2024-03-01,Wheat,Madhya Pradesh,Bhopal APMC,Lokwan,FAQ,2220.0,2220.0,2526.0,Rs./Quintal,True
+2024-03-01,Wheat,Madhya Pradesh,Bina APMC,Mill Quality,FAQ,2151.0,2205.0,2526.0,Rs./Quintal,True
+2024-03-01,Wheat,Madhya Pradesh,Dewas APMC,Mill Quality,FAQ,2216.0,2216.0,2400.0,Rs./Quintal,True
+2024-03-01,Wheat,Madhya Pradesh,Dhamnod APMC,Mill Quality,FAQ,2305.0,2366.0,2576.0,Rs./Quintal,True
+2024-03-01,Wheat,Madhya Pradesh,Ganjbasoda APMC,Mill Quality,FAQ,2000.0,2381.0,2711.0,Rs./Quintal,True
+2024-03-01,Wheat,Madhya Pradesh,Gautampura APMC,Lokwan,FAQ,2388.0,2650.0,2200.0,Rs./Quintal,True
+2024-03-01,Wheat,Madhya Pradesh,Harda APMC,Local,FAQ,2160.0,2160.0,2420.0,Rs./Quintal,True
+2024-03-01,Wheat,Madhya Pradesh,Ichhawar APMC,Lokwan,FAQ,2350.0,2770.0,2250.0,Rs./Quintal,True
+2024-03-01,Wheat,Madhya Pradesh,Jaora APMC,Mill Quality,FAQ,2361.0,2361.0,2350.0,Rs./Quintal,True
+2024-03-01,Wheat,Madhya Pradesh,Jeerapur APMC,Mill Quality,FAQ,2150.0,2311.0,2315.0,Rs./Quintal,True
+2024-03-01,Wheat,Madhya Pradesh,Kasrawad APMC,Local,FAQ,2350.0,2350.0,2400.0,Rs./Quintal,True
+2024-03-01,Wheat,Madhya Pradesh,Khargone APMC,Mill Quality,FAQ,2500.0,2590.0,2400.0,Rs./Quintal,True
+2024-03-01,Wheat,Madhya Pradesh,Khirkiya APMC,Local,FAQ,2269.0,2269.0,2300.0,Rs./Quintal,True
+2024-03-01,Wheat,Madhya Pradesh,Kukshi APMC,Lokwan,FAQ,2395.0,2450.0,2575.0,Rs./Quintal,True
+2024-03-01,Wheat,Madhya Pradesh,Maksudangarh APMC,Local,FAQ,2160.0,2401.0,2406.0,Rs./Quintal,True
+2024-03-01,Wheat,Madhya Pradesh,Nagda APMC,Mill Quality,FAQ,2338.0,2345.0,2250.0,Rs./Quintal,True
+2024-03-01,Wheat,Madhya Pradesh,Nagod APMC,Mill Quality,FAQ,2335.0,2375.0,2385.0,Rs./Quintal,True
+2024-03-01,Wheat,Madhya Pradesh,Narsinghgarh APMC,Lokwan,FAQ,2400.0,2400.0,2350.0,Rs./Quintal,True
+2024-03-01,Wheat,Madhya Pradesh,Pandhana APMC,Mill Quality,FAQ,2103.0,2251.0,2312.0,Rs./Quintal,True
+2024-03-01,Wheat,Madhya Pradesh,Pandhana APMC,Local,FAQ,2125.0,2288.0,2312.0,Rs./Quintal,True
+2024-03-01,Wheat,Madhya Pradesh,Rewa APMC,Local,FAQ,2350.0,2350.0,2390.0,Rs./Quintal,True
+2024-03-01,Wheat,Madhya Pradesh,Sarangpur APMC,Mill Quality,FAQ,2250.0,2360.0,2245.0,Rs./Quintal,True
+2024-03-01,Wheat,Madhya Pradesh,Satna APMC,Mill Quality,FAQ,2200.0,2220.0,2430.0,Rs./Quintal,True
+2024-03-01,Wheat,Madhya Pradesh,Sehore APMC,Lokwan,FAQ,2240.0,2650.0,2200.0,Rs./Quintal,True
+2024-03-01,Wheat,Madhya Pradesh,Sehore APMC,Sharbati,FAQ,3401.0,3870.0,2200.0,Rs./Quintal,True
+2024-03-01,Wheat,Madhya Pradesh,Sehore APMC,Other,FAQ,2340.0,2360.0,2200.0,Rs./Quintal,True
+2024-03-01,Wheat,Madhya Pradesh,Taal APMC,Mill Quality,FAQ,2168.0,2168.0,2300.0,Rs./Quintal,True
+2024-03-01,Wheat,Madhya Pradesh,Tikamgarh APMC,Mill Quality,FAQ,2489.0,2489.0,2450.0,Rs./Quintal,True
+2024-03-01,Wheat,Madhya Pradesh,Timarni APMC,Mill Quality,FAQ,2215.0,2215.0,2361.0,Rs./Quintal,True
+2024-03-01,Wheat,Madhya Pradesh,Vidisha APMC,Mill Quality,FAQ,2290.0,2800.0,2801.0,Rs./Quintal,True
+2024-03-08,Wheat,Madhya Pradesh,Badwaha APMC,Mill Quality,FAQ,2100.0,2110.0,2360.0,Rs./Quintal,True
+2024-03-08,Wheat,Madhya Pradesh,Bhikangaon APMC,Mill Quality,FAQ,2275.0,2500.0,2630.0,Rs./Quintal,True
+2024-03-08,Wheat,Madhya Pradesh,Dhar APMC,Wheat-Organic,FAQ,2405.0,2405.0,2500.0,Rs./Quintal,True
+2024-03-08,Wheat,Madhya Pradesh,Dhar APMC,Local,FAQ,2300.0,2300.0,2500.0,Rs./Quintal,True
+2024-03-08,Wheat,Madhya Pradesh,Ganjbasoda APMC,Mill Quality,FAQ,2400.0,2400.0,2200.0,Rs./Quintal,True
+2024-03-08,Wheat,Madhya Pradesh,Gautampura APMC,Lokwan,FAQ,2510.0,2580.0,2200.0,Rs./Quintal,True
+2024-03-08,Wheat,Madhya Pradesh,Khargone APMC,Lokwan,FAQ,2450.0,2500.0,2400.0,Rs./Quintal,True
+2024-03-08,Wheat,Madhya Pradesh,Ratlam APMC,Lokwan,FAQ,2825.0,2990.0,3755.0,Rs./Quintal,True
+2024-03-08,Wheat,Madhya Pradesh,Sailana APMC,Lokwan,FAQ,2150.0,2300.0,2400.0,Rs./Quintal,True
+2024-03-08,Wheat,Madhya Pradesh,Satna APMC,Mill Quality,FAQ,2300.0,2340.0,2355.0,Rs./Quintal,True
+2024-03-08,Wheat,Madhya Pradesh,Umariya APMC,Mill Quality,FAQ,2100.0,2100.0,2250.0,Rs./Quintal,True
+2024-04-01,Wheat,Madhya Pradesh,Badnagar APMC,Local,FAQ,2150.0,2401.0,2500.0,Rs./Quintal,True
+2024-04-01,Wheat,Madhya Pradesh,Badnagar APMC,Mill Quality,FAQ,2100.0,2410.0,2500.0,Rs./Quintal,True
+2024-04-01,Wheat,Madhya Pradesh,Baikunthpur APMC,Mill Quality,FAQ,2175.0,2210.0,2215.0,Rs./Quintal,True
+2024-04-01,Wheat,Madhya Pradesh,Begamganj APMC,Sharbati,FAQ,2500.0,2600.0,2250.0,Rs./Quintal,True
+2024-04-01,Wheat,Madhya Pradesh,Betul APMC,Other,FAQ,2400.0,2400.0,2300.0,Rs./Quintal,True
+2024-04-01,Wheat,Madhya Pradesh,Betul APMC,Mill Quality,FAQ,2400.0,2400.0,2320.0,Rs./Quintal,True
+2024-04-01,Wheat,Madhya Pradesh,Bhikangaon APMC,Local,FAQ,2000.0,2100.0,2450.0,Rs./Quintal,True
+2024-04-01,Wheat,Madhya Pradesh,Bhitarwar APMC,Mill Quality,FAQ,2330.0,2355.0,2360.0,Rs./Quintal,True
+2024-04-01,Wheat,Madhya Pradesh,Bhopal APMC,Mill Quality,FAQ,2100.0,2100.0,2350.0,Rs./Quintal,True
+2024-04-01,Wheat,Madhya Pradesh,Biaora APMC,Mill Quality,FAQ,2350.0,2390.0,2505.0,Rs./Quintal,True
+2024-04-01,Wheat,Madhya Pradesh,Bijawar APMC,Lokwan,FAQ,2224.0,2224.0,2200.0,Rs./Quintal,True
+2024-04-01,Wheat,Madhya Pradesh,Bina APMC,Local,FAQ,2325.0,2410.0,2300.0,Rs./Quintal,True
+2024-04-01,Wheat,Madhya Pradesh,Chhatarpur APMC,Mill Quality,FAQ,2240.0,2315.0,2225.0,Rs./Quintal,True
+2024-04-01,Wheat,Madhya Pradesh,Dabra APMC,Other,FAQ,2280.0,2280.0,2450.0,Rs./Quintal,True
+2024-04-01,Wheat,Madhya Pradesh,Datia APMC,Other,FAQ,2303.0,2416.0,2300.0,Rs./Quintal,True
+2024-04-01,Wheat,Madhya Pradesh,Datia APMC,Lokwan,FAQ,2344.0,2422.0,2300.0,Rs./Quintal,True
+2024-04-01,Wheat,Madhya Pradesh,Dewas APMC,Lokwan,FAQ,2146.0,2146.0,2650.0,Rs./Quintal,True
+2024-04-01,Wheat,Madhya Pradesh,Dewas APMC,Mill Quality,FAQ,2509.0,2534.0,2650.0,Rs./Quintal,True
+2024-04-01,Wheat,Madhya Pradesh,Gadarwada APMC,Mill Quality,FAQ,2140.0,2170.0,2000.0,Rs./Quintal,True
+2024-04-01,Wheat,Madhya Pradesh,Gairatganj APMC,Lokwan,FAQ,2400.0,2400.0,2250.0,Rs./Quintal,True
+2024-04-01,Wheat,Madhya Pradesh,Harsood APMC,Mill Quality,FAQ,2150.0,2150.0,2200.0,Rs./Quintal,True
+2024-04-01,Wheat,Madhya Pradesh,Indore APMC,Lokwan,FAQ,2270.0,2270.0,2430.0,Rs./Quintal,True
+2024-04-01,Wheat,Madhya Pradesh,Jabalpur APMC,Local,FAQ,2100.0,2100.0,2180.0,Rs./Quintal,True
+2024-04-01,Wheat,Madhya Pradesh,Jaisinagar APMC,Mill Quality,FAQ,2150.0,2230.0,2380.0,Rs./Quintal,True
+2024-04-01,Wheat,Madhya Pradesh,Jaora APMC,Local,FAQ,2280.0,2315.0,2433.0,Rs./Quintal,True
+2024-04-01,Wheat,Madhya Pradesh,Karera APMC,Lokwan,FAQ,2300.0,2360.0,2200.0,Rs./Quintal,True
+2024-04-01,Wheat,Madhya Pradesh,Karera APMC,Local,FAQ,2260.0,2370.0,2200.0,Rs./Quintal,True
+2024-04-01,Wheat,Madhya Pradesh,Karhi APMC,Mill Quality,FAQ,2280.0,2280.0,2235.0,Rs./Quintal,True
+2024-04-01,Wheat,Madhya Pradesh,Katni APMC,Mill Quality,FAQ,2130.0,2260.0,2280.0,Rs./Quintal,True
+2024-04-01,Wheat,Madhya Pradesh,Khargone APMC,Mill Quality,FAQ,2300.0,2300.0,2400.0,Rs./Quintal,True
+2024-04-01,Wheat,Madhya Pradesh,Khirkiya APMC,Local,FAQ,2300.0,2300.0,2385.0,Rs./Quintal,True
+2024-04-01,Wheat,Madhya Pradesh,Kukshi APMC,Lokwan,FAQ,2450.0,2450.0,2495.0,Rs./Quintal,True
+2024-04-01,Wheat,Madhya Pradesh,Lakhnadon APMC,Mill Quality,FAQ,1970.0,2001.0,2135.0,Rs./Quintal,True
+2024-04-01,Wheat,Madhya Pradesh,Mandsaur APMC,Mill Quality,FAQ,2421.0,2436.0,2541.0,Rs./Quintal,True
+2024-04-01,Wheat,Madhya Pradesh,Narmadapuram APMC,Local,FAQ,2290.0,2290.0,2285.0,Rs./Quintal,True
+2024-04-01,Wheat,Madhya Pradesh,Narsinghgarh APMC,Local,FAQ,2200.0,2200.0,2400.0,Rs./Quintal,True
+2024-04-01,Wheat,Madhya Pradesh,Naugaon APMC,Mill Quality,FAQ,2290.0,2320.0,2275.0,Rs./Quintal,True
+2024-04-01,Wheat,Madhya Pradesh,Pandhana APMC,Lokwan,FAQ,2135.0,2230.0,2290.0,Rs./Quintal,True
+2024-04-01,Wheat,Madhya Pradesh,Petlawad APMC,Other,FAQ,2430.0,2465.0,2400.0,Rs./Quintal,True
+2024-04-01,Wheat,Madhya Pradesh,Pichhour APMC,Mill Quality,FAQ,2230.0,2290.0,2185.0,Rs./Quintal,True
+2024-04-01,Wheat,Madhya Pradesh,Raisen APMC,PISSI,FAQ,2230.0,2260.0,2500.0,Rs./Quintal,True
+2024-04-01,Wheat,Madhya Pradesh,Raisen APMC,Local,FAQ,2490.0,2490.0,2500.0,Rs./Quintal,True
+2024-04-01,Wheat,Madhya Pradesh,Ratlam APMC,Lokwan,FAQ,2476.0,2476.0,2504.0,Rs./Quintal,True
+2024-04-01,Wheat,Madhya Pradesh,Rehati APMC,Mill Quality,FAQ,2181.0,2278.0,2291.0,Rs./Quintal,True
+2024-04-01,Wheat,Madhya Pradesh,Rewa APMC,Local,FAQ,2150.0,2190.0,2260.0,Rs./Quintal,True
+2024-04-01,Wheat,Madhya Pradesh,Sagar APMC,Mill Quality,FAQ,2350.0,2389.0,2200.0,Rs./Quintal,True
+2024-04-01,Wheat,Madhya Pradesh,Sailana APMC,Lokwan,FAQ,2610.0,2900.0,2600.0,Rs./Quintal,True
+2024-04-01,Wheat,Madhya Pradesh,Seoni APMC,Lokwan,FAQ,2275.0,2281.0,2335.0,Rs./Quintal,True
+2024-04-01,Wheat,Madhya Pradesh,Seoni APMC,Mill Quality,FAQ,2200.0,2310.0,2335.0,Rs./Quintal,True
+2024-04-01,Wheat,Madhya Pradesh,Sheopurkalan APMC,Mill Quality,FAQ,2205.0,2205.0,2245.0,Rs./Quintal,True
+2024-04-01,Wheat,Madhya Pradesh,Sheopurkalan APMC,Wheat-Organic,FAQ,2285.0,2285.0,2245.0,Rs./Quintal,True
+2024-04-01,Wheat,Madhya Pradesh,Silvani APMC,Local,FAQ,2180.0,2225.0,2250.0,Rs./Quintal,True
+2024-04-01,Wheat,Madhya Pradesh,Taal APMC,Local,FAQ,2351.0,2351.0,2300.0,Rs./Quintal,True
+2024-04-01,Wheat,Madhya Pradesh,Tendukheda APMC,Lokwan,FAQ,2000.0,2000.0,2180.0,Rs./Quintal,True
+2024-04-01,Wheat,Madhya Pradesh,Tikamgarh APMC,Lokwan,FAQ,2325.0,2325.0,2310.0,Rs./Quintal,True
+2024-04-01,Wheat,Madhya Pradesh,Ujjain APMC,Local,FAQ,2280.0,2280.0,2550.0,Rs./Quintal,True
+2024-04-08,Wheat,Madhya Pradesh,A lot APMC,Mill Quality,FAQ,2305.0,2350.0,2360.0,Rs./Quintal,True
+2024-04-08,Wheat,Madhya Pradesh,Amarpatan APMC,Local,FAQ,2100.0,2100.0,2160.0,Rs./Quintal,True
+2024-04-08,Wheat,Madhya Pradesh,Badarwas APMC,Sharbati,FAQ,2365.0,2510.0,2565.0,Rs./Quintal,True
+2024-04-08,Wheat,Madhya Pradesh,Badnagar APMC,Local,FAQ,2050.0,2425.0,2435.0,Rs./Quintal,True
+2024-04-08,Wheat,Madhya Pradesh,Baikunthpur APMC,Local,FAQ,2200.0,2200.0,2215.0,Rs./Quintal,True
+2024-04-08,Wheat,Madhya Pradesh,Banmorkalan APMC,Local,FAQ,2100.0,2125.0,2400.0,Rs./Quintal,True
+2024-04-08,Wheat,Madhya Pradesh,Begamganj APMC,Sharbati,FAQ,2355.0,2370.0,2350.0,Rs./Quintal,True
+2024-04-08,Wheat,Madhya Pradesh,Berasia APMC,PISSI,FAQ,2128.0,2282.0,2400.0,Rs./Quintal,True
+2024-04-08,Wheat,Madhya Pradesh,Bhikangaon APMC,Mill Quality,FAQ,2200.0,2350.0,2375.0,Rs./Quintal,True
+2024-04-08,Wheat,Madhya Pradesh,Bhopal APMC,Lokwan,FAQ,2200.0,2351.0,2400.0,Rs./Quintal,True
+2024-04-08,Wheat,Madhya Pradesh,Bijawar APMC,Mill Quality,FAQ,2200.0,2320.0,2000.0,Rs./Quintal,True
+2024-04-08,Wheat,Madhya Pradesh,Bina APMC,Local,FAQ,2300.0,2460.0,2501.0,Rs./Quintal,True
+2024-04-08,Wheat,Madhya Pradesh,Chhindwara APMC,Lokwan,FAQ,2009.0,2009.0,2306.0,Rs./Quintal,True
+2024-04-08,Wheat,Madhya Pradesh,Chhindwara APMC,Local,FAQ,2340.0,2340.0,2306.0,Rs./Quintal,True
+2024-04-08,Wheat,Madhya Pradesh,Daloda APMC,Other,FAQ,2520.0,2530.0,2400.0,Rs./Quintal,True
+2024-04-08,Wheat,Madhya Pradesh,Damoh APMC,Lokwan,FAQ,2200.0,2200.0,2210.0,Rs./Quintal,True
+2024-04-08,Wheat,Madhya Pradesh,Dewas APMC,Mill Quality,FAQ,2500.0,2511.0,2350.0,Rs./Quintal,True
+2024-04-08,Wheat,Madhya Pradesh,Gadakota APMC,Mill Quality,FAQ,2215.0,2215.0,2400.0,Rs./Quintal,True
+2024-04-08,Wheat,Madhya Pradesh,Gautampura APMC,Mill Quality,FAQ,2500.0,2560.0,2345.0,Rs./Quintal,True
+2024-04-08,Wheat,Madhya Pradesh,Gohad APMC,Local,FAQ,2215.0,2225.0,2265.0,Rs./Quintal,True
+2024-04-08,Wheat,Madhya Pradesh,Hata APMC,Local,FAQ,2100.0,2170.0,2180.0,Rs./Quintal,True
+2024-04-08,Wheat,Madhya Pradesh,Itarsi APMC,Mill Quality,FAQ,2299.0,2374.0,2410.0,Rs./Quintal,True
+2024-04-08,Wheat,Madhya Pradesh,Jawar APMC,Lokwan,FAQ,2250.0,2250.0,2200.0,Rs./Quintal,True
+2024-04-08,Wheat,Madhya Pradesh,Khaniadhana APMC,Local,FAQ,2125.0,2201.0,2215.0,Rs./Quintal,True
+2024-04-08,Wheat,Madhya Pradesh,Khategaon APMC,Lokwan,FAQ,2265.0,2318.0,2360.0,Rs./Quintal,True
+2024-04-08,Wheat,Madhya Pradesh,Khurai APMC,Lokwan,FAQ,2315.0,2315.0,2565.0,Rs./Quintal,True
+2024-04-08,Wheat,Madhya Pradesh,Kukshi APMC,Lokwan,FAQ,2300.0,2300.0,2855.0,Rs./Quintal,True
+2024-04-08,Wheat,Madhya Pradesh,Lakhnadon APMC,Mill Quality,FAQ,1970.0,1990.0,2160.0,Rs./Quintal,True
+2024-04-08,Wheat,Madhya Pradesh,Lashkar APMC,Mill Quality,FAQ,2155.0,2175.0,2235.0,Rs./Quintal,True
+2024-04-08,Wheat,Madhya Pradesh,Lateri APMC,Local,FAQ,2310.0,4020.0,2300.0,Rs./Quintal,True
+2024-04-08,Wheat,Madhya Pradesh,Malthone APMC,Local,FAQ,2250.0,2310.0,2200.0,Rs./Quintal,True
+2024-04-08,Wheat,Madhya Pradesh,Manasa APMC,Lokwan,FAQ,2421.0,2571.0,2300.0,Rs./Quintal,True
+2024-04-08,Wheat,Madhya Pradesh,Mandsaur APMC,Other,FAQ,2361.0,2752.0,2350.0,Rs./Quintal,True
+2024-04-08,Wheat,Madhya Pradesh,Narmadapuram APMC,Local,FAQ,2405.0,2405.0,2300.0,Rs./Quintal,True
+2024-04-08,Wheat,Madhya Pradesh,Neemuch APMC,Lokwan,FAQ,2525.0,2540.0,2700.0,Rs./Quintal,True
+2024-04-08,Wheat,Madhya Pradesh,Niwadi APMC,PISSI,FAQ,2224.0,2224.0,2240.0,Rs./Quintal,True
+2024-04-08,Wheat,Madhya Pradesh,Pandhana APMC,Lokwan,FAQ,2170.0,2209.0,2261.0,Rs./Quintal,True
+2024-04-08,Wheat,Madhya Pradesh,Patharia APMC,Mill Quality,FAQ,2271.0,2295.0,2261.0,Rs./Quintal,True
+2024-04-08,Wheat,Madhya Pradesh,Pipariya APMC,Lokwan,FAQ,2250.0,2250.0,2313.0,Rs./Quintal,True
+2024-04-08,Wheat,Madhya Pradesh,Piplya APMC,Wheat-Organic,FAQ,2680.0,2680.0,2440.0,Rs./Quintal,True
+2024-04-08,Wheat,Madhya Pradesh,Piplya APMC,Mill Quality,FAQ,2700.0,2700.0,2440.0,Rs./Quintal,True
+2024-04-08,Wheat,Madhya Pradesh,Raisen APMC,PISSI,FAQ,2000.0,2200.0,2400.0,Rs./Quintal,True
+2024-04-08,Wheat,Madhya Pradesh,Ratlam APMC,Other,FAQ,2300.0,2300.0,2700.0,Rs./Quintal,True
+2024-04-08,Wheat,Madhya Pradesh,Rewa APMC,Lokwan,FAQ,2170.0,2170.0,2275.0,Rs./Quintal,True
+2024-04-08,Wheat,Madhya Pradesh,Rewa APMC,Local,FAQ,2145.0,2210.0,2279.0,Rs./Quintal,True
+2024-04-08,Wheat,Madhya Pradesh,Sagar APMC,Lokwan,FAQ,2150.0,2205.0,2300.0,Rs./Quintal,True
+2024-04-08,Wheat,Madhya Pradesh,Sehore APMC,Mill Quality,FAQ,2373.0,2397.0,2850.0,Rs./Quintal,True
+2024-04-08,Wheat,Madhya Pradesh,Sevda APMC,Local,FAQ,2200.0,2285.0,2300.0,Rs./Quintal,True
+2024-04-08,Wheat,Madhya Pradesh,Shadora APMC,Mill Quality,FAQ,2355.0,2392.0,2458.0,Rs./Quintal,True
+2024-04-08,Wheat,Madhya Pradesh,Shadora APMC,Sharbati,FAQ,2556.0,3001.0,2458.0,Rs./Quintal,True
+2024-04-08,Wheat,Madhya Pradesh,Shamgarh APMC,Mill Quality,FAQ,2200.0,2450.0,2550.0,Rs./Quintal,True
+2024-04-08,Wheat,Madhya Pradesh,Shamgarh APMC,Local,FAQ,2250.0,2250.0,2550.0,Rs./Quintal,True
+2024-04-08,Wheat,Madhya Pradesh,Shamshabad APMC,Mill Quality,FAQ,2132.0,2310.0,2410.0,Rs./Quintal,True
+2024-04-08,Wheat,Madhya Pradesh,Shamshabad APMC,Lokwan,FAQ,2301.0,2305.0,2410.0,Rs./Quintal,True
+2024-04-08,Wheat,Madhya Pradesh,Sheopurbadod APMC,Mill Quality,FAQ,2251.0,2300.0,2340.0,Rs./Quintal,True
+2024-04-08,Wheat,Madhya Pradesh,Sheopurkalan APMC,Mill Quality,FAQ,2260.0,2260.0,2290.0,Rs./Quintal,True
+2024-04-08,Wheat,Madhya Pradesh,Taal APMC,Mill Quality,FAQ,2152.0,2400.0,2425.0,Rs./Quintal,True
+2024-04-08,Wheat,Madhya Pradesh,Tikamgarh APMC,Other,FAQ,2282.0,2282.0,2300.0,Rs./Quintal,True
+2024-04-08,Wheat,Madhya Pradesh,Timarni APMC,Local,FAQ,2200.0,2200.0,2280.0,Rs./Quintal,True
+2024-04-08,Wheat,Madhya Pradesh,Vidisha APMC,Sharbati,FAQ,2550.0,2550.0,2469.0,Rs./Quintal,True
+2024-05-01,Wheat,Madhya Pradesh,Alampur APMC,Mill Quality,FAQ,2313.0,2525.0,2270.0,Rs./Quintal,True
+2024-05-01,Wheat,Madhya Pradesh,Ashoknagar APMC,Lokwan,FAQ,2750.0,2795.0,2500.0,Rs./Quintal,True
+2024-05-01,Wheat,Madhya Pradesh,Ashoknagar APMC,Sharbati,FAQ,2575.0,4900.0,2500.0,Rs./Quintal,True
+2024-05-01,Wheat,Madhya Pradesh,Badnawar APMC,Lokwan,FAQ,2280.0,2385.0,2405.0,Rs./Quintal,True
+2024-05-01,Wheat,Madhya Pradesh,Badwaha APMC,Mill Quality,FAQ,2326.0,2415.0,2480.0,Rs./Quintal,True
+2024-05-01,Wheat,Madhya Pradesh,Banapura APMC,Mill Quality,FAQ,2374.0,2437.0,2300.0,Rs./Quintal,True
+2024-05-01,Wheat,Madhya Pradesh,Bareli APMC,Local,FAQ,2276.0,2300.0,2400.0,Rs./Quintal,True
+2024-05-01,Wheat,Madhya Pradesh,Betul APMC,Local,FAQ,2340.0,2340.0,2400.0,Rs./Quintal,True
+2024-05-01,Wheat,Madhya Pradesh,Bhopal APMC,Mill Quality,FAQ,2275.0,2399.0,2400.0,Rs./Quintal,True
+2024-05-01,Wheat,Madhya Pradesh,Bhopal APMC,Lokwan,FAQ,2182.0,2182.0,2400.0,Rs./Quintal,True
+2024-05-01,Wheat,Madhya Pradesh,Chaurai APMC,Local,FAQ,2275.0,2275.0,2300.0,Rs./Quintal,True
+2024-05-01,Wheat,Madhya Pradesh,Dabra APMC,Mill Quality,FAQ,2480.0,2480.0,2395.0,Rs./Quintal,True
+2024-05-01,Wheat,Madhya Pradesh,Datia APMC,Local,FAQ,2300.0,2360.0,2400.0,Rs./Quintal,True
+2024-05-01,Wheat,Madhya Pradesh,Deori APMC,Local,FAQ,2290.0,2325.0,2275.0,Rs./Quintal,True
+2024-05-01,Wheat,Madhya Pradesh,Devandranagar APMC,Local,FAQ,2305.0,2330.0,2275.0,Rs./Quintal,True
+2024-05-01,Wheat,Madhya Pradesh,Gandhwani APMC,Mill Quality,FAQ,2510.0,2525.0,2600.0,Rs./Quintal,True
+2024-05-01,Wheat,Madhya Pradesh,Gautampura APMC,Lokwan,FAQ,2500.0,2500.0,2400.0,Rs./Quintal,True
+2024-05-01,Wheat,Madhya Pradesh,Ghansour APMC,Local,FAQ,2100.0,2101.0,2275.0,Rs./Quintal,True
+2024-05-01,Wheat,Madhya Pradesh,Gotegaon APMC,Mill Quality,FAQ,2305.0,2310.0,2401.0,Rs./Quintal,True
+2024-05-01,Wheat,Madhya Pradesh,Indore APMC,Other,FAQ,2565.0,3039.0,2480.0,Rs./Quintal,True
+2024-05-01,Wheat,Madhya Pradesh,Indore(F&V) APMC,Lokwan,FAQ,2300.0,2300.0,2360.0,Rs./Quintal,True
+2024-05-01,Wheat,Madhya Pradesh,Indore(F&V) APMC,Mill Quality,FAQ,2145.0,2300.0,2360.0,Rs./Quintal,True
+2024-05-01,Wheat,Madhya Pradesh,Jhabua APMC,Local,FAQ,2256.0,2375.0,2400.0,Rs./Quintal,True
+2024-05-01,Wheat,Madhya Pradesh,Karera APMC,Local,FAQ,2330.0,2400.0,2250.0,Rs./Quintal,True
+2024-05-01,Wheat,Madhya Pradesh,Karera APMC,Other,FAQ,2150.0,2170.0,2250.0,Rs./Quintal,True
+2024-05-01,Wheat,Madhya Pradesh,Karhi APMC,Local,FAQ,2340.0,2365.0,2380.0,Rs./Quintal,True
+2024-05-01,Wheat,Madhya Pradesh,Khandwa APMC,Local,FAQ,2200.0,2500.0,2100.0,Rs./Quintal,True
+2024-05-01,Wheat,Madhya Pradesh,Khaniadhana APMC,Local,FAQ,2225.0,2255.0,2275.0,Rs./Quintal,True
+2024-05-01,Wheat,Madhya Pradesh,Kukshi APMC,Lokwan,FAQ,2350.0,2350.0,2400.0,Rs./Quintal,True
+2024-05-01,Wheat,Madhya Pradesh,Kukshi APMC,Mill Quality,FAQ,2630.0,2630.0,2400.0,Rs./Quintal,True
+2024-05-01,Wheat,Madhya Pradesh,Kumbhraj APMC,Local,FAQ,2340.0,2340.0,2775.0,Rs./Quintal,True
+2024-05-01,Wheat,Madhya Pradesh,Manasa APMC,Lokwan,FAQ,2645.0,2645.0,2660.0,Rs./Quintal,True
+2024-05-01,Wheat,Madhya Pradesh,Manasa APMC,Mill Quality,FAQ,2560.0,2630.0,2660.0,Rs./Quintal,True
+2024-05-01,Wheat,Madhya Pradesh,Mandsaur APMC,Other,FAQ,2401.0,2613.0,2400.0,Rs./Quintal,True
+2024-05-01,Wheat,Madhya Pradesh,Mohgaon APMC,Mill Quality,FAQ,2276.0,2276.0,2275.0,Rs./Quintal,True
+2024-05-01,Wheat,Madhya Pradesh,Nagda APMC,Lokwan,FAQ,2331.0,2842.0,2321.0,Rs./Quintal,True
+2024-05-01,Wheat,Madhya Pradesh,Narmadapuram APMC,Mill Quality,FAQ,2280.0,2321.0,2380.0,Rs./Quintal,True
+2024-05-01,Wheat,Madhya Pradesh,Neemuch APMC,Mill Quality,FAQ,2750.0,2750.0,2850.0,Rs./Quintal,True
+2024-05-01,Wheat,Madhya Pradesh,Obedullaganj APMC,Mill Quality,FAQ,2210.0,2400.0,2436.0,Rs./Quintal,True
+2024-05-01,Wheat,Madhya Pradesh,Pandhana APMC,Lokwan,FAQ,2261.0,2480.0,2201.0,Rs./Quintal,True
+2024-05-01,Wheat,Madhya Pradesh,Patharia APMC,Mill Quality,FAQ,2300.0,2412.0,2296.0,Rs./Quintal,True
+2024-05-01,Wheat,Madhya Pradesh,Petlawad APMC,Local,FAQ,2575.0,2575.0,2350.0,Rs./Quintal,True
+2024-05-01,Wheat,Madhya Pradesh,Pipariya APMC,Mill Quality,FAQ,2310.0,2388.0,2300.0,Rs./Quintal,True
+2024-05-01,Wheat,Madhya Pradesh,Raisen APMC,Other,FAQ,2300.0,2300.0,2500.0,Rs./Quintal,True
+2024-05-01,Wheat,Madhya Pradesh,Sabalgarh APMC,Local,FAQ,2300.0,2300.0,2291.0,Rs./Quintal,True
+2024-05-01,Wheat,Madhya Pradesh,Sendhwa APMC,Local,FAQ,2510.0,2510.0,2675.0,Rs./Quintal,True
+2024-05-01,Wheat,Madhya Pradesh,Seoni APMC,Mill Quality,FAQ,2200.0,2260.0,2278.0,Rs./Quintal,True
+2024-05-01,Wheat,Madhya Pradesh,Shahagarh APMC,Local,FAQ,2300.0,2300.0,2340.0,Rs./Quintal,True
+2024-05-01,Wheat,Madhya Pradesh,Shahpura Bhitoni APMC,Local,FAQ,2230.0,2230.0,2201.0,Rs./Quintal,True
+2024-05-01,Wheat,Madhya Pradesh,Shamgarh APMC,Local,FAQ,2550.0,2550.0,2500.0,Rs./Quintal,True
+2024-05-01,Wheat,Madhya Pradesh,Shamshabad APMC,Lokwan,FAQ,2475.0,2741.0,2350.0,Rs./Quintal,True
+2024-05-01,Wheat,Madhya Pradesh,Shamshabad APMC,Sharbati,FAQ,2381.0,2523.0,2350.0,Rs./Quintal,True
+2024-05-01,Wheat,Madhya Pradesh,Silvani APMC,Mill Quality,FAQ,2253.0,2260.0,2200.0,Rs./Quintal,True
+2024-05-01,Wheat,Madhya Pradesh,Tendukheda APMC,Local,FAQ,2275.0,2275.0,2100.0,Rs./Quintal,True
+2024-05-01,Wheat,Madhya Pradesh,Umariya APMC,Mill Quality,FAQ,2150.0,2210.0,2250.0,Rs./Quintal,True
+2024-05-01,Wheat,Madhya Pradesh,Vijaypur APMC,Mill Quality,FAQ,2285.0,2295.0,2280.0,Rs./Quintal,True
+2024-05-08,Wheat,Madhya Pradesh,Ashoknagar APMC,Mill Quality,FAQ,2675.0,2905.0,3100.0,Rs./Quintal,True
+2024-05-08,Wheat,Madhya Pradesh,Ashoknagar APMC,Lokwan,FAQ,2740.0,2875.0,3100.0,Rs./Quintal,True
+2024-05-08,Wheat,Madhya Pradesh,Badnagar APMC,Lokwan,FAQ,2550.0,2550.0,2700.0,Rs./Quintal,True
+2024-05-08,Wheat,Madhya Pradesh,Badnawar APMC,Lokwan,FAQ,2285.0,2285.0,2327.0,Rs./Quintal,True
+2024-05-08,Wheat,Madhya Pradesh,Berasia APMC,Lokwan,FAQ,2290.0,2290.0,2280.0,Rs./Quintal,True
+2024-05-08,Wheat,Madhya Pradesh,Berasia APMC,PISSI,FAQ,2310.0,2730.0,2280.0,Rs./Quintal,True
+2024-05-08,Wheat,Madhya Pradesh,Bhander APMC,Local,FAQ,2280.0,2290.0,2320.0,Rs./Quintal,True
+2024-05-08,Wheat,Madhya Pradesh,Bhander APMC,Mill Quality,FAQ,2005.0,2290.0,2320.0,Rs./Quintal,True
+2024-05-08,Wheat,Madhya Pradesh,Bhopal APMC,Mill Quality,FAQ,2468.0,2468.0,2526.0,Rs./Quintal,True
+2024-05-08,Wheat,Madhya Pradesh,Bhopal APMC,Sharbati,FAQ,3425.0,3425.0,2526.0,Rs./Quintal,True
+2024-05-08,Wheat,Madhya Pradesh,Bijawar APMC,Local,FAQ,2405.0,2411.0,2400.0,Rs./Quintal,True
+2024-05-08,Wheat,Madhya Pradesh,Chhatarpur APMC,Lokwan,FAQ,2348.0,2349.0,2400.0,Rs./Quintal,True
+2024-05-08,Wheat,Madhya Pradesh,Chhindwara APMC,Local,FAQ,2351.0,2351.0,2372.0,Rs./Quintal,True
+2024-05-08,Wheat,Madhya Pradesh,Datia APMC,Lokwan,FAQ,2445.0,2465.0,2380.0,Rs./Quintal,True
+2024-05-08,Wheat,Madhya Pradesh,Deori APMC,Local,FAQ,2300.0,2310.0,2275.0,Rs./Quintal,True
+2024-05-08,Wheat,Madhya Pradesh,Gautampura APMC,Local,FAQ,2160.0,2440.0,2681.0,Rs./Quintal,True
+2024-05-08,Wheat,Madhya Pradesh,Gohad APMC,Local,FAQ,2240.0,2250.0,2275.0,Rs./Quintal,True
+2024-05-08,Wheat,Madhya Pradesh,Isagarh APMC,Mill Quality,FAQ,2310.0,2400.0,3115.0,Rs./Quintal,True
+2024-05-08,Wheat,Madhya Pradesh,Itarsi APMC,Mill Quality,FAQ,2335.0,2335.0,2380.0,Rs./Quintal,True
+2024-05-08,Wheat,Madhya Pradesh,Itarsi APMC,Wheat-Organic,FAQ,2366.0,2366.0,2380.0,Rs./Quintal,True
+2024-05-08,Wheat,Madhya Pradesh,Jabalpur APMC,Wheat-Organic,FAQ,2384.0,2384.0,2200.0,Rs./Quintal,True
+2024-05-08,Wheat,Madhya Pradesh,Keolari APMC,Mill Quality,FAQ,2150.0,2200.0,2225.0,Rs./Quintal,True
+2024-05-08,Wheat,Madhya Pradesh,Khargone APMC,Lokwan,FAQ,2111.0,2111.0,2500.0,Rs./Quintal,True
+2024-05-08,Wheat,Madhya Pradesh,Kukshi APMC,Mill Quality,FAQ,2590.0,2590.0,2400.0,Rs./Quintal,True
+2024-05-08,Wheat,Madhya Pradesh,Kukshi APMC,Lokwan,FAQ,2510.0,2525.0,2400.0,Rs./Quintal,True
+2024-05-08,Wheat,Madhya Pradesh,Magroni APMC,Local,FAQ,2328.0,2344.0,2371.0,Rs./Quintal,True
+2024-05-08,Wheat,Madhya Pradesh,Mahidpur APMC,Mill Quality,FAQ,2200.0,2389.0,2400.0,Rs./Quintal,True
+2024-05-08,Wheat,Madhya Pradesh,Manawar APMC,Mill Quality,FAQ,2300.0,2300.0,2500.0,Rs./Quintal,True
+2024-05-08,Wheat,Madhya Pradesh,Mandsaur APMC,Lokwan,FAQ,2411.0,2682.0,2400.0,Rs./Quintal,True
+2024-05-08,Wheat,Madhya Pradesh,Nainpur APMC,Local,FAQ,2250.0,2250.0,2280.0,Rs./Quintal,True
+2024-05-08,Wheat,Madhya Pradesh,Nalkheda APMC,Mill Quality,FAQ,2250.0,2340.0,2355.0,Rs./Quintal,True
+2024-05-08,Wheat,Madhya Pradesh,Neemuch APMC,Lokwan,FAQ,2426.0,2786.0,2800.0,Rs./Quintal,True
+2024-05-08,Wheat,Madhya Pradesh,Neemuch APMC,Mill Quality,FAQ,2093.0,2093.0,2800.0,Rs./Quintal,True
+2024-05-08,Wheat,Madhya Pradesh,Niwadi APMC,Other,FAQ,2347.0,2350.0,2330.0,Rs./Quintal,True
+2024-05-08,Wheat,Madhya Pradesh,Obedullaganj APMC,Lokwan,FAQ,2400.0,2400.0,2410.0,Rs./Quintal,True
+2024-05-08,Wheat,Madhya Pradesh,Pandhana APMC,Mill Quality,FAQ,2184.0,2200.0,2361.0,Rs./Quintal,True
+2024-05-08,Wheat,Madhya Pradesh,Panna APMC,Local,FAQ,2275.0,2276.0,2280.0,Rs./Quintal,True
+2024-05-08,Wheat,Madhya Pradesh,Pipariya APMC,Local,FAQ,2334.0,2334.0,2350.0,Rs./Quintal,True
+2024-05-08,Wheat,Madhya Pradesh,Piplya APMC,Lokwan,FAQ,2440.0,2742.0,2350.0,Rs./Quintal,True
+2024-05-08,Wheat,Madhya Pradesh,Piplya APMC,Mill Quality,FAQ,2365.0,2640.0,2350.0,Rs./Quintal,True
+2024-05-08,Wheat,Madhya Pradesh,Pohari APMC,Local,FAQ,2280.0,2280.0,2300.0,Rs./Quintal,True
+2024-05-08,Wheat,Madhya Pradesh,Sagar APMC,Mill Quality,FAQ,2300.0,2390.0,2460.0,Rs./Quintal,True
+2024-05-08,Wheat,Madhya Pradesh,Sendhwa APMC,Mill Quality,FAQ,2490.0,2565.0,2300.0,Rs./Quintal,True
+2024-05-08,Wheat,Madhya Pradesh,Sendhwa APMC,Lokwan,FAQ,2400.0,2400.0,2300.0,Rs./Quintal,True
+2024-05-08,Wheat,Madhya Pradesh,Shadora APMC,Local,FAQ,2302.0,2371.0,3128.0,Rs./Quintal,True
+2024-05-08,Wheat,Madhya Pradesh,Shahpura Bhitoni (F&V) APMC,Mill Quality,FAQ,2200.0,2282.0,2307.0,Rs./Quintal,True
+2024-05-08,Wheat,Madhya Pradesh,Shahpura Bhitoni APMC,Local,FAQ,2100.0,2100.0,2200.0,Rs./Quintal,True
+2024-05-08,Wheat,Madhya Pradesh,Tendukheda APMC,Lokwan,FAQ,2100.0,2100.0,2290.0,Rs./Quintal,True
+2024-05-08,Wheat,Madhya Pradesh,Tikamgarh APMC,Mill Quality,FAQ,2330.0,2330.0,2360.0,Rs./Quintal,True
+2024-05-08,Wheat,Madhya Pradesh,Umariya APMC,Mill Quality,FAQ,2000.0,2000.0,2250.0,Rs./Quintal,True
+2024-05-08,Wheat,Madhya Pradesh,Vidisha APMC,Sharbati,FAQ,4450.0,4450.0,2240.0,Rs./Quintal,True
+2024-06-01,Wheat,Madhya Pradesh,A lot APMC,Mill Quality,FAQ,2481.0,2511.0,2470.0,Rs./Quintal,True
+2024-06-01,Wheat,Madhya Pradesh,Ashta APMC,Sharbati,FAQ,2503.0,2760.0,2500.0,Rs./Quintal,True
+2024-06-01,Wheat,Madhya Pradesh,Badnagar APMC,Mill Quality,FAQ,2300.0,2535.0,2630.0,Rs./Quintal,True
+2024-06-01,Wheat,Madhya Pradesh,Badnawar APMC,Lokwan,FAQ,2411.0,2490.0,2495.0,Rs./Quintal,True
+2024-06-01,Wheat,Madhya Pradesh,Baikunthpur APMC,Mill Quality,FAQ,2330.0,2350.0,2325.0,Rs./Quintal,True
+2024-06-01,Wheat,Madhya Pradesh,Begamganj APMC,Local,FAQ,2400.0,2700.0,2950.0,Rs./Quintal,True
+2024-06-01,Wheat,Madhya Pradesh,Berasia APMC,Local,FAQ,2425.0,2663.0,2400.0,Rs./Quintal,True
+2024-06-01,Wheat,Madhya Pradesh,Berasia APMC,Sharbati,FAQ,2471.0,2688.0,2400.0,Rs./Quintal,True
+2024-06-01,Wheat,Madhya Pradesh,Bhander APMC,Local,FAQ,2410.0,2545.0,2400.0,Rs./Quintal,True
+2024-06-01,Wheat,Madhya Pradesh,Bhopal APMC,Mill Quality,FAQ,2464.0,2557.0,2650.0,Rs./Quintal,True
+2024-06-01,Wheat,Madhya Pradesh,Chaakghat APMC,Mill Quality,FAQ,2276.0,2276.0,2300.0,Rs./Quintal,True
+2024-06-01,Wheat,Madhya Pradesh,Daloda APMC,Lokwan,FAQ,2451.0,2731.0,2450.0,Rs./Quintal,True
+2024-06-01,Wheat,Madhya Pradesh,Damoh APMC,Lokwan,FAQ,2100.0,2100.0,2350.0,Rs./Quintal,True
+2024-06-01,Wheat,Madhya Pradesh,Damoh APMC,Local,FAQ,2100.0,2105.0,2350.0,Rs./Quintal,True
+2024-06-01,Wheat,Madhya Pradesh,Datia APMC,Lokwan,FAQ,2510.0,2510.0,2412.0,Rs./Quintal,True
+2024-06-01,Wheat,Madhya Pradesh,Deori APMC,Mill Quality,FAQ,2375.0,2410.0,2510.0,Rs./Quintal,True
+2024-06-01,Wheat,Madhya Pradesh,Deori APMC,Lokwan,FAQ,2310.0,2350.0,2510.0,Rs./Quintal,True
+2024-06-01,Wheat,Madhya Pradesh,Dewas APMC,Lokwan,FAQ,2436.0,2910.0,2400.0,Rs./Quintal,True
+2024-06-01,Wheat,Madhya Pradesh,Dhamnod APMC,Mill Quality,FAQ,2281.0,2395.0,2397.0,Rs./Quintal,True
+2024-06-01,Wheat,Madhya Pradesh,Gadarwada APMC,Local,FAQ,2350.0,2350.0,2401.0,Rs./Quintal,True
+2024-06-01,Wheat,Madhya Pradesh,Ganjbasoda APMC,Lokwan,FAQ,2632.0,2632.0,3950.0,Rs./Quintal,True
+2024-06-01,Wheat,Madhya Pradesh,Ganjbasoda APMC,Other,FAQ,2670.0,2670.0,3950.0,Rs./Quintal,True
+2024-06-01,Wheat,Madhya Pradesh,Gotegaon APMC,Mill Quality,FAQ,2341.0,2366.0,2400.0,Rs./Quintal,True
+2024-06-01,Wheat,Madhya Pradesh,Haatpipliya APMC,Lokwan,FAQ,2441.0,2636.0,2350.0,Rs./Quintal,True
+2024-06-01,Wheat,Madhya Pradesh,Harsood APMC,Local,FAQ,2290.0,2371.0,2409.0,Rs./Quintal,True
+2024-06-01,Wheat,Madhya Pradesh,Hata APMC,Local,FAQ,2200.0,2200.0,2370.0,Rs./Quintal,True
+2024-06-01,Wheat,Madhya Pradesh,Indore APMC,Lokwan,FAQ,2550.0,2550.0,2305.0,Rs./Quintal,True
+2024-06-01,Wheat,Madhya Pradesh,Indore(F&V) APMC,Local,FAQ,1510.0,2752.0,2951.0,Rs./Quintal,True
+2024-06-01,Wheat,Madhya Pradesh,Jawar APMC,Mill Quality,FAQ,2301.0,2500.0,2699.0,Rs./Quintal,True
+2024-06-01,Wheat,Madhya Pradesh,Jawar APMC,Local,FAQ,2282.0,2680.0,2699.0,Rs./Quintal,True
+2024-06-01,Wheat,Madhya Pradesh,Karera APMC,Mill Quality,FAQ,2300.0,2360.0,2400.0,Rs./Quintal,True
+2024-06-01,Wheat,Madhya Pradesh,Karhi APMC,Local,FAQ,2421.0,2425.0,2400.0,Rs./Quintal,True
+2024-06-01,Wheat,Madhya Pradesh,Khirkiya APMC,Local,FAQ,2440.0,2470.0,2426.0,Rs./Quintal,True
+2024-06-01,Wheat,Madhya Pradesh,Mandsaur APMC,Lokwan,FAQ,2480.0,2744.0,2450.0,Rs./Quintal,True
+2024-06-01,Wheat,Madhya Pradesh,Mandsaur APMC,Other,FAQ,2691.0,2691.0,2450.0,Rs./Quintal,True
+2024-06-01,Wheat,Madhya Pradesh,Neemuch APMC,Lokwan,FAQ,2630.0,2720.0,2840.0,Rs./Quintal,True
+2024-06-01,Wheat,Madhya Pradesh,Niwadi APMC,Local,FAQ,2360.0,2370.0,2400.0,Rs./Quintal,True
+2024-06-01,Wheat,Madhya Pradesh,Obedullaganj APMC,Mill Quality,FAQ,2309.0,2435.0,2451.0,Rs./Quintal,True
+2024-06-01,Wheat,Madhya Pradesh,Pachaur APMC,Lokwan,FAQ,2493.0,2599.0,2491.0,Rs./Quintal,True
+2024-06-01,Wheat,Madhya Pradesh,Palari APMC,Mill Quality,FAQ,2100.0,2120.0,2300.0,Rs./Quintal,True
+2024-06-01,Wheat,Madhya Pradesh,Pandhana APMC,Lokwan,FAQ,2349.0,2415.0,2419.0,Rs./Quintal,True
+2024-06-01,Wheat,Madhya Pradesh,Panna APMC,Local,FAQ,2300.0,2300.0,2325.0,Rs./Quintal,True
+2024-06-01,Wheat,Madhya Pradesh,Petlawad APMC,Other,FAQ,2450.0,2450.0,2458.0,Rs./Quintal,True
+2024-06-01,Wheat,Madhya Pradesh,Petlawad APMC,Local,FAQ,2300.0,2400.0,2458.0,Rs./Quintal,True
+2024-06-01,Wheat,Madhya Pradesh,Piplya APMC,Local,FAQ,2700.0,2796.0,2600.0,Rs./Quintal,True
+2024-06-01,Wheat,Madhya Pradesh,Raisen APMC,Mill Quality,FAQ,2080.0,2080.0,2676.0,Rs./Quintal,True
+2024-06-01,Wheat,Madhya Pradesh,Sagar APMC,Other,FAQ,2569.0,2582.0,2465.0,Rs./Quintal,True
+2024-06-01,Wheat,Madhya Pradesh,Sarangpur APMC,Mill Quality,FAQ,2361.0,2361.0,2465.0,Rs./Quintal,True
+2024-06-01,Wheat,Madhya Pradesh,Sarangpur APMC,Other,FAQ,2480.0,2512.0,2465.0,Rs./Quintal,True
+2024-06-01,Wheat,Madhya Pradesh,Satna APMC,Mill Quality,FAQ,2469.0,2469.0,2489.0,Rs./Quintal,True
+2024-06-01,Wheat,Madhya Pradesh,Seoni APMC,Mill Quality,FAQ,2300.0,2320.0,2280.0,Rs./Quintal,True
+2024-06-01,Wheat,Madhya Pradesh,Seoni APMC,Lokwan,FAQ,2375.0,2375.0,2280.0,Rs./Quintal,True
+2024-06-01,Wheat,Madhya Pradesh,Shadora APMC,Sharbati,FAQ,2800.0,2800.0,2670.0,Rs./Quintal,True
+2024-06-01,Wheat,Madhya Pradesh,Shahagarh APMC,Local,FAQ,2340.0,2350.0,2400.0,Rs./Quintal,True
+2024-06-01,Wheat,Madhya Pradesh,Sironj APMC,Mill Quality,FAQ,2650.0,2720.0,2642.0,Rs./Quintal,True
+2024-06-01,Wheat,Madhya Pradesh,Timarni APMC,Mill Quality,FAQ,2380.0,2380.0,2445.0,Rs./Quintal,True
+2024-06-01,Wheat,Madhya Pradesh,Vidisha APMC,Sharbati,FAQ,3000.0,3400.0,2750.0,Rs./Quintal,True
+2024-06-01,Wheat,Madhya Pradesh,Vidisha APMC,Mill Quality,FAQ,2340.0,2370.0,2750.0,Rs./Quintal,True
+2024-06-08,Wheat,Madhya Pradesh,Chaakghat APMC,Local,FAQ,2300.0,2300.0,2276.0,Rs./Quintal,True
+2024-06-08,Wheat,Madhya Pradesh,Datia APMC,Local,FAQ,2400.0,2400.0,2410.0,Rs./Quintal,True
+2024-06-08,Wheat,Madhya Pradesh,Deori APMC,Mill Quality,FAQ,2380.0,2468.0,2310.0,Rs./Quintal,True
+2024-06-08,Wheat,Madhya Pradesh,Indore APMC,Other,FAQ,2530.0,2541.0,2305.0,Rs./Quintal,True
+2024-06-08,Wheat,Madhya Pradesh,Jatara APMC,Local,FAQ,2325.0,2325.0,2400.0,Rs./Quintal,True
+2024-06-08,Wheat,Madhya Pradesh,Kasrawad APMC,Local,FAQ,2620.0,2620.0,2500.0,Rs./Quintal,True
+2024-06-08,Wheat,Madhya Pradesh,Katni APMC,Other,FAQ,2400.0,2400.0,2350.0,Rs./Quintal,True
+2024-06-08,Wheat,Madhya Pradesh,Kukshi APMC,Lokwan,FAQ,2495.0,2525.0,2400.0,Rs./Quintal,True
+2024-06-08,Wheat,Madhya Pradesh,Morena APMC,Mill Quality,FAQ,2475.0,2475.0,2476.0,Rs./Quintal,True
+2024-06-08,Wheat,Madhya Pradesh,Niwadi APMC,Local,FAQ,2350.0,2370.0,2450.0,Rs./Quintal,True
+2024-06-08,Wheat,Madhya Pradesh,Pandhana APMC,Mill Quality,FAQ,2320.0,2356.0,2400.0,Rs./Quintal,True
+2024-06-08,Wheat,Madhya Pradesh,Sagar APMC,Other,FAQ,2588.0,2600.0,2430.0,Rs./Quintal,True
+2024-06-08,Wheat,Madhya Pradesh,Seoni APMC,Mill Quality,FAQ,2350.0,2350.0,2310.0,Rs./Quintal,True
+2024-06-08,Wheat,Madhya Pradesh,Shahagarh APMC,Local,FAQ,2310.0,2345.0,2400.0,Rs./Quintal,True
+2024-06-08,Wheat,Madhya Pradesh,Tikamgarh APMC,Mill Quality,FAQ,2465.0,2470.0,2460.0,Rs./Quintal,True
+2024-06-08,Wheat,Madhya Pradesh,Timarni APMC,Lokwan,FAQ,2321.0,2321.0,2444.0,Rs./Quintal,True
+2024-06-08,Wheat,Madhya Pradesh,Timarni APMC,Mill Quality,FAQ,2444.0,2444.0,2400.0,Rs./Quintal,True
+2024-06-08,Wheat,Madhya Pradesh,Umariya APMC,Lokwan,FAQ,2200.0,2200.0,2350.0,Rs./Quintal,True
+2024-06-08,Wheat,Madhya Pradesh,Umariya APMC,Mill Quality,FAQ,2300.0,2300.0,2350.0,Rs./Quintal,True
+2024-07-01,Wheat,Madhya Pradesh,Agar APMC,Mill Quality,FAQ,2611.0,2611.0,2470.0,Rs./Quintal,True
+2024-07-01,Wheat,Madhya Pradesh,Ashoknagar APMC,Sharbati,FAQ,2995.0,4000.0,2500.0,Rs./Quintal,True
+2024-07-01,Wheat,Madhya Pradesh,Ashta APMC,Lokwan,FAQ,2506.0,2600.0,2500.0,Rs./Quintal,True
+2024-07-01,Wheat,Madhya Pradesh,Ashta APMC,Mill Quality,FAQ,2603.0,2603.0,2500.0,Rs./Quintal,True
+2024-07-01,Wheat,Madhya Pradesh,Badnawar APMC,Lokwan,FAQ,2550.0,2550.0,2600.0,Rs./Quintal,True
+2024-07-01,Wheat,Madhya Pradesh,Dabra APMC,Other,FAQ,2530.0,2538.0,2620.0,Rs./Quintal,True
+2024-07-01,Wheat,Madhya Pradesh,Damoh APMC,Lokwan,FAQ,2405.0,2405.0,2150.0,Rs./Quintal,True
+2024-07-01,Wheat,Madhya Pradesh,Dhamnod APMC,Mill Quality,FAQ,2483.0,2562.0,2613.0,Rs./Quintal,True
+2024-07-01,Wheat,Madhya Pradesh,Gandhwani APMC,Mill Quality,FAQ,2580.0,2600.0,2500.0,Rs./Quintal,True
+2024-07-01,Wheat,Madhya Pradesh,Ganjbasoda APMC,Sharbati,FAQ,2781.0,3690.0,2680.0,Rs./Quintal,True
+2024-07-01,Wheat,Madhya Pradesh,Gautampura APMC,Lokwan,FAQ,2900.0,2900.0,2590.0,Rs./Quintal,True
+2024-07-01,Wheat,Madhya Pradesh,Gohad APMC,Mill Quality,FAQ,2440.0,2490.0,2605.0,Rs./Quintal,True
+2024-07-01,Wheat,Madhya Pradesh,Gohad APMC,Lokwan,FAQ,2550.0,2550.0,2605.0,Rs./Quintal,True
+2024-07-01,Wheat,Madhya Pradesh,Guna APMC,Mill Quality,FAQ,2675.0,2675.0,2735.0,Rs./Quintal,True
+2024-07-01,Wheat,Madhya Pradesh,Harsood APMC,Mill Quality,FAQ,2575.0,2575.0,2495.0,Rs./Quintal,True
+2024-07-01,Wheat,Madhya Pradesh,Jaora APMC,Mill Quality,FAQ,2906.0,2906.0,2850.0,Rs./Quintal,True
+2024-07-01,Wheat,Madhya Pradesh,Karera APMC,Mill Quality,FAQ,2400.0,2400.0,2450.0,Rs./Quintal,True
+2024-07-01,Wheat,Madhya Pradesh,Katni APMC,Local,FAQ,2370.0,2380.0,2400.0,Rs./Quintal,True
+2024-07-01,Wheat,Madhya Pradesh,Khurai APMC,Sharbati,FAQ,2400.0,2520.0,2600.0,Rs./Quintal,True
+2024-07-01,Wheat,Madhya Pradesh,Malthone APMC,Sharbati,FAQ,3020.0,3100.0,2400.0,Rs./Quintal,True
+2024-07-01,Wheat,Madhya Pradesh,Mandla APMC,Local,FAQ,2275.0,2276.0,2405.0,Rs./Quintal,True
+2024-07-01,Wheat,Madhya Pradesh,Mandsaur APMC,Other,FAQ,2832.0,2931.0,2700.0,Rs./Quintal,True
+2024-07-01,Wheat,Madhya Pradesh,Nalkheda APMC,Mill Quality,FAQ,2500.0,2545.0,2560.0,Rs./Quintal,True
+2024-07-01,Wheat,Madhya Pradesh,Paatan APMC,Mill Quality,FAQ,2375.0,2475.0,2490.0,Rs./Quintal,True
+2024-07-01,Wheat,Madhya Pradesh,Pachaur APMC,Mill Quality,FAQ,2381.0,2525.0,2545.0,Rs./Quintal,True
+2024-07-01,Wheat,Madhya Pradesh,Pandhana APMC,Lokwan,FAQ,2375.0,2435.0,2475.0,Rs./Quintal,True
+2024-07-01,Wheat,Madhya Pradesh,Ratlam APMC,Mill Quality,FAQ,2645.0,2645.0,2652.0,Rs./Quintal,True
+2024-07-01,Wheat,Madhya Pradesh,Sehora APMC,Lokwan,FAQ,2320.0,2327.0,2441.0,Rs./Quintal,True
+2024-07-01,Wheat,Madhya Pradesh,Sehore APMC,Local,FAQ,2575.0,2575.0,2550.0,Rs./Quintal,True
+2024-07-01,Wheat,Madhya Pradesh,Shahpura Bhitoni (F&V) APMC,Mill Quality,FAQ,2402.0,2443.0,2450.0,Rs./Quintal,True
+2024-07-01,Wheat,Madhya Pradesh,Sironj APMC,Sharbati,FAQ,2600.0,2620.0,2650.0,Rs./Quintal,True
+2024-07-01,Wheat,Madhya Pradesh,Tikamgarh APMC,Mill Quality,FAQ,2428.0,2470.0,2475.0,Rs./Quintal,True
+2024-07-01,Wheat,Madhya Pradesh,Umariya APMC,Lokwan,FAQ,2250.0,2250.0,2380.0,Rs./Quintal,True
+2024-07-01,Wheat,Madhya Pradesh,Vidisha APMC,Mill Quality,FAQ,2400.0,2575.0,2700.0,Rs./Quintal,True
+2024-07-08,Wheat,Madhya Pradesh,Ashoknagar APMC,Mill Quality,FAQ,2450.0,2450.0,2600.0,Rs./Quintal,True
+2024-07-08,Wheat,Madhya Pradesh,Badnagar APMC,Mill Quality,FAQ,2643.0,2643.0,2646.0,Rs./Quintal,True
+2024-07-08,Wheat,Madhya Pradesh,Badnawar APMC,Lokwan,FAQ,2310.0,2320.0,2700.0,Rs./Quintal,True
+2024-07-08,Wheat,Madhya Pradesh,Badwaha APMC,Mill Quality,FAQ,2300.0,2522.0,2580.0,Rs./Quintal,True
+2024-07-08,Wheat,Madhya Pradesh,Baikunthpur APMC,Mill Quality,FAQ,2315.0,2330.0,2410.0,Rs./Quintal,True
+2024-07-08,Wheat,Madhya Pradesh,Bina APMC,Sharbati,FAQ,3900.0,3900.0,2575.0,Rs./Quintal,True
+2024-07-08,Wheat,Madhya Pradesh,Chanderi APMC,Mill Quality,FAQ,2478.0,2482.0,2488.0,Rs./Quintal,True
+2024-07-08,Wheat,Madhya Pradesh,Chhatarpur APMC,Mill Quality,FAQ,2418.0,2435.0,2445.0,Rs./Quintal,True
+2024-07-08,Wheat,Madhya Pradesh,Datia APMC,Mill Quality,FAQ,2490.0,2510.0,2445.0,Rs./Quintal,True
+2024-07-08,Wheat,Madhya Pradesh,Datia APMC,Other,FAQ,2510.0,2600.0,2445.0,Rs./Quintal,True
+2024-07-08,Wheat,Madhya Pradesh,Devandranagar APMC,Mill Quality,FAQ,2390.0,2400.0,2410.0,Rs./Quintal,True
+2024-07-08,Wheat,Madhya Pradesh,Dhamnod APMC,Mill Quality,FAQ,2400.0,2400.0,2551.0,Rs./Quintal,True
+2024-07-08,Wheat,Madhya Pradesh,Ganjbasoda APMC,Sharbati,FAQ,2741.0,3570.0,2550.0,Rs./Quintal,True
+2024-07-08,Wheat,Madhya Pradesh,Gotegaon APMC,Mill Quality,FAQ,2461.0,2461.0,2481.0,Rs./Quintal,True
+2024-07-08,Wheat,Madhya Pradesh,Itarsi APMC,Mill Quality,FAQ,1800.0,2548.0,2561.0,Rs./Quintal,True
+2024-07-08,Wheat,Madhya Pradesh,Jatara APMC,Local,FAQ,2380.0,2420.0,2300.0,Rs./Quintal,True
+2024-07-08,Wheat,Madhya Pradesh,Jawar APMC,Lokwan,FAQ,2465.0,2565.0,2566.0,Rs./Quintal,True
+2024-07-08,Wheat,Madhya Pradesh,Jeerapur APMC,Mill Quality,FAQ,2385.0,2400.0,2535.0,Rs./Quintal,True
+2024-07-08,Wheat,Madhya Pradesh,Karera APMC,Local,FAQ,2427.0,2460.0,2425.0,Rs./Quintal,True
+2024-07-08,Wheat,Madhya Pradesh,Kukshi APMC,Mill Quality,FAQ,2400.0,2400.0,2530.0,Rs./Quintal,True
+2024-07-08,Wheat,Madhya Pradesh,Malthone APMC,Mill Quality,FAQ,2480.0,2520.0,3300.0,Rs./Quintal,True
+2024-07-08,Wheat,Madhya Pradesh,Mandsaur APMC,Other,FAQ,2873.0,2890.0,2640.0,Rs./Quintal,True
+2024-07-08,Wheat,Madhya Pradesh,Mandsaur APMC,Mill Quality,FAQ,2400.0,2572.0,2640.0,Rs./Quintal,True
+2024-07-08,Wheat,Madhya Pradesh,Obedullaganj APMC,Mill Quality,FAQ,2450.0,2450.0,2632.0,Rs./Quintal,True
+2024-07-08,Wheat,Madhya Pradesh,Pachaur APMC,Mill Quality,FAQ,2485.0,2500.0,2564.0,Rs./Quintal,True
+2024-07-08,Wheat,Madhya Pradesh,Raisen APMC,Lokwan,FAQ,2450.0,2621.0,2651.0,Rs./Quintal,True
+2024-07-08,Wheat,Madhya Pradesh,Ratlam APMC,Lokwan,FAQ,2656.0,2791.0,2870.0,Rs./Quintal,True
+2024-07-08,Wheat,Madhya Pradesh,Ratlam APMC,Mill Quality,FAQ,2995.0,2995.0,2870.0,Rs./Quintal,True
+2024-07-08,Wheat,Madhya Pradesh,Sarangpur APMC,Other,FAQ,2570.0,2581.0,2509.0,Rs./Quintal,True
+2024-07-08,Wheat,Madhya Pradesh,Satna APMC,Mill Quality,FAQ,2516.0,2516.0,2450.0,Rs./Quintal,True
+2024-07-08,Wheat,Madhya Pradesh,Sehore APMC,Sharbati,FAQ,3901.0,3901.0,2580.0,Rs./Quintal,True
+2024-07-08,Wheat,Madhya Pradesh,Sendhwa APMC,Mill Quality,FAQ,2680.0,2740.0,2925.0,Rs./Quintal,True
+2024-07-08,Wheat,Madhya Pradesh,Sendhwa APMC,Local,FAQ,2618.0,2618.0,2925.0,Rs./Quintal,True
+2024-07-08,Wheat,Madhya Pradesh,Simariya APMC,Local,FAQ,2360.0,2370.0,2225.0,Rs./Quintal,True
+2024-07-08,Wheat,Madhya Pradesh,Sironj APMC,Mill Quality,FAQ,2460.0,2576.0,2600.0,Rs./Quintal,True
+2024-07-08,Wheat,Madhya Pradesh,Sitamau APMC,Mill Quality,FAQ,2720.0,2720.0,2791.0,Rs./Quintal,True
+2024-07-08,Wheat,Madhya Pradesh,Umariya APMC,Lokwan,FAQ,2300.0,2300.0,2380.0,Rs./Quintal,True
+2024-07-08,Wheat,Madhya Pradesh,Umariya APMC,Wheat-Organic,FAQ,2060.0,2090.0,2380.0,Rs./Quintal,True
+2024-01-01,Maize,Madhya Pradesh,Betul APMC,Local,FAQ,1950.0,1950.0,2045.0,Rs./Quintal,True
+2024-01-08,Maize,Madhya Pradesh,Betul APMC,Local,FAQ,2000.0,2000.0,2190.0,Rs./Quintal,True
+2024-01-08,Maize,Madhya Pradesh,Burhanpur APMC,Yellow,FAQ,1850.0,1850.0,1800.0,Rs./Quintal,True
+2024-01-08,Maize,Madhya Pradesh,Ghansour APMC,Local,FAQ,1780.0,1800.0,1875.0,Rs./Quintal,True
+2024-01-08,Maize,Madhya Pradesh,Gotegaon APMC,Yellow,FAQ,2030.0,2090.0,2000.0,Rs./Quintal,True
+2024-01-08,Maize,Madhya Pradesh,Gotegaon APMC,Local,FAQ,1950.0,1950.0,2000.0,Rs./Quintal,True
+2024-01-08,Maize,Madhya Pradesh,Lakhnadon APMC,Yellow,FAQ,1985.0,1990.0,1900.0,Rs./Quintal,True
+2024-01-08,Maize,Madhya Pradesh,Pipariya APMC,Yellow,FAQ,1900.0,1900.0,1620.0,Rs./Quintal,True
+2024-01-08,Maize,Madhya Pradesh,Sagar APMC,Deshi Red,FAQ,2100.0,2150.0,2225.0,Rs./Quintal,True
+2024-01-08,Maize,Madhya Pradesh,Sehore APMC,Yellow,FAQ,2118.0,2118.0,2021.0,Rs./Quintal,True
+2024-01-08,Maize,Madhya Pradesh,Sendhwa APMC,Deshi Red,FAQ,2170.0,2175.0,1725.0,Rs./Quintal,True
+2024-02-01,Maize,Madhya Pradesh,Anjad APMC,Other,FAQ,2175.0,2175.0,1950.0,Rs./Quintal,True
+2024-02-01,Maize,Madhya Pradesh,Chaurai APMC,Deshi Red,FAQ,1906.0,1918.0,2050.0,Rs./Quintal,True
+2024-02-01,Maize,Madhya Pradesh,Chhpara APMC,Yellow,FAQ,2000.0,2080.0,2100.0,Rs./Quintal,True
+2024-02-01,Maize,Madhya Pradesh,Itarsi APMC,Deshi Red,FAQ,2052.0,2071.0,1991.0,Rs./Quintal,True
+2024-02-01,Maize,Madhya Pradesh,Karhi APMC,Yellow,FAQ,2100.0,2100.0,2180.0,Rs./Quintal,True
+2024-02-01,Maize,Madhya Pradesh,Paatan APMC,Local,FAQ,2110.0,2215.0,2080.0,Rs./Quintal,True
+2024-02-01,Maize,Madhya Pradesh,Pipariya APMC,Yellow,FAQ,1980.0,2069.0,1700.0,Rs./Quintal,True
+2024-02-01,Maize,Madhya Pradesh,Sehore APMC,Yellow,FAQ,1861.0,2097.0,2200.0,Rs./Quintal,True
+2024-02-01,Maize,Madhya Pradesh,Sendhwa APMC,Yellow,FAQ,2175.0,2175.0,2150.0,Rs./Quintal,True
+2024-02-01,Maize,Madhya Pradesh,Timarni APMC,Yellow,FAQ,2076.0,2076.0,2085.0,Rs./Quintal,True
+2024-02-08,Maize,Madhya Pradesh,Chaurai APMC,Deshi White,FAQ,2111.0,2111.0,1900.0,Rs./Quintal,True
+2024-02-08,Maize,Madhya Pradesh,Chhpara APMC,Sweet Corn (For Biscuits),FAQ,1995.0,1995.0,2100.0,Rs./Quintal,True
+2024-02-08,Maize,Madhya Pradesh,Gotegaon APMC,Local,FAQ,2200.0,2250.0,2100.0,Rs./Quintal,True
+2024-02-08,Maize,Madhya Pradesh,Seoni APMC,Deshi Red,FAQ,1950.0,1950.0,2100.0,Rs./Quintal,True
+2024-03-01,Maize,Madhya Pradesh,Chaurai APMC,Hybrid Red (Cattle Feed),FAQ,2208.0,2208.0,2236.0,Rs./Quintal,True
+2024-03-01,Maize,Madhya Pradesh,Khirkiya APMC,Yellow,FAQ,2058.0,2200.0,2250.0,Rs./Quintal,True
+2024-03-01,Maize,Madhya Pradesh,Krishi Upaj Mandi Samiti Bichhiya,Yellow,FAQ,1900.0,1900.0,1950.0,Rs./Quintal,True
+2024-03-01,Maize,Madhya Pradesh,Seoni APMC,Yellow,FAQ,2001.0,2003.0,2100.0,Rs./Quintal,True
+2024-03-01,Maize,Madhya Pradesh,Seoni APMC,Deshi Red,FAQ,2200.0,2200.0,2100.0,Rs./Quintal,True
+2024-03-08,Maize,Madhya Pradesh,Anjad APMC,Yellow,FAQ,1750.0,1750.0,1700.0,Rs./Quintal,True
+2024-03-08,Maize,Madhya Pradesh,Chaurai APMC,Deshi Red,FAQ,2100.0,2100.0,2201.0,Rs./Quintal,True
+2024-03-08,Maize,Madhya Pradesh,Chaurai APMC,Yellow,FAQ,2095.0,2160.0,2201.0,Rs./Quintal,True
+2024-03-08,Maize,Madhya Pradesh,Gotegaon APMC,Yellow,FAQ,2300.0,2300.0,2200.0,Rs./Quintal,True
+2024-03-08,Maize,Madhya Pradesh,Indore APMC,Popcorn,FAQ,10304.0,10304.0,2000.0,Rs./Quintal,True
+2024-03-08,Maize,Madhya Pradesh,Seoni APMC,Local,FAQ,2200.0,2230.0,1950.0,Rs./Quintal,True
+2024-04-01,Maize,Madhya Pradesh,Amarwda APMC,Local,FAQ,1700.0,1700.0,2100.0,Rs./Quintal,True
+2024-04-01,Maize,Madhya Pradesh,Bhikangaon APMC,Deshi Red,FAQ,1800.0,1800.0,1903.0,Rs./Quintal,True
+2024-04-01,Maize,Madhya Pradesh,Chaurai APMC,Other,FAQ,2179.0,2179.0,2190.0,Rs./Quintal,True
+2024-04-01,Maize,Madhya Pradesh,Dhamnod APMC,Deshi Red,FAQ,1760.0,1760.0,1650.0,Rs./Quintal,True
+2024-04-01,Maize,Madhya Pradesh,Karhi APMC,Local,FAQ,2050.0,2100.0,2185.0,Rs./Quintal,True
+2024-04-01,Maize,Madhya Pradesh,Kasrawad APMC,Local,FAQ,1635.0,2060.0,2180.0,Rs./Quintal,True
+2024-04-08,Maize,Madhya Pradesh,Alirajpur APMC,Yellow,FAQ,2000.0,2000.0,2100.0,Rs./Quintal,True
+2024-04-08,Maize,Madhya Pradesh,Anjad APMC,Deshi Red,FAQ,1650.0,1650.0,1900.0,Rs./Quintal,True
+2024-04-08,Maize,Madhya Pradesh,Betul APMC,Yellow,FAQ,2000.0,2006.0,2059.0,Rs./Quintal,True
+2024-04-08,Maize,Madhya Pradesh,Khargone APMC,Yellow,FAQ,1665.0,1665.0,1700.0,Rs./Quintal,True
+2024-04-08,Maize,Madhya Pradesh,Pandhana APMC,Local,FAQ,1725.0,1925.0,2075.0,Rs./Quintal,True
+2024-04-08,Maize,Madhya Pradesh,Sendhwa APMC,Deshi Red,FAQ,1830.0,1860.0,1700.0,Rs./Quintal,True
+2024-05-01,Maize,Madhya Pradesh,Chaurai APMC,Deshi Red,FAQ,1930.0,1930.0,2041.0,Rs./Quintal,True
+2024-05-01,Maize,Madhya Pradesh,Karhi APMC,Yellow,FAQ,1850.0,1850.0,2075.0,Rs./Quintal,True
+2024-05-01,Maize,Madhya Pradesh,Manasa APMC,Deshi Red,FAQ,2350.0,2350.0,2150.0,Rs./Quintal,True
+2024-05-01,Maize,Madhya Pradesh,Manawar APMC,Yellow,FAQ,2000.0,2050.0,2100.0,Rs./Quintal,True
+2024-05-08,Maize,Madhya Pradesh,Anjad APMC,Yellow,FAQ,1750.0,2050.0,2125.0,Rs./Quintal,True
+2024-05-08,Maize,Madhya Pradesh,Anjad APMC,Deshi Red,FAQ,2100.0,2100.0,2125.0,Rs./Quintal,True
+2024-05-08,Maize,Madhya Pradesh,Badwani APMC,Local,FAQ,1735.0,1800.0,2050.0,Rs./Quintal,True
+2024-05-08,Maize,Madhya Pradesh,Chaurai APMC,Yellow,FAQ,2145.0,2145.0,2010.0,Rs./Quintal,True
+2024-05-08,Maize,Madhya Pradesh,Dhamnod APMC,Yellow,FAQ,1660.0,2149.0,2161.0,Rs./Quintal,True
+2024-05-08,Maize,Madhya Pradesh,Indore APMC,Popcorn,FAQ,10800.0,10800.0,1930.0,Rs./Quintal,True
+2024-05-08,Maize,Madhya Pradesh,Karhi APMC,Local,FAQ,1885.0,1885.0,1925.0,Rs./Quintal,True
+2024-05-08,Maize,Madhya Pradesh,Pandhana APMC,Local,FAQ,1725.0,1725.0,2125.0,Rs./Quintal,True
+2024-05-08,Maize,Madhya Pradesh,Rajgarh APMC,Local,FAQ,2050.0,2079.0,2251.0,Rs./Quintal,True
+2024-05-08,Maize,Madhya Pradesh,Seoni APMC,Local,FAQ,2020.0,2113.0,1999.0,Rs./Quintal,True
+2024-06-01,Maize,Madhya Pradesh,Anjad APMC,Local,FAQ,2300.0,2300.0,2135.0,Rs./Quintal,True
+2024-06-01,Maize,Madhya Pradesh,Betul APMC,Local,FAQ,2234.0,2311.0,2050.0,Rs./Quintal,True
+2024-06-01,Maize,Madhya Pradesh,Khategaon APMC,Local,FAQ,2066.0,2066.0,2200.0,Rs./Quintal,True
+2024-06-08,Maize,Madhya Pradesh,Anjad APMC,Yellow,FAQ,2280.0,2290.0,2000.0,Rs./Quintal,True
+2024-06-08,Maize,Madhya Pradesh,Indore APMC,Deshi Red,FAQ,2253.0,2253.0,1900.0,Rs./Quintal,True
+2024-06-08,Maize,Madhya Pradesh,Seoni APMC,Yellow,FAQ,2090.0,2095.0,2251.0,Rs./Quintal,True
+2024-07-01,Maize,Madhya Pradesh,Sendhwa APMC,Deshi Red,FAQ,2250.0,2300.0,2370.0,Rs./Quintal,True
+2024-07-08,Maize,Madhya Pradesh,Betul APMC,Local,FAQ,2325.0,2332.0,2400.0,Rs./Quintal,True
+2024-07-08,Maize,Madhya Pradesh,Dhamnod APMC,Local,FAQ,2401.0,2427.0,2100.0,Rs./Quintal,True
+2024-07-08,Maize,Madhya Pradesh,Indore APMC,Deshi Red,FAQ,2225.0,2331.0,1900.0,Rs./Quintal,True
+2024-07-08,Maize,Madhya Pradesh,Pipariya APMC,Popcorn,FAQ,2295.0,2295.0,2310.0,Rs./Quintal,True
+2024-02-08,Groundnut,Madhya Pradesh,Neemuch APMC,Bold,FAQ,5800.0,6223.0,5000.0,Rs./Quintal,True
+2024-05-08,Groundnut,Madhya Pradesh,Sendhwa APMC,Bold,FAQ,6500.0,6500.0,6600.0,Rs./Quintal,True
+2024-05-08,Groundnut,Madhya Pradesh,Sendhwa APMC,Big (With Shell),FAQ,5000.0,5311.0,6600.0,Rs./Quintal,True
+2024-05-08,Groundnut,Madhya Pradesh,Sendhwa APMC,Peanuts-Organic,FAQ,5800.0,5800.0,6600.0,Rs./Quintal,True
+2024-05-08,Groundnut,Madhya Pradesh,Sendhwa APMC,Other,FAQ,5500.0,5800.0,6600.0,Rs./Quintal,True
+2024-06-01,Groundnut,Madhya Pradesh,Alirajpur APMC,Other,FAQ,6200.0,6200.0,6100.0,Rs./Quintal,True
+2024-06-01,Groundnut,Madhya Pradesh,Jobat APMC,Other,FAQ,5611.0,5825.0,6000.0,Rs./Quintal,True
+2024-06-01,Groundnut,Madhya Pradesh,Sendhwa APMC,Peanuts-Organic,FAQ,5700.0,5900.0,5650.0,Rs./Quintal,True
+2024-01-01,Onion,Madhya Pradesh,Indore APMC,Other,FAQ,1535.0,2299.0,700.0,Rs./Quintal,True
+2024-01-01,Onion,Madhya Pradesh,Neemuch APMC,Red,FAQ,660.0,1178.0,420.0,Rs./Quintal,True
+2024-02-01,Onion,Madhya Pradesh,Sailana APMC,Other,FAQ,532.0,532.0,105.0,Rs./Quintal,True
+2024-02-01,Onion,Madhya Pradesh,Shajapur APMC,Onion,FAQ,785.0,785.0,655.0,Rs./Quintal,True
+2024-03-01,Onion,Madhya Pradesh,Akodiya APMC,Big,FAQ,400.0,1501.0,300.0,Rs./Quintal,True
+2024-03-01,Onion,Madhya Pradesh,Indore APMC,Other,FAQ,1195.0,1768.0,1800.0,Rs./Quintal,True
+2024-03-01,Onion,Madhya Pradesh,Ratlam APMC,Nasik,FAQ,340.0,803.0,880.0,Rs./Quintal,True
+2024-06-01,Onion,Madhya Pradesh,Ashta APMC,Medium,FAQ,350.0,400.0,700.0,Rs./Quintal,True
+2024-06-01,Onion,Madhya Pradesh,Badnagar APMC,Other,FAQ,251.0,315.0,600.0,Rs./Quintal,True
+2024-06-01,Onion,Madhya Pradesh,Badnagar APMC,Small,FAQ,500.0,500.0,600.0,Rs./Quintal,True
+2024-06-01,Onion,Madhya Pradesh,Indore APMC,White,FAQ,1690.0,1690.0,1719.0,Rs./Quintal,True
+2024-06-01,Onion,Madhya Pradesh,Neemuch APMC,Onion,FAQ,1290.0,1290.0,1340.0,Rs./Quintal,True
+2024-05-01,Onion,Madhya Pradesh,Akodiya APMC,Big,FAQ,570.0,1501.0,300.0,Rs./Quintal,True
+2024-05-01,Onion,Madhya Pradesh,Neemuch APMC,Onion,FAQ,737.0,999.0,1553.0,Rs./Quintal,True
+2024-05-01,Onion,Madhya Pradesh,Sailana APMC,Local,FAQ,520.0,520.0,470.0,Rs./Quintal,True
+2024-05-01,Onion,Madhya Pradesh,Shajapur APMC,Onion,FAQ,1004.0,1084.0,1500.0,Rs./Quintal,True
+2024-07-01,Onion,Madhya Pradesh,Ashta APMC,White,FAQ,1353.0,1353.0,1310.0,Rs./Quintal,True
+2024-07-01,Onion,Madhya Pradesh,Badnagar APMC,Onion-Organic,FAQ,1200.0,1200.0,600.0,Rs./Quintal,True
+2024-07-01,Onion,Madhya Pradesh,Badnawar APMC,Bellary,FAQ,1100.0,1100.0,2000.0,Rs./Quintal,True
+2024-07-01,Onion,Madhya Pradesh,Bhopal APMC,Bellary,FAQ,1870.0,1870.0,2600.0,Rs./Quintal,True
+2024-07-01,Onion,Madhya Pradesh,Indore APMC,Other,FAQ,1805.0,2784.0,2800.0,Rs./Quintal,True
+2024-07-01,Onion,Madhya Pradesh,Indore APMC,White,FAQ,1220.0,1220.0,2800.0,Rs./Quintal,True
+2024-07-01,Onion,Madhya Pradesh,Shujalpur APMC,Small,FAQ,600.0,600.0,2500.0,Rs./Quintal,True
+2024-01-01,Potato,Madhya Pradesh,Shajapur APMC,Red,FAQ,286.0,827.0,101.0,Rs./Quintal,True
+2024-02-01,Potato,Madhya Pradesh,Shajapur APMC,Red,FAQ,653.0,653.0,1100.0,Rs./Quintal,True
+2024-02-01,Potato,Madhya Pradesh,Shajapur APMC,Local,FAQ,569.0,774.0,1100.0,Rs./Quintal,True
+2024-02-01,Potato,Madhya Pradesh,Ujjain APMC,Chips,FAQ,1150.0,1150.0,500.0,Rs./Quintal,True
+2024-03-01,Potato,Madhya Pradesh,Indore APMC,Potato,FAQ,975.0,975.0,1573.0,Rs./Quintal,True
+2024-06-01,Potato,Madhya Pradesh,Indore APMC,Potato,FAQ,1485.0,1485.0,2000.0,Rs./Quintal,True
+2024-06-01,Potato,Madhya Pradesh,Ujjain APMC,Chips,FAQ,2200.0,2200.0,2340.0,Rs./Quintal,True

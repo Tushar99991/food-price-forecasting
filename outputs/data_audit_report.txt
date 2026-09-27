@@ -1,0 +1,15 @@
+FOOD PRICE FORECASTING — DATA AUDIT REPORT
+======================================================================
+
+Raw CSV rows scanned: 484,504
+Malformed CSV rows: 484,504
+Loaded raw observations: 484,504
+Valid Date + positive Modal Price rows: 484,504
+Exact duplicate rows: 0
+Duplicate forecasting keys: 0
+Unique crops: 10
+Unique markets: 3245
+Unique states: 32
+Date range: 2015-01-01 to 2025-12-08
+Missing 2015–2025 crop-months: 110
+Monthly dataset rows: 1,210
