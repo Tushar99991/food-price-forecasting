@@ -12,7 +12,7 @@ const navigation = [
   { href: "/methodology", label: "Methodology" },
 ];
 
-const developerPortfolioUrl = "https://your-portfolio-url.com";
+const developerPortfolioUrl = "https://tp-portfolio-inky.vercel.app/";
 
 export default function Navbar() {
   const pathname = usePathname();
